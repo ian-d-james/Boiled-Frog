@@ -3729,7 +3729,6 @@
 			margin: 0;
 			padding: 0;
 			position: absolute;
-			color: red;
 			top: 0;
 		}
 
@@ -3746,7 +3745,7 @@
 			#header > .logo span {
 				font-weight: 400;
 				font-size: .8em;
-				color: red;
+				color: rgba(255, 255, 255, 0.65);
 			}
 
 		#header > a {
@@ -4160,7 +4159,7 @@
 				}
 
 			.banner > article h2 {
-				font-size: 7rem;
+				font-size: 5rem;
 				margin-bottom: 0;
 				color: #FFF;
 				font-weight: 300;
