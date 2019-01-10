@@ -1693,7 +1693,7 @@
 		}
 
 	h2 {
-		font-size: 1.75rem;
+		font-size: 1.5rem;
 	}
 
 	h3 {
@@ -4282,7 +4282,7 @@
 /* Footer */
 
 	#footer {
-		padding: 4rem 0 2rem 0 ;
+		padding: 1rem 0 2rem 0 ;
 		background: #000;
 		text-align: center;
 	}
@@ -4306,7 +4306,7 @@
 		@media screen and (max-width: 736px) {
 
 			#footer {
-				padding: 3rem 0 1rem 0 ;
+				padding: 1rem 0 1rem 0 ;
 			}
 
 		}
@@ -4315,5 +4315,10 @@
 
 .tagline {
 	font-style: italic;
-
+	color:#ffff;
+}
+.security {
+	display: block;
+	float: right;
+	margin-right:10px;
 }

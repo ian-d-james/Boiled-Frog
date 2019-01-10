@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>https://boiledfrog.ca/</loc>
+
+      <lastmod>2019-01-10</lastmod>
+
+      <changefreq>never</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://boiledfrog.ca/moving-on.html</loc>
+
+      <changefreq>weekly</changefreq>
+	  
+	        <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://boiledfrog.ca/accountability.html</loc>
+
+      <changefreq>weekly</changefreq>
+	  
+	        <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://boiledfrog.ca/wilful-ignorance.html</loc>
+
+      <changefreq>weekly</changefreq>
+	  
+	        <priority>0.8</priority>
+
+   </url>
+   
+    <url>
+
+      <loc>https://boiledfrog.ca/negligence.html</loc>
+
+      <changefreq>weekly</changefreq>
+	  
+	        <priority>0.8</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>https://boiledfrog.ca/government-policy.html</loc>
+
+      <changefreq>weekly</changefreq>
+	  
+	        <priority>0.8</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>https://boiledfrog.ca/effect-change.html</loc>
+
+      <changefreq>weekly</changefreq>
+	  
+	        <priority>0.8</priority>
+
+   </url>
+   
+      <url>
+
+      <loc>https://boiledfrog.ca/references.html</loc>
+
+      <changefreq>weekly</changefreq>
+	  
+	        <priority>0.8</priority>
+
+   </url>
+   
+</urlset>
