@@ -4314,11 +4314,19 @@
 /* Ian's Edits */
 
 .tagline {
+
 	font-style: italic;
-	color:#ffff;
+	color:#ffffff;
 }
+
 .security {
+
 	display: block;
 	float: right;
 	margin-right:10px;
+}
+
+.borders {
+	
+	border:1px solid #aaaaaa;
 }
