@@ -25,6 +25,87 @@
 
 	</head>
 
+	<?php
+
+	define('ENVIR',0);
+	define('ENVIR_DEV',0);
+	define('ENVIR_LIVE',1);
+	
+	define('DB_USER','ianja_admin');
+	define('DB_PWD','Gabriola1957');
+	define('DB_HOST','localhost:3306);
+	define('DB_NAME','ianjames_0_boiledfrog');
+	
+	/* Connect to database */
+
+	try {
+		$db = new PDO('mysql:host='.DB_HOST.';dbname='.DB_NAME,DB_USER,DB_PWD);
+	} catch(PDOExeption $e) {
+	
+		if(ENVIR == ENVIR_DEV) {
+			echo '<p>',$e->getMessage(),'</p>';
+		}
+	
+		echo '<p>Unable to connect to database<p>';
+		exit;
+	}
+	
+	/* Template variables */
+
+	$tpl = array(
+		'filter'=>array(
+			 '#action'		=> $_SERVER['SCRIPT_NAME']
+			,'#method'  	=> 'get'
+			,'last_name'	=> array(
+				'#values'=>array(
+					 array('value'=>'','label'=>'All')
+				)
+			)
+		)
+		,'grid'=>array(
+			'names'=>array()
+		)
+	);
+	
+	/* Populate form filter last name options */
+
+	$stmt = $db->query('SELECT LastName FROM names GROUP BY LastName ORDER BY LastName ASC');
+	
+	if($stmt === false) {
+		echo '<p>Unable to populate required data to build page.</p>';
+		exit;
+	}
+	
+	while($row=$stmt->fetch(PDO::FETCH_ASSOC)) {
+		$tpl['filter']['last_name']['#values'][] = array(
+			 'label'		=> $row['LastName']
+			,'value'		=> $row['LastName']
+			,'selected'		=> isset($_GET['filter'],$_GET['filter']['last_name']) && $_GET['filter']['last_name'] == $row['LastName']
+		);
+	}
+	
+	
+	/* Populate user grid */
+
+	$stmt = $db->prepare(sprintf(
+		'SELECT FirstName,LastName FROM names %s'
+		, isset($_GET['filter'],$_GET['filter']['last_name']) && !empty($_GET['filter']['last_name'])?'WHERE LastName = :lastname':''
+	));
+	
+	if($stmt === false) {
+		echo '<p>Unable to populate required data to build page.</p>';
+		exit;
+	}
+	
+	$stmt->execute(isset($_GET['filter'],$_GET['filter']['last_name']) && !empty($_GET['filter']['last_name'])?array(':lastname'=>$_GET['filter']['last_name']):array());
+	
+	while($row=$stmt->fetch(PDO::FETCH_ASSOC)) {
+		$tpl['grid']['names'][] = $row;
+	}
+	
+	/* Start template output */
+	?>
+
 	<body class="subpage">
 
 		<!-- Header -->
@@ -60,29 +141,67 @@
 
 		<!-- Two -->
 			<section id="two" class="wrapper style2">
-				<div class="inner">
-					<div class="box">
-						<div class="content">
-							<header class="align-center">
-								<p>Prerak Trivedi</p>
-								<h3>Knowledge is not the thing to boast or to brag!<br />
-									It's about how you can make influence on lives without uttering a single word.
-								</h3>
-							</header>
-							<br /><br />
-							<p>Coming soon.</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at dignissim augue, in iaculis neque. Etiam bibendum felis ac vulputate pellentesque. Cras non blandit quam. Nunc porta, est non posuere sagittis, neque nunc pellentesque diam, a iaculis lacus urna vitae purus. In non dui vel est tempor faucibus. Aliquam erat volutpat. Quisque vel est vitae nibh laoreet auctor. In nec libero dui. Nulla ullamcorper, dolor nec accumsan viverra, libero eros rutrum metus, vel lacinia magna odio non nunc. Praesent semper felis eu rhoncus aliquam. Donec at quam ac libero vestibulum pretium. Nunc faucibus vel arcu in malesuada. Aenean at velit odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas commodo erat eget molestie sollicitudin. Donec imperdiet, ex sed blandit dictum, ipsum metus ultrices arcu, vitae euismod nisl sapien vitae tortor.</p>
+<!-- user filter template -->
+<form action="<?php echo $tpl['filter']['#action']; ?>" method="<?php echo $tpl['filter']['#method']; ?>">
+	<fieldset>
+		<legend>Filter Names</legend>
+		<ul>
+			<li>
+				<label for="filter-last-name">Last Name</label>
+				<select name="filter[last_name]" id="filter-last-name">
+					<?php 
+					foreach($tpl['filter']['last_name']['#values'] as &$option) {
+						printf(
+							'<option value="%s"%s>%s</option>'
+							,htmlentities($option['value'])
+							,$option['selected']?' selected':''
+							,htmlentities($option['label'])
+						);
+					} 
+					?>
+				</select>
+			</li>
+			<li>
+				<input type="submit" name="filter[submit]" value="Filter Names"> 
+			</li>
+		</ul>
+	</fieldset>
+</form>
 
-							<p>Vivamus nec odio ac ligula congue feugiat at vitae leo. Aenean sem justo, finibus sed dui eu, accumsan facilisis dolor. Fusce quis dui eget odio iaculis aliquam vel sed velit. Nulla pellentesque posuere semper. Nulla eu sagittis lorem, a auctor nulla. Sed ac condimentum orci, ac varius ante. Nunc blandit quam sit amet sollicitudin sodales.</p>
+<!-- data grid template -->
+<table>
+	<caption>Names</caption>
+	<thead>
+		<tr>
+			<th>First Name</th>
+			<th>Last Name</th>
+		</tr>
+	</thead>
+	<tbody>
+		<?php
+			if(!empty($tpl['grid']['names'])) {
+				foreach($tpl['grid']['names'] as &$name) {
+					printf(
+						'<tr>
+							<td>%s</td>
+							<td>%s</td>
+						 </tr>'
+						 ,htmlentities($name['FirstName'])
+						 ,htmlentities($name['LastName'])
+					);
+				}
+			} else {
+				echo '<tr><td colspan="2">No names available</td></tr>';
+			}
+		?>
+	</tbody>
+</table>
 
-							<p>Vivamus ultricies mollis mauris quis molestie. Quisque eu mi velit. In et cursus nibh. Donec facilisis, orci sed mollis hendrerit, nunc risus mattis odio, eget efficitur nisl orci a lectus. Aenean finibus neque convallis orci sollicitudin tincidunt. Vivamus lacinia facilisis diam, quis facilisis nisi luctus nec. Aliquam ac molestie enim, ut ultrices elit. Fusce laoreet vulputate risus in tincidunt. Sed commodo mollis maximus. Nullam varius laoreet nibh sit amet facilisis. Donec ac odio vehicula, consequat elit et, sodales justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam ac auctor mauris, in hendrerit libero. </p>
-						</div>
-					</div>
-				</div>
 			</section>
 
 		<!-- Footer -->
 			<footer id="footer">
+				<span class="security"><a target="_blank" href="https://www.rapidssl.com"><img src="images/RapidSSL.png" /></a></span>
 				<div class="container">
 					<ul class="icons">
 						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
@@ -92,7 +211,7 @@
 					</ul>
 				</div>
 				<div class="copyright">
-					&copy; Untitled. All rights reserved.
+					Boiled Frog &copy;2019 All rights reserved
 				</div>
 			</footer>
 
