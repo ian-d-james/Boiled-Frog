@@ -24,18 +24,14 @@
 		</script>
 
 	</head>
-
+	
 	<?php
 
-	define('ENVIR',0);
-	define('ENVIR_DEV',0);
-	define('ENVIR_LIVE',1);
-	
 	define('DB_USER','ianja_admin');
 	define('DB_PWD','Gabriola1957');
-	define('DB_HOST','localhost:3306);
+	define('DB_HOST','localhost:3306');
 	define('DB_NAME','ianjames_0_boiledfrog');
-	
+
 	/* Connect to database */
 
 	try {
@@ -49,16 +45,18 @@
 		echo '<p>Unable to connect to database<p>';
 		exit;
 	}
-	
-	/* Template variables */
+
+	/*
+	* Template variables
+	*/
 
 	$tpl = array(
 		'filter'=>array(
-			 '#action'		=> $_SERVER['SCRIPT_NAME']
+			'#action'		=> $_SERVER['SCRIPT_NAME']
 			,'#method'  	=> 'get'
-			,'last_name'	=> array(
+			,'category_name'	=> array(
 				'#values'=>array(
-					 array('value'=>'','label'=>'All')
+					array('value'=>'','label'=>'All')
 				)
 			)
 		)
@@ -66,45 +64,130 @@
 			'names'=>array()
 		)
 	);
-	
-	/* Populate form filter last name options */
 
-	$stmt = $db->query('SELECT LastName FROM names GROUP BY LastName ORDER BY LastName ASC');
-	
+	/*
+	* Populate form filter last name options
+	*/
+
+	$stmt = $db->query('SELECT Category FROM names GROUP BY Category ORDER BY Category ASC');
+
 	if($stmt === false) {
 		echo '<p>Unable to populate required data to build page.</p>';
 		exit;
 	}
-	
+
 	while($row=$stmt->fetch(PDO::FETCH_ASSOC)) {
-		$tpl['filter']['last_name']['#values'][] = array(
-			 'label'		=> $row['LastName']
-			,'value'		=> $row['LastName']
-			,'selected'		=> isset($_GET['filter'],$_GET['filter']['last_name']) && $_GET['filter']['last_name'] == $row['LastName']
+		$tpl['filter']['category_name']['#values'][] = array(
+			'label'		=> $row['Category']
+			,'value'		=> $row['Category']
+			,'selected'		=> isset($_GET['filter'],$_GET['filter']['category_name']) && $_GET['filter']['category_name'] == $row['Category']
 		);
 	}
-	
-	
-	/* Populate user grid */
+
+	/*
+	* Populate user grid
+	*/
 
 	$stmt = $db->prepare(sprintf(
-		'SELECT FirstName,LastName FROM names %s'
-		, isset($_GET['filter'],$_GET['filter']['last_name']) && !empty($_GET['filter']['last_name'])?'WHERE LastName = :lastname':''
+		'SELECT SiteName,SiteURL,Category FROM names %s'
+		, isset($_GET['filter'],$_GET['filter']['category_name']) && !empty($_GET['filter']['category_name'])?'WHERE Category = :Category':''
 	));
-	
+
 	if($stmt === false) {
 		echo '<p>Unable to populate required data to build page.</p>';
 		exit;
 	}
-	
-	$stmt->execute(isset($_GET['filter'],$_GET['filter']['last_name']) && !empty($_GET['filter']['last_name'])?array(':lastname'=>$_GET['filter']['last_name']):array());
-	
+
+	$stmt->execute(isset($_GET['filter'],$_GET['filter']['category_name']) && !empty($_GET['filter']['category_name'])?array(':Category'=>$_GET['filter']['category_name']):array());
+
 	while($row=$stmt->fetch(PDO::FETCH_ASSOC)) {
 		$tpl['grid']['names'][] = $row;
 	}
-	
-	/* Start template output */
+
 	?>
+
+	<!-- One -->
+	<section id="One" class="wrapper style3">
+		<div class="inner">
+			<header class="align-center">
+				<p>Online References</p>
+				<h2>Links to Climate Change Sites and Articles</h2>
+			</header>
+		</div>
+	</section>
+
+		<!-- Two -->
+		<section id="two" class="wrapper style2">
+				<div class="inner">
+					<div class="box">
+						<div class="content">
+							<header class="align-center">
+								<p>Chinonye J. Chidolue</p>
+								<h2>"The river of knowledge has no depth"</h2>
+							</header>
+
+								<!-- user filter template -->
+								<form action="<?php echo $tpl['filter']['#action']; ?>" method="<?php echo $tpl['filter']['#method']; ?>">
+									<fieldset>
+										<legend style="color:black; margin-left:25px;">Filter links by article category</legend>
+										<ul style="margin-top:10px; list-style:none;">
+											<li>
+												<select name="filter[category_name]" id="filter-last-name">
+													<?php 
+													foreach($tpl['filter']['category_name']['#values'] as &$option) {
+														printf(
+															'<option value="%s"%s>%s</option>'
+															,htmlentities($option['value'])
+															,$option['selected']?' selected':''
+															,htmlentities($option['label'])
+														);
+													} 
+													?>
+												</select>
+											</li>
+											<li>
+												<input style="margin-top:6px;" type="submit" name="filter[submit]" value="Filter"> 
+											</li>
+										</ul>
+									</fieldset>
+								</form>
+
+								<!-- data grid template -->
+								<table  style="color:black; font-size:14px;">
+									<thead>
+										<tr>
+											<th>Site/Article Name</th>
+											<th>Site URL</th>
+											<th>Category</th>
+										</tr>
+									</thead>
+									<tbody>
+										<?php
+											if(!empty($tpl['grid']['names'])) {
+												foreach($tpl['grid']['names'] as &$name) {
+													printf(
+														'<tr>
+															<td>%s</td>
+															<td><a style="text-decoration:none;" target="_blank" href="%s">%s</a></td>
+															<td>%s</td>
+														</tr>'
+														,htmlentities($name['SiteName'])
+														,htmlentities($name['SiteURL'])
+														,htmlentities($name['SiteURL'])
+														,htmlentities($name['Category'])
+													);
+												}
+											} else {
+												echo '<tr><td colspan="2">No names available</td></tr>';
+											}
+										?>
+									</tbody>
+								</table>
+
+						</div>
+				</div>
+			</div>
+		</section>							
 
 	<body class="subpage">
 
@@ -137,66 +220,6 @@
 						<h2>Resources to Educate, Embolden and Empower</h2>
 					</header>
 				</div>
-			</section>
-
-		<!-- Two -->
-			<section id="two" class="wrapper style2">
-<!-- user filter template -->
-<form action="<?php echo $tpl['filter']['#action']; ?>" method="<?php echo $tpl['filter']['#method']; ?>">
-	<fieldset>
-		<legend>Filter Names</legend>
-		<ul>
-			<li>
-				<label for="filter-last-name">Last Name</label>
-				<select name="filter[last_name]" id="filter-last-name">
-					<?php 
-					foreach($tpl['filter']['last_name']['#values'] as &$option) {
-						printf(
-							'<option value="%s"%s>%s</option>'
-							,htmlentities($option['value'])
-							,$option['selected']?' selected':''
-							,htmlentities($option['label'])
-						);
-					} 
-					?>
-				</select>
-			</li>
-			<li>
-				<input type="submit" name="filter[submit]" value="Filter Names"> 
-			</li>
-		</ul>
-	</fieldset>
-</form>
-
-<!-- data grid template -->
-<table>
-	<caption>Names</caption>
-	<thead>
-		<tr>
-			<th>First Name</th>
-			<th>Last Name</th>
-		</tr>
-	</thead>
-	<tbody>
-		<?php
-			if(!empty($tpl['grid']['names'])) {
-				foreach($tpl['grid']['names'] as &$name) {
-					printf(
-						'<tr>
-							<td>%s</td>
-							<td>%s</td>
-						 </tr>'
-						 ,htmlentities($name['FirstName'])
-						 ,htmlentities($name['LastName'])
-					);
-				}
-			} else {
-				echo '<tr><td colspan="2">No names available</td></tr>';
-			}
-		?>
-	</tbody>
-</table>
-
 			</section>
 
 		<!-- Footer -->
