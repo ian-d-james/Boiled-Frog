@@ -4298,7 +4298,7 @@
 		#footer .copyright {
 			color: #bbb;
 			font-size: 0.9rem;
-			margin: 0 0 2rem 0;
+			margin: 0 0 2rem 7rem;
 			padding: 0;
 			text-align: center;
 		}
@@ -4324,6 +4324,16 @@
 	display: block;
 	float: right;
 	margin-right:10px;
+}
+
+.logo {
+
+	display: block;
+	float: left;
+	margin-top:10px;
+	margin-left:20px;
+	margin-right: 10px;
+
 }
 
 .borders {

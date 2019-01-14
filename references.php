@@ -27,6 +27,14 @@
 	
 	<?php
 
+	if (isset($_GET['pageno'])) {
+		$pageno = $_GET['pageno'];
+	} else {
+		$pageno = 1;
+	}
+	$no_of_records_per_page = 5;
+	$offset = ($pageno-1) * $no_of_records_per_page;
+
 	define('DB_USER','ianja_admin');
 	define('DB_PWD','Gabriola1957');
 	define('DB_HOST','localhost:3306');
@@ -87,6 +95,23 @@
 	/*
 	* Populate user grid
 	*/
+
+	$total = $db->query('SELECT COUNT(*) FROM names')->fetchColumn();;
+	$pages = ceil($total / $no_of_records_per_page);
+
+	$page = min($pages, filter_input(INPUT_GET, 'page', FILTER_VALIDATE_INT, array(
+        'options' => array(
+            'default'   => 1,
+            'min_range' => 1,
+        ),
+    )));
+
+    // Calculate the offset for the query
+    $offset = ($page - 1)  * $limit;
+
+    // Some information to display to the user
+    $start = $offset + 1;
+    $end = min(($offset + $limit), $total);
 
 	$stmt = $db->prepare(sprintf(
 		'SELECT SiteName,SiteURL,Category FROM names %s'
@@ -225,6 +250,7 @@
 
 		<!-- Footer -->
 			<footer id="footer">
+				<span class="logo"><a target="_blank" href="https://boiledfrog.ca"><img src="images/logo.png" /></a></span>
 				<span class="security"><a target="_blank" href="https://www.rapidssl.com"><img src="images/RapidSSL.png" /></a></span>
 				<div class="container">
 					<ul class="icons">
