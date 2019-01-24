@@ -4298,9 +4298,8 @@
 		#footer .copyright {
 			color: #bbb;
 			font-size: 0.9rem;
-			margin: 0 0 2rem 7rem;
 			padding: 0;
-			text-align: center;
+			text-align: left;
 		}
 
 		@media screen and (max-width: 736px) {
@@ -4315,6 +4314,8 @@
 
 .tagline {
 
+	margin-left:30px;
+	font-size:11px;
 	font-style: italic;
 	color:#ffffff;
 }
@@ -4331,8 +4332,17 @@
 	display: block;
 	float: left;
 	margin-top:10px;
-	margin-left:20px;
+	margin-left:10px;
 	margin-right: 10px;
+
+}
+
+.copy {
+
+	color: #bbb;
+	font-size: 0.7rem;
+	margin-top:20px;
+	text-align: left;
 
 }
 
@@ -4340,5 +4350,4 @@
 	
 	border:1px solid #aaaaaa;
 }
-
 
