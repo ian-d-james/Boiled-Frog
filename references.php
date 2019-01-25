@@ -12,6 +12,7 @@
 		<meta name="keywords" content="environment, climate, change, global, warming, greenhouse, enhanced, effect, accountability, criminality, cuplability, IPCC, NASA">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/table.css" />
 
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58191121-2"></script>
@@ -24,114 +25,77 @@
 		</script>
 
 	</head>
-	
+
 	<?php
 
-	if (isset($_GET['pageno'])) {
-		$pageno = $_GET['pageno'];
-	} else {
-		$pageno = 1;
-	}
-	$no_of_records_per_page = 5;
-	$offset = ($pageno-1) * $no_of_records_per_page;
-
-	define('DB_USER','ianja_admin');
-	define('DB_PWD','Gabriola1957');
-	define('DB_HOST','localhost:3306');
-	define('DB_NAME','ianjames_0_boiledfrog');
-
-	/* Connect to database */
-
-	try {
-		$db = new PDO('mysql:host='.DB_HOST.';dbname='.DB_NAME,DB_USER,DB_PWD);
-	} catch(PDOExeption $e) {
+	include('connection.php');
+	include('function.php');
 	
-		if(ENVIR == ENVIR_DEV) {
-			echo '<p>',$e->getMessage(),'</p>';
-		}
+	$myCondition = Array();
+	if(isset($_REQUEST["name"]) && strlen($_REQUEST["name"]) > 0){
+		$name = $_REQUEST["name"];
+		array_push($myCondition," name LIKE '%".trim($name)."%' OR id LIKE '%".trim($name)."%'");
+	}
+	else
+		$name = "";
 	
-		echo '<p>Unable to connect to database<p>';
-		exit;
-	}
+	if(count($myCondition) > 0)
+		$myCondition = " WHERE (".implode(" AND ", $myCondition).")";
+	else
+		$myCondition = "";
+	
+	if(!isset($_REQUEST["cpage"]) || intval($_REQUEST["cpage"])==0)
+	$cpage=1;
+	else
+		$cpage = $_REQUEST["cpage"];
 
-	/*
-	* Template variables
-	*/
+	$pagesize = 10;
 
-	$tpl = array(
-		'filter'=>array(
-			'#action'		=> $_SERVER['SCRIPT_NAME']
-			,'#method'  	=> 'get'
-			,'category_name'	=> array(
-				'#values'=>array(
-					array('value'=>'','label'=>'All')
-				)
-			)
-		)
-		,'grid'=>array(
-			'names'=>array()
-		)
-	);
+	$startdisp = $pagesize*($cpage-1);
+	
+	$qry .= "select * from names $myCondition";
+	$qry .= " LIMIT $startdisp,$pagesize";
+	$count = "select count(*) from names $myCondition";
+	
+	$res = mysql_query($qry) or die ('Error :: in fetch data<br>'.mysql_error());
+	$total_res = mysql_num_rows($res);
+	$res_count = mysql_query($count) or die ('Error :: in count result<br>'.mysql_error());
+	
+	if($tcount=mysql_fetch_array($res_count))
+		$fcount = $tcount[0];
+	else
+		$fcount = 1;
+	
+	$TotalPages = ceil(($fcount)/$pagesize);
+	mysql_free_result($res_count);
 
-	/*
-	* Populate form filter last name options
-	*/
+?>
 
-	$stmt = $db->query('SELECT Category FROM names GROUP BY Category ORDER BY Category ASC');
+<body class="subpage">
 
-	if($stmt === false) {
-		echo '<p>Unable to populate required data to build page.</p>';
-		exit;
-	}
+<!-- Header -->
+	<header id="header">
+		<div class="logo"><a href="http://boiledfrog.ca">Boiled Frog</a></div>
+		<a href="#menu">Menu</a>
+	</header>
 
-	while($row=$stmt->fetch(PDO::FETCH_ASSOC)) {
-		$tpl['filter']['category_name']['#values'][] = array(
-			'label'		=> $row['Category']
-			,'value'		=> $row['Category']
-			,'selected'		=> isset($_GET['filter'],$_GET['filter']['category_name']) && $_GET['filter']['category_name'] == $row['Category']
-		);
-	}
-
-	/*
-	* Populate user grid
-	*/
-
-	$total = $db->query('SELECT COUNT(*) FROM names')->fetchColumn();;
-	$pages = ceil($total / $no_of_records_per_page);
-
-	$page = min($pages, filter_input(INPUT_GET, 'page', FILTER_VALIDATE_INT, array(
-        'options' => array(
-            'default'   => 1,
-            'min_range' => 1,
-        ),
-    )));
-
-    // Calculate the offset for the query
-    $offset = ($page - 1)  * $limit;
-
-    // Some information to display to the user
-    $start = $offset + 1;
-    $end = min(($offset + $limit), $total);
-
-	$stmt = $db->prepare(sprintf(
-		'SELECT SiteName,SiteURL,Category FROM names %s'
-		, isset($_GET['filter'],$_GET['filter']['category_name']) && !empty($_GET['filter']['category_name'])?'WHERE Category = :Category':''
-	));
-
-	if($stmt === false) {
-		echo '<p>Unable to populate required data to build page.</p>';
-		exit;
-	}
-
-	$stmt->execute(isset($_GET['filter'],$_GET['filter']['category_name']) && !empty($_GET['filter']['category_name'])?array(':Category'=>$_GET['filter']['category_name']):array());
-
-	while($row=$stmt->fetch(PDO::FETCH_ASSOC)) {
-		$tpl['grid']['names'][] = $row;
-	}
-
-	?>
+<!-- Nav -->
+	<nav id="menu">
+		<ul class="links">
+		<li><a href="index.html">Home</a></li>
+				<li><a href="moving-on.html">Moving on</a></li>
+				<li><a href="accountability.html">Accountability</a></li>
+				<li><a href="wilful-ignorance.html">Wilful ignorance</a></li>
+				<li><a href="negligence.html">Failure to act</a></li>
+				<li><a href="government-policy.html">Government policy</a></li>
+				<li><a href="capitalism.html">Capitalism</a></li>
+				<li><a href="effect-change.html">Effecting change</a></li>
+				<li><a href="references.php">References</a></li>
+		</ul>
+	</nav>
 
 	<!-- One -->
+
 	<section id="One" class="wrapper style3">
 		<div class="inner">
 			<header class="align-center">
@@ -142,134 +106,94 @@
 	</section>
 
 		<!-- Two -->
-		<section id="two" class="wrapper style2">
-				<div class="inner">
-					<div class="box">
-						<div class="content">
-							<header class="align-center">
-								<p>Chinonye J. Chidolue</p>
-								<h2>"The river of knowledge has no depth"</h2>
-							</header>
 
-								<!-- user filter template -->
-								<form action="<?php echo $tpl['filter']['#action']; ?>" method="<?php echo $tpl['filter']['#method']; ?>">
-									<fieldset>
-										<legend style="color:black; margin-left:25px;">Filter links by article category</legend>
-										<ul style="margin-top:10px; list-style:none;">
-											<li>
-												<select name="filter[category_name]" id="filter-last-name">
-													<?php 
-													foreach($tpl['filter']['category_name']['#values'] as &$option) {
-														printf(
-															'<option value="%s"%s>%s</option>'
-															,htmlentities($option['value'])
-															,$option['selected']?' selected':''
-															,htmlentities($option['label'])
-														);
-													} 
-													?>
-												</select>
-											</li>
-											<li>
-												<input style="margin-top:6px;" type="submit" name="filter[submit]" value="Filter"> 
-											</li>
-										</ul>
-									</fieldset>
-								</form>
+	<section id="two" class="wrapper style2">
+			<div class="inner">
+				<div class="box">
+					<div class="content">
+						<header class="align-center">
+							<p>Chinonye J. Chidolue</p>
+							<h2>"The river of knowledge has no depth"</h2>
+						</header>
 
-								<!-- data grid template -->
-								<table  style="color:black; font-size:12px;">
-									<thead>
-										<tr>
-											<th>Site/Article Name</th>
-											<th>Site URL</th>
-											<th>Category</th>
-										</tr>
-									</thead>
-									<tbody>
-										<?php
-											if(!empty($tpl['grid']['names'])) {
-												foreach($tpl['grid']['names'] as &$name) {
-													printf(
-														'<tr>
-															<td>%s</td>
-															<td><a style="text-decoration:none;" target="_blank" href="%s">%s</a></td>
-															<td>%s</td>
-														</tr>'
-														,htmlentities($name['SiteName'])
-														,htmlentities($name['SiteURL'])
-														,htmlentities($name['SiteURL'])
-														,htmlentities($name['Category'])
-													);
-												}
-											} else {
-												echo '<tr><td colspan="2">No names available</td></tr>';
-											}
-										?>
-									</tbody>
-								</table>
+							<!-- user filter template -->
+						<form name="search_frm" id="search_frm" method="get" action="references.php" enctype="multipart/form-data">
+							<div>
+								<h3 style="margin-bottom:0px;">&nbsp;Article Search</h3>
+								<input style="width:500px; float:left; margin-top:10px; margin-right:10px;" type="text" name="name" value="<?php echo setGPC($name,"display"); ?>"/>
+								<button style="margin-top:10px;" type="submit">Search</button>
+								<input name="btnfilter" type="button" class="btn-blue" value="Clear" onclick="javascript:window.location='references.php';">
+							</div>
+						</form>
+						<br>
+						<form name="frm1" method="get" id="frm1" action="references.php" enctype="multipart/form-data">
+							<table class="blueTable">
+								<tr>
+									<th>ID</th>
+									<th>Article Name</th>
+									<th>Article URL</th>
+									<th>Category</th>
+								</tr>
+								<?php if($total_res>0){ ?>
+								<?php while($row = mysql_fetch_array($res)){ ?>
+								<tr>
+									<td><?php echo $row['id']; ?></td>
+									<td><?php echo $row['name']; ?></td>
+									<td><a style="text-decoration:none;" target="_blank" href="<?php echo $row['url']; ?>"><?php echo $row['url']; ?></a></td>
+									<td><?php echo $row['category']; ?></td>
+								</tr>
+								<?php }}else{ ?>
+								<tr>
+									<td colspan="2" align="center">No results found</td>
+								</tr>
+								<?php } ?>
+								<input type="hidden" name="cpage">
+								<input type="hidden" name="name" value="<?php echo setGPC($name,"display")?>" />
+							</table>
+						
+						</form>
 
-						</div>
+						<?php DisplayPages($cpage,$TotalPages, "frm1","Admin_Link"); ?>
+
+
+					</div>
 				</div>
 			</div>
-		</section>							
+	</section>							
 
-	<body class="subpage">
-
-		<!-- Header -->
-		<header id="header">
-				<div class="logo"><a href="http://boiledfrog.ca">Boiled Frog</a></div>
-				<a href="#menu">Menu</a>
+<!-- One -->
+	<section id="One" class="wrapper style3">
+		<div class="inner">
+			<header class="align-center">
+				<p>Knowledge is Power</p>
+				<h2>Resources to Educate, Embolden and Empower</h2>
 			</header>
+		</div>
+	</section>
 
-		<!-- Nav -->
-			<nav id="menu">
-				<ul class="links">
-				<li><a href="index.html">Home</a></li>
-						<li><a href="moving-on.html">Moving on</a></li>
-						<li><a href="accountability.html">Accountability</a></li>
-						<li><a href="wilful-ignorance.html">Wilful ignorance</a></li>
-						<li><a href="negligence.html">Failure to act</a></li>
-						<li><a href="government-policy.html">Government policy</a></li>
-						<li><a href="capitalism.html">Capitalism</a></li>
-						<li><a href="effect-change.html">Effecting change</a></li>
-						<li><a href="references.php">References</a></li>
-				</ul>
-			</nav>
+<!-- Footer -->
+<footer id="footer">
+		<div class="logo"><a target="_blank" href="https://boiledfrog.ca"><img src="images/logo.png" /></a></div>
+		<div class="copy">Boiled Frog &copy;2019 All rights reserved<div class="security"><a target="_blank" href="https://www.rapidssl.com"><img src="images/RapidSSL.png" /></a></div></div>
+		<div class="container">
+			
+			<ul style="margin-bottom:10px;" class="icons">
+				<li><a href="https://boiledfrog.ca" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="https://boiledfrog.ca" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+				<li><a href="https://boiledfrog.ca" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+				<li><a href="mailto:admin@boiledfrog.ca?Subject=Boiled Frog" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+			</ul>
 
-		<!-- One -->
-			<section id="One" class="wrapper style3">
-				<div class="inner">
-					<header class="align-center">
-						<p>Knowledge is Power</p>
-						<h2>Resources to Educate, Embolden and Empower</h2>
-					</header>
-				</div>
-			</section>
+		</div>
+		
+	</footer>
 
-		<!-- Footer -->
-		<footer id="footer">
-				<div class="logo"><a target="_blank" href="https://boiledfrog.ca"><img src="images/logo.png" /></a></div>
-				<div class="copy">Boiled Frog &copy;2019 All rights reserved<div class="security"><a target="_blank" href="https://www.rapidssl.com"><img src="images/RapidSSL.png" /></a></div></div>
-				<div class="container">
-					
-					<ul style="margin-bottom:10px;" class="icons">
-						<li><a href="https://boiledfrog.ca" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="https://boiledfrog.ca" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="https://boiledfrog.ca" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-						<li><a href="mailto:admin@boiledfrog.ca?Subject=Boiled Frog" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
-					</ul>
+<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.scrollex.min.js"></script>
+	<script src="assets/js/skel.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
 
-				</div>
-				
-			</footer>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
-	</body>
+</body>
 </html>
