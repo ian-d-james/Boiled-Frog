@@ -79,28 +79,7 @@
 			</section>
 
 		<!-- Footer -->
-		<footer id="footer">
-				<div class="logo"><a target="_blank" href="https://boiledfrog.ca"><img src="images/logo.png" /></a></div>
-				<div class="copy">Boiled Frog &copy;2019 All rights reserved<div class="security"><a target="_blank" href="https://www.rapidssl.com"><img src="images/RapidSSL.png" /></a></div></div>
-				<div class="container">
-					
-					<ul style="margin-bottom:10px;" class="icons">
-						<li><a href="https://boiledfrog.ca" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="https://boiledfrog.ca" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="https://boiledfrog.ca" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-						<li><a href="mailto:admin@boiledfrog.ca?Subject=Boiled Frog" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
-					</ul>
-
-				</div>
-				
-			</footer>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+		<?php include 'footer.html';?>
 
 	</body>
 </html>
