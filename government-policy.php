@@ -5,7 +5,7 @@
 -->
 <html>
 	<head>
- 		<title>Boiled Frog - Climate Change, Civil and Criminal Negligence</title>
+ 		<title>Boiled Frog- Climate Change Governament Policy</title>
 		<meta name="description" content="Climate Change Criminality">
 		<meta name="author" content="Ian James">
 		<meta charset="utf-8" />
@@ -23,37 +23,26 @@
 		gtag('config', 'UA-58191121-2');
 		</script>
 
+
 	</head>
 
 	<body class="subpage">
 
 		<!-- Header -->
-		<header id="header">
-				<div class="logo"><a href="http://boiledfrog.ca">Boiled Frog</a></div>
-				<a href="#menu">Menu</a>
+			<header id="header">
+					<div class="logo"><a href="http://boiledfrog.ca">Boiled Frog</a></div>
+					<a href="#menu">Menu</a>
 			</header>
 
 		<!-- Nav -->
-			<nav id="menu">
-				<ul class="links">
-						<li><a href="index.html">Home</a></li>
-						<li><a href="moving-on.html">Moving on</a></li>
-						<li><a href="accountability.html">Accountability</a></li>
-						<li><a href="wilful-ignorance.html">Wilful ignorance</a></li>
-						<li><a href="negligence.html">Failure to act</a></li>
-						<li><a href="government-policy.html">Government policy</a></li>
-						<li><a href="capitalism.html">Capitalism</a></li>
-						<li><a href="effect-change.html">Effecting change</a></li>
-						<li><a href="references.php">References</a></li>
-				</ul>
-			</nav>
+		<?php include 'navigation.html';?>
 
 		<!-- One -->
 			<section id="One" class="wrapper style3">
 				<div class="inner">
 					<header class="align-center">
-						<p>Civil and Criminal Negligence</p>
-						<h2>A Failure to Act</h2>
+						<p>Government Policy</p>
+						<h2>Environment and Climate Policies</h2>
 					</header>
 				</div>
 			</section>
@@ -64,14 +53,13 @@
 					<div class="box">
 						<div class="content">
 							<header class="align-center">
-								<p>Negligence</p>
-								<h3>A breach of a duty of care causing harm by <b>failing to act</b>. Individuals and companies must<br/>
-									exercise reasonable care in their actions, by taking account of the potential harm that they might<br />
-									foreseeably cause to other people or property.
+								<p>William E. Gladstone</p>
+								<h3>When there’s a vacuum of public input, lobbyists usually fill it. But when<br />
+									there’s public input, the people usually win.
 								</h3>
 							</header>
 							<br /><br />
-							<p>Coming soon.</p>
+							<div style="float:left; margin-right:20px;"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbbcnews%2Fvideos%2F537375130072271%2F&show_text=0&width=267" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></div>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at dignissim augue, in iaculis neque. Etiam bibendum felis ac vulputate pellentesque. Cras non blandit quam. Nunc porta, est non posuere sagittis, neque nunc pellentesque diam, a iaculis lacus urna vitae purus. In non dui vel est tempor faucibus. Aliquam erat volutpat. Quisque vel est vitae nibh laoreet auctor. In nec libero dui. Nulla ullamcorper, dolor nec accumsan viverra, libero eros rutrum metus, vel lacinia magna odio non nunc. Praesent semper felis eu rhoncus aliquam. Donec at quam ac libero vestibulum pretium. Nunc faucibus vel arcu in malesuada. Aenean at velit odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas commodo erat eget molestie sollicitudin. Donec imperdiet, ex sed blandit dictum, ipsum metus ultrices arcu, vitae euismod nisl sapien vitae tortor.</p>
 
 							<p>Vivamus nec odio ac ligula congue feugiat at vitae leo. Aenean sem justo, finibus sed dui eu, accumsan facilisis dolor. Fusce quis dui eget odio iaculis aliquam vel sed velit. Nulla pellentesque posuere semper. Nulla eu sagittis lorem, a auctor nulla. Sed ac condimentum orci, ac varius ante. Nunc blandit quam sit amet sollicitudin sodales.</p>

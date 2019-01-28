@@ -7,7 +7,9 @@ header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
 header("Cache-Control: post-check=0, pre-check=0", false);
 header("Pragma: no-cache");
 
-$DB_Host = "localhost:3306";
+// $DB_Host = "localhost:3306";
+$DB_Host = "localhost";
+
 $DB_Name="ianjames_0_boiledfrog";
 $DB_Username="ianja_admin";
 $DB_Password="Gabriola1957";

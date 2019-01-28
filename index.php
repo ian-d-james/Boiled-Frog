@@ -34,19 +34,7 @@
 			</header>
 
 		<!-- Nav -->
-			<nav id="menu">
-				<ul class="links">
-						<li><a href="index.html">Home</a></li>
-						<li><a href="moving-on.html">Moving on</a></li>
-						<li><a href="accountability.html">Accountability</a></li>
-						<li><a href="wilful-ignorance.html">Wilful ignorance</a></li>
-						<li><a href="negligence.html">Failure to act</a></li>
-						<li><a href="government-policy.html">Government policy</a></li>
-						<li><a href="capitalism.html">Capitalism</a></li>
-						<li><a href="effect-change.html">Effecting change</a></li>
-						<li><a href="references.php">References</a></li>
-				</ul>
-			</nav>
+		<?php include 'navigation.html';?>
 
 		<!-- Banner -->
 			<section class="banner full">

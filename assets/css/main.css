@@ -1630,11 +1630,11 @@
 
 	body {
 		background-color: #fff;
-		color: #444;
+		color: #222;
 	}
 
 	body, input, select, textarea {
-		font-family: "Poppins", sans-serif;
+		font-family: Montserrat, sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
@@ -2890,7 +2890,7 @@
 
 		.wrapper.style2 {
 			background-color: #f2f2f2;
-			color: #a6a6a6;
+			color: #444444;
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {

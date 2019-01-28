@@ -34,19 +34,7 @@
 			</header>
 
 		<!-- Nav -->
-			<nav id="menu">
-				<ul class="links">
-						<li><a href="index.html">Home</a></li>
-						<li><a href="moving-on.html">Moving on</a></li>
-						<li><a href="accountability.html">Accountability</a></li>
-						<li><a href="wilful-ignorance.html">Wilful ignorance</a></li>
-						<li><a href="negligence.html">Failure to act</a></li>
-						<li><a href="government-policy.html">Government policy</a></li>
-						<li><a href="capitalism.html">Capitalism</a></li>
-						<li><a href="effect-change.html">Effecting change</a></li>
-						<li><a href="references.php">References</a></li>
-				</ul>
-			</nav>
+		<?php include 'navigation.html';?>
 
 		<!-- One -->
 			<section id="One" class="wrapper style3">
@@ -73,7 +61,7 @@
 							<p>Change can be rapid and obvious or it can be slow and subtle. The following excerpt is from <a target="_blank" href="https://en.wikipedia.org/wiki/Daniel_Quinn">
 								Daniel Quinn's</a> <a target="_blank" href="https://en.wikipedia.org/wiki/The_Story_of_B">The story of B</a>:</p>
 
-							<p style="color:#1472A8; margin-left:30px; margin-right:60px; font-style:italic;">"If you drop a frog in a pot of boiling water, 
+							<p style="color:#000000; margin-left:30px; margin-right:60px; font-style:italic;">"If you drop a frog in a pot of boiling water, 
 							   it will of course frantically try to clamber out. But if 
 							   you place it gently in a pot of tepid water and turn the heat on low, it will float there quite placidly. 
 							   As the water gradually heats up, the frog will sink into a tranquil stupor, exactly like one of us in a hot bath, 
@@ -88,7 +76,7 @@
 								the <a target="_blank" href="https://www.skepticalscience.com/global-warming-scientific-consensus-intermediate.htm">virtual consensus</a> of 
 								our subject matter experts (climate scientists).</p>
 
-							<p>The international scientific consensus that humans are causing recent global warming is shared by <b>90%–100%</b> of publishing climate scientists according to 
+							<p>The international scientific consensus that humans are causing recent global warming is shared by <b>90% – 100%</b> of publishing climate scientists according to 
 							   <a target="_blank" href="https://www.researchgate.net/publication/301247690_Consensus_on_Consensus_A_Synthesis_of_Consensus_Estimates_on_Human-Caused_Global_Warming">six independent studies</a>.
 							   This is consistent with the <b>97%</b> consensus reported by <a target="_blank" href="http://iopscience.iop.org/article/10.1088/1748-9326/8/2/024024?fbclid=IwAR1-jplIFV6QcKtfeO5N-4upDVqP_TDl5bw0YQyLZd36tASoPsI-yOh4buM">Cook et al</a> based on 11,944 
 							   abstracts of research papers, of which 4,014 took a position on the cause of recent global warming.

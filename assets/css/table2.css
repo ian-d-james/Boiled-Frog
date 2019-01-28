@@ -1,0 +1,24 @@
+table.blueTable {
+  background-color: #eeeeee;
+  border: 0px solid black;
+  width: 90%;
+  text-align: left;
+  margin-left:20px;
+}
+
+table.blueTable tr {
+  border: 0px solid black;
+}
+table.blueTable td, table.blueTable th {
+  border: 0px solid black;
+  height:34px;
+}
+table.blueTable tbody td {
+  border: 0px solid black;
+  font-size: 13px;
+  color: #000000;
+}
+table.blueTable tr:nth-child(even) {
+  border: 0px solid black;
+  background: #FFFFFF;
+}
