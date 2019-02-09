@@ -116,7 +116,7 @@
 							<div class="box">
 								<div class="image fit">
 									<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%">
-											<iframe width="560" height="315" src="https://www.youtube.com/embed/nGAna_ZNIQk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+											<iframe width="854" height="480" src="https://www.youtube.com/embed/nGAna_ZNIQk?rel=0" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe>
 									</div>
 								</div>
 								
@@ -152,29 +152,38 @@
 				<div class="inner">
 					<header class="align-center">
 						<p class="special">"Don't raise your voice, improve your argument"<br />Desmond Tutu</p>
-						<h2>Climate Change Resources</h2>
+						<h2>Climate Change Visualization</h2>
 					</header>
 					<div class="gallery">
+
 						<div>
 							<div class="image fit">
-								<a target="_blank" href="https://climate.nasa.gov/evidence"><img class="borders" src="images/website-4.jpg" alt="NASA Climate Change Website" /></a>
+							<iframe width="520" height="395" src="https://www.youtube.com/embed/K4Ra2HR27pQ?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<div style="margin-top:10px; font-family: Arial;">Temperature Anolomies Arranged by Country</div>
 							</div>
 						</div>
+
 						<div>
 							<div class="image fit">
-								<a target="_blank" href="http://www.climatecentral.org/"><img class="borders" src="images/website-2.jpg" alt="Climate Central Website" /></a>
+							<div style="float:left; margin-right:20px;"><iframe width="540" height="315" src="https://www.youtube.com/embed/69HHZkE9HpA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+								<div style="margin-top:10px; font-family: Arial;">The Carbon Map</div>
 							</div>
 						</div>
+
 						<div>
 							<div class="image fit">
-								<a target="_blank" href="https://www.skepticalscience.com/"><img class="borders" src="images/website-3.jpg" alt="Skeptical Science Website" /></a>
+							<a target="_blank" href="http://news-lab-trends-experiment.appspot.com/"><embed src="http://news-lab-trends-experiment.appspot.com/" style="width:500px; height: 300px;"></a>
+								<div style="margin-top:10px; font-family: Arial;">The Carbon Map</div>
 							</div>
 						</div>
+
 						<div>
 							<div class="image fit">
-								<a target="_blank" href="https://royalsociety.org/~/media/Royal_Society_Content/policy/projects/climate-evidence-causes/climate-change-evidence-causes.pdf"><img class="borders" src="images/document-1.jpg" alt="" /></a>
+								<a target="_blank" href="https://www.carbonmap.org/#"><img class="borders" src="images/website-5.jpg" alt="Climate Central Website" /></a>
+								<div style="margin-top:10px; font-family: Arial;"><b>The Carbon Map</b> - Carbon Emission Sources and Impacts</div>
 							</div>
 						</div>
+
 					</div>
 				</div>
 			</section>
