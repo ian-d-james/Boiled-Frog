@@ -1,0 +1,2957 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg"
+   viewBox="0 0 1280 720"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="temperatureanomalies_1880_2017.svg">
+  <metadata
+     id="metadata874">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1285"
+     inkscape:window-height="760"
+     id="namedview872"
+     showgrid="false"
+     inkscape:zoom="0.2421875"
+     inkscape:cx="408.98137"
+     inkscape:cy="-107.14667"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg" />
+  <defs
+     id="defs3">
+    <filter
+       id="f1"
+       x="-10%"
+       y="-10%">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="20"
+         id="feGaussianBlur6" />
+    </filter>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="1280"
+     height="720"
+     id="rect8"
+     fill="#414345" />
+  <g
+     id="g1"
+     transform="translate(320, 370)">
+    <circle
+       cx="0"
+       cy="0"
+       r="260"
+       fill="#ffffff"
+       opacity="0.5"
+       filter="url(#f1)"
+       id="circle11" />
+    <circle
+       cx="0"
+       cy="0"
+       r="260"
+       fill="rgb(78, 80, 82)"
+       stroke-width="2"
+       stroke="#505050"
+       id="circle13" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-width="0"
+       id="leftCircle"
+       x="0"
+       y="0"
+       d="M-260,3.184081677783118e-14A260,260,0,1,1,260,-6.368163355566237e-14A260,260,0,1,0,-260,3.184081677783118e-14Z" />
+    <text
+       fill="rgb(180, 185, 194)"
+       font-family="Lato"
+       font-size="22"
+       text-anchor="middle"
+       dy="-24"
+       id="text16">
+      <textPath
+         xlink:href="#leftCircle"
+         startOffset="25%"
+         id="textPath18">Years colder than base period average</textPath>
+    </text>
+    <circle
+       cx="0"
+       cy="0"
+       r="15.219999999999999"
+       fill-opacity="0.5"
+       fill="rgb(207, 228, 239)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle20" />
+    <text
+       x="0"
+       y="0"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="11.812712223291625"
+       dy="5.906356111645812"
+       opacity="1"
+       id="text22">1880</text>
+    <circle
+       cx="1.3879794072423342"
+       cy="-2.3619740314133892"
+       r="11.8"
+       fill-opacity="0.5"
+       fill="rgb(227, 237, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle24" />
+    <text
+       x="1.3879794072423342"
+       y="-2.3619740314133892"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="9.158344562078923"
+       dy="4.579172281039462"
+       opacity="1"
+       id="text26">1881</text>
+    <circle
+       cx="3.936729880451235"
+       cy="-2.8560046933369003"
+       r="12.18"
+       fill-opacity="0.5"
+       fill="rgb(225, 236, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle28" />
+    <text
+       x="3.936729880451235"
+       y="-2.8560046933369003"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="9.453274302213668"
+       dy="4.726637151106834"
+       opacity="1"
+       id="text30">1882</text>
+    <circle
+       cx="6.911882961172971"
+       cy="-1.4188058116059268"
+       r="15.219999999999999"
+       fill-opacity="0.5"
+       fill="rgb(207, 228, 239)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle32" />
+    <text
+       x="6.911882961172971"
+       y="-1.4188058116059268"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="11.812712223291625"
+       dy="5.906356111645812"
+       opacity="1"
+       id="text34">1883</text>
+    <circle
+       cx="9.270791380524706"
+       cy="3.163258847895439"
+       r="19.02"
+       fill-opacity="0.5"
+       fill="rgb(180, 214, 231)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle36" />
+    <text
+       x="9.270791380524706"
+       y="3.163258847895439"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text38">1884</text>
+    <circle
+       cx="7.222896148349649"
+       cy="11.071450666925077"
+       r="19.78"
+       fill-opacity="0.5"
+       fill="rgb(174, 211, 230)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle40" />
+    <text
+       x="7.222896148349649"
+       y="11.071450666925077"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text42">1885</text>
+    <circle
+       cx="-1.8820450038791023"
+       cy="16.673718324458214"
+       r="20.16"
+       fill-opacity="0.5"
+       fill="rgb(170, 209, 229)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle44" />
+    <text
+       x="-1.8820450038791023"
+       y="16.673718324458214"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text46">1886</text>
+    <circle
+       cx="-14.867326454489763"
+       cy="13.980893914754839"
+       r="21.299999999999997"
+       fill-opacity="0.5"
+       fill="rgb(161, 204, 226)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle48" />
+    <text
+       x="-14.867326454489763"
+       y="13.980893914754839"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text50">1887</text>
+    <circle
+       cx="-24.24088763790234"
+       cy="0.2707845759890429"
+       r="14.84"
+       fill-opacity="0.5"
+       fill="rgb(210, 229, 239)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle52" />
+    <text
+       x="-24.24088763790234"
+       y="0.2707845759890429"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="11.51778248315688"
+       dy="5.75889124157844"
+       opacity="1"
+       id="text54">1888</text>
+    <circle
+       cx="-23.530050011434497"
+       cy="-13.064402451677282"
+       r="12.18"
+       fill-opacity="0.5"
+       fill="rgb(225, 236, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle56" />
+    <text
+       x="-23.530050011434497"
+       y="-13.064402451677282"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="9.453274302213668"
+       dy="4.726637151106834"
+       opacity="1"
+       id="text58">1889</text>
+    <circle
+       cx="-17.353721210749224"
+       cy="-23.36680543291257"
+       r="22.060000000000002"
+       fill-opacity="0.5"
+       fill="rgb(154, 200, 224)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle60" />
+    <text
+       x="-17.353721210749224"
+       y="-23.36680543291257"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text62">1890</text>
+    <circle
+       cx="4.328835695411062"
+       cy="-32.7923143398287"
+       r="17.119999999999997"
+       fill-opacity="0.5"
+       fill="rgb(194, 221, 235)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle64" />
+    <text
+       x="4.328835695411062"
+       y="-32.7923143398287"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text66">1891</text>
+    <circle
+       cx="24.081923507434638"
+       cy="-26.972038312705756"
+       r="18.26"
+       fill-opacity="0.5"
+       fill="rgb(186, 217, 233)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle68" />
+    <text
+       x="24.081923507434638"
+       y="-26.972038312705756"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text70">1892</text>
+    <circle
+       cx="38.62284508373692"
+       cy="-8.012467826934413"
+       r="20.16"
+       fill-opacity="0.5"
+       fill="rgb(170, 209, 229)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle72" />
+    <text
+       x="38.62284508373692"
+       y="-8.012467826934413"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text74">1893</text>
+    <circle
+       cx="37.81823868358486"
+       cy="20.619173088933653"
+       r="19.78"
+       fill-opacity="0.5"
+       fill="rgb(174, 211, 230)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle76" />
+    <text
+       x="37.81823868358486"
+       y="20.619173088933653"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text78">1894</text>
+    <circle
+       cx="17.34874063672667"
+       cy="43.28727828911849"
+       r="16.740000000000002"
+       fill-opacity="0.5"
+       fill="rgb(197, 223, 236)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle80" />
+    <text
+       x="17.34874063672667"
+       y="43.28727828911849"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text82">1895</text>
+    <circle
+       cx="-10.01698639239482"
+       cy="48.62657883683137"
+       r="12.559999999999999"
+       fill-opacity="0.5"
+       fill="rgb(223, 235, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle84" />
+    <text
+       x="-10.01698639239482"
+       y="48.62657883683137"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="9.748204042348412"
+       dy="4.874102021174206"
+       opacity="1"
+       id="text86">1896</text>
+    <circle
+       cx="-31.065331362297187"
+       cy="41.586382120962085"
+       r="12.559999999999999"
+       fill-opacity="0.5"
+       fill="rgb(223, 235, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle88" />
+    <text
+       x="-31.065331362297187"
+       y="41.586382120962085"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="9.748204042348412"
+       dy="4.874102021174206"
+       opacity="1"
+       id="text90">1897</text>
+    <circle
+       cx="-47.77519753601978"
+       cy="25.531015041206054"
+       r="18.64"
+       fill-opacity="0.5"
+       fill="rgb(183, 216, 232)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle92" />
+    <text
+       x="-47.77519753601978"
+       y="25.531015041206054"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text94">1898</text>
+    <circle
+       cx="-56.79082829372231"
+       cy="-9.157424150543056"
+       r="15.219999999999999"
+       fill-opacity="0.5"
+       fill="rgb(207, 228, 239)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle96" />
+    <text
+       x="-56.79082829372231"
+       y="-9.157424150543056"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="11.812712223291625"
+       dy="5.906356111645812"
+       opacity="1"
+       id="text98">1899</text>
+    <circle
+       cx="-46.43421006264019"
+       cy="-38.413719318215"
+       r="11.8"
+       fill-opacity="0.5"
+       fill="rgb(227, 237, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle100" />
+    <text
+       x="-46.43421006264019"
+       y="-38.413719318215"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="9.158344562078923"
+       dy="4.579172281039462"
+       opacity="1"
+       id="text102">1900</text>
+    <circle
+       cx="-28.12934800853229"
+       cy="-55.686644041591165"
+       r="14.08"
+       fill-opacity="0.5"
+       fill="rgb(214, 231, 240)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle104" />
+    <text
+       x="-28.12934800853229"
+       y="-55.686644041591165"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="10.927923002887391"
+       dy="5.463961501443696"
+       opacity="1"
+       id="text106">1901</text>
+    <circle
+       cx="1.5408844042924745"
+       cy="-64.90411155707017"
+       r="19.4"
+       fill-opacity="0.5"
+       fill="rgb(177, 212, 231)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle108" />
+    <text
+       x="1.5408844042924745"
+       y="-64.90411155707017"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text110">1902</text>
+    <circle
+       cx="44.12210904720239"
+       cy="-52.28546280360137"
+       r="22.82"
+       fill-opacity="0.5"
+       fill="rgb(147, 196, 222)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle112" />
+    <text
+       x="44.12210904720239"
+       y="-52.28546280360137"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text114">1903</text>
+    <circle
+       cx="72.32724051727216"
+       cy="-5.311380532090326"
+       r="26.62"
+       fill-opacity="0.5"
+       fill="rgb(111, 174, 210)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle116" />
+    <text
+       x="72.32724051727216"
+       y="-5.311380532090326"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text118">1904</text>
+    <circle
+       cx="50.68153748011365"
+       cy="58.38471121459658"
+       r="19.02"
+       fill-opacity="0.5"
+       fill="rgb(180, 214, 231)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle120" />
+    <text
+       x="50.68153748011365"
+       y="58.38471121459658"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text122">1905</text>
+    <circle
+       cx="4.112878579667522"
+       cy="80.6323737318263"
+       r="16.740000000000002"
+       fill-opacity="0.5"
+       fill="rgb(197, 223, 236)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle124" />
+    <text
+       x="4.112878579667522"
+       y="80.6323737318263"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text126">1906</text>
+    <circle
+       cx="-42.58208523914283"
+       cy="72.11723453409994"
+       r="23.200000000000003"
+       fill-opacity="0.5"
+       fill="rgb(143, 194, 221)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle128" />
+    <text
+       x="-42.58208523914283"
+       y="72.11723453409994"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text130">1907</text>
+    <circle
+       cx="-85.65902274537595"
+       cy="19.838942493670572"
+       r="24.72"
+       fill-opacity="0.5"
+       fill="rgb(129, 185, 216)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle132" />
+    <text
+       x="-85.65902274537595"
+       y="19.838942493670572"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text134">1908</text>
+    <circle
+       cx="-74.35286942455019"
+       cy="-54.81766306890319"
+       r="25.86"
+       fill-opacity="0.5"
+       fill="rgb(118, 179, 212)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle136" />
+    <text
+       x="-74.35286942455019"
+       y="-54.81766306890319"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text138">1909</text>
+    <circle
+       cx="-3.1832217704193635"
+       cy="-96.97857107526553"
+       r="24.34"
+       fill-opacity="0.5"
+       fill="rgb(133, 188, 217)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle140" />
+    <text
+       x="-3.1832217704193635"
+       y="-96.97857107526553"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text142">1910</text>
+    <circle
+       cx="73.92616644405994"
+       cy="-69.42129110644045"
+       r="24.34"
+       fill-opacity="0.5"
+       fill="rgb(133, 188, 217)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle144" />
+    <text
+       x="73.92616644405994"
+       y="-69.42129110644045"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text146">1911</text>
+    <circle
+       cx="105.30968214539517"
+       cy="10.10306946802999"
+       r="21.68"
+       fill-opacity="0.5"
+       fill="rgb(157, 202, 225)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle148" />
+    <text
+       x="105.30968214539517"
+       y="10.10306946802999"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text150">1912</text>
+    <circle
+       cx="72.19769651754592"
+       cy="82.58702850278813"
+       r="21.299999999999997"
+       fill-opacity="0.5"
+       fill="rgb(161, 204, 226)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle152" />
+    <text
+       x="72.19769651754592"
+       y="82.58702850278813"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text154">1913</text>
+    <circle
+       cx="-2.8530096836434575"
+       cy="113.49374613565736"
+       r="14.08"
+       fill-opacity="0.5"
+       fill="rgb(214, 231, 240)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle156" />
+    <text
+       x="-2.8530096836434575"
+       y="113.49374613565736"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="10.927923002887391"
+       dy="5.463961501443696"
+       opacity="1"
+       id="text158">1914</text>
+    <circle
+       cx="-57.32886880323191"
+       cy="100.9170594980939"
+       r="12.559999999999999"
+       fill-opacity="0.5"
+       fill="rgb(223, 235, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle160" />
+    <text
+       x="-57.32886880323191"
+       y="100.9170594980939"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="9.748204042348412"
+       dy="4.874102021174206"
+       opacity="1"
+       id="text162">1915</text>
+    <circle
+       cx="-96.59317857326032"
+       cy="68.34117461789964"
+       r="20.54"
+       fill-opacity="0.5"
+       fill="rgb(167, 207, 228)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle164" />
+    <text
+       x="-96.59317857326032"
+       y="68.34117461789964"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text166">1916</text>
+    <circle
+       cx="-121.3973338527065"
+       cy="-12.331091494856611"
+       r="24.72"
+       fill-opacity="0.5"
+       fill="rgb(129, 185, 216)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle168" />
+    <text
+       x="-121.3973338527065"
+       y="-12.331091494856611"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text170">1917</text>
+    <circle
+       cx="-72.10653805173833"
+       cy="-103.90241949422168"
+       r="18.64"
+       fill-opacity="0.5"
+       fill="rgb(183, 216, 232)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle172" />
+    <text
+       x="-72.10653805173833"
+       y="-103.90241949422168"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text174">1918</text>
+    <circle
+       cx="5.7082401032290795"
+       cy="-129.70124900387"
+       r="18.26"
+       fill-opacity="0.5"
+       fill="rgb(186, 217, 233)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle176" />
+    <text
+       x="5.7082401032290795"
+       y="-129.70124900387"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text178">1919</text>
+    <circle
+       cx="83.84330320021658"
+       cy="-103.39018818745112"
+       r="17.5"
+       fill-opacity="0.5"
+       fill="rgb(191, 220, 235)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle180" />
+    <text
+       x="83.84330320021658"
+       y="-103.39018818745112"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text182">1920</text>
+    <circle
+       cx="131.01116867308343"
+       cy="-37.4678844862222"
+       r="14.84"
+       fill-opacity="0.5"
+       fill="rgb(210, 229, 239)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle184" />
+    <text
+       x="131.01116867308343"
+       y="-37.4678844862222"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="11.51778248315688"
+       dy="5.75889124157844"
+       opacity="1"
+       id="text186">1921</text>
+    <circle
+       cx="134.97048842079934"
+       cy="32.95217605092075"
+       r="18.26"
+       fill-opacity="0.5"
+       fill="rgb(186, 217, 233)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle188" />
+    <text
+       x="134.97048842079934"
+       y="32.95217605092075"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text190">1922</text>
+    <circle
+       cx="90.96112104135047"
+       cy="109.33004145915613"
+       r="17.119999999999997"
+       fill-opacity="0.5"
+       fill="rgb(194, 221, 235)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle192" />
+    <text
+       x="90.96112104135047"
+       y="109.33004145915613"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text194">1923</text>
+    <circle
+       cx="13.977180576591731"
+       cy="144.6293827455865"
+       r="17.5"
+       fill-opacity="0.5"
+       fill="rgb(191, 220, 235)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle196" />
+    <text
+       x="13.977180576591731"
+       y="144.6293827455865"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text198">1924</text>
+    <circle
+       cx="-73.05674701792778"
+       cy="129.2325976888127"
+       r="15.98"
+       fill-opacity="0.5"
+       fill="rgb(202, 225, 238)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle200" />
+    <text
+       x="-73.05674701792778"
+       y="129.2325976888127"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="12.402571703561115"
+       dy="6.201285851780558"
+       opacity="1"
+       id="text202">1925</text>
+    <circle
+       cx="-132.91535292898354"
+       cy="72.34747260218397"
+       r="11.42"
+       fill-opacity="0.5"
+       fill="rgb(229, 237, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle204" />
+    <text
+       x="-132.91535292898354"
+       y="72.34747260218397"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="8.863414821944177"
+       dy="4.431707410972089"
+       opacity="1"
+       id="text206">1926</text>
+    <circle
+       cx="-152.6214705792839"
+       cy="15.287455552078896"
+       r="15.600000000000001"
+       fill-opacity="0.5"
+       fill="rgb(205, 227, 238)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle208" />
+    <text
+       x="-152.6214705792839"
+       y="15.287455552078896"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="12.107641963426373"
+       dy="6.053820981713186"
+       opacity="1"
+       id="text210">1927</text>
+    <circle
+       cx="-141.00114744829935"
+       cy="-67.19369125522836"
+       r="15.219999999999999"
+       fill-opacity="0.5"
+       fill="rgb(207, 228, 239)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle212" />
+    <text
+       x="-141.00114744829935"
+       y="-67.19369125522836"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="11.812712223291625"
+       dy="5.906356111645812"
+       opacity="1"
+       id="text214">1928</text>
+    <circle
+       cx="-89.05798062553362"
+       cy="-131.63704266938728"
+       r="20.92"
+       fill-opacity="0.5"
+       fill="rgb(164, 206, 227)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle216" />
+    <text
+       x="-89.05798062553362"
+       y="-131.63704266938728"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text218">1929</text>
+    <circle
+       cx="21.96816711335625"
+       cy="-161.20846440630734"
+       r="13.32"
+       fill-opacity="0.5"
+       fill="rgb(219, 233, 241)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle220" />
+    <text
+       x="21.96816711335625"
+       y="-161.20846440630734"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="10.338063522617901"
+       dy="5.1690317613089505"
+       opacity="1"
+       id="text222">1930</text>
+    <circle
+       cx="93.27379239744292"
+       cy="-136.22293811175388"
+       r="11.8"
+       fill-opacity="0.5"
+       fill="rgb(227, 237, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle224" />
+    <text
+       x="93.27379239744292"
+       y="-136.22293811175388"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="9.158344562078923"
+       dy="4.579172281039462"
+       opacity="1"
+       id="text226">1931</text>
+    <circle
+       cx="141.81060263927708"
+       cy="-88.61309936507733"
+       r="14.08"
+       fill-opacity="0.5"
+       fill="rgb(214, 231, 240)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle228" />
+    <text
+       x="141.81060263927708"
+       y="-88.61309936507733"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="10.927923002887391"
+       dy="5.463961501443696"
+       opacity="1"
+       id="text230">1932</text>
+    <circle
+       cx="169.373294111069"
+       cy="-11.36853382478742"
+       r="19.02"
+       fill-opacity="0.5"
+       fill="rgb(180, 214, 231)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle232" />
+    <text
+       x="169.373294111069"
+       y="-11.36853382478742"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text234">1933</text>
+    <circle
+       cx="143.23215969172"
+       cy="97.34047520967638"
+       r="12.940000000000001"
+       fill-opacity="0.5"
+       fill="rgb(221, 234, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle236" />
+    <text
+       x="143.23215969172"
+       y="97.34047520967638"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="10.043133782483157"
+       dy="5.021566891241578"
+       opacity="1"
+       id="text238">1934</text>
+    <circle
+       cx="87.54129129703794"
+       cy="152.11607268756038"
+       r="15.600000000000001"
+       fill-opacity="0.5"
+       fill="rgb(205, 227, 238)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle240" />
+    <text
+       x="87.54129129703794"
+       y="152.11607268756038"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="12.107641963426373"
+       dy="6.053820981713186"
+       opacity="1"
+       id="text242">1935</text>
+    <circle
+       cx="-3.9832684523281734"
+       cy="178.27070461373256"
+       r="13.7"
+       fill-opacity="0.5"
+       fill="rgb(217, 232, 241)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle244" />
+    <text
+       x="-3.9832684523281734"
+       y="178.27070461373256"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="10.632993262752645"
+       dy="5.316496631376323"
+       opacity="1"
+       id="text246">1936</text>
+    <circle
+       cx="-86.76002293992516"
+       cy="158.6018306732418"
+       r="9.14"
+       fill-opacity="0.5"
+       fill="rgb(238, 240, 240)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle248" />
+    <text
+       x="-86.76002293992516"
+       y="158.6018306732418"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="7.0938363811357075"
+       dy="3.5469181905678537"
+       opacity="1"
+       id="text250">1937</text>
+    <circle
+       cx="-133.33133269648354"
+       cy="124.5076187963597"
+       r="9.14"
+       fill-opacity="0.5"
+       fill="rgb(238, 240, 240)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle252" />
+    <text
+       x="-133.33133269648354"
+       y="124.5076187963597"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="7.0938363811357075"
+       dy="3.5469181905678537"
+       opacity="1"
+       id="text254">1938</text>
+    <circle
+       cx="-167.14991439408712"
+       cy="77.09254208163941"
+       r="8.76"
+       fill-opacity="0.5"
+       fill="rgb(239, 240, 240)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle256" />
+    <text
+       x="-167.14991439408712"
+       y="77.09254208163941"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="6.798906641000962"
+       dy="3.399453320500481"
+       opacity="1"
+       id="text258">1939</text>
+    <circle
+       cx="-184.16821796361566"
+       cy="23.39649364041849"
+       r="10.66"
+       fill-opacity="0.5"
+       fill="rgb(232, 238, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle260" />
+    <text
+       x="-184.16821796361566"
+       y="23.39649364041849"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="8.273555341674687"
+       dy="4.136777670837343"
+       opacity="1"
+       id="text262">1946</text>
+    <circle
+       cx="-181.9321174617945"
+       cy="-45.63068213064326"
+       r="9.52"
+       fill-opacity="0.5"
+       fill="rgb(237, 239, 241)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle264" />
+    <text
+       x="-181.9321174617945"
+       y="-45.63068213064326"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="7.388766121270452"
+       dy="3.694383060635226"
+       opacity="1"
+       id="text266">1947</text>
+    <circle
+       cx="-158.52797744160918"
+       cy="-103.42195906533898"
+       r="11.8"
+       fill-opacity="0.5"
+       fill="rgb(227, 237, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle268" />
+    <text
+       x="-158.52797744160918"
+       y="-103.42195906533898"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="9.158344562078923"
+       dy="4.579172281039462"
+       opacity="1"
+       id="text270">1948</text>
+    <circle
+       cx="-105.02975357698384"
+       cy="-160.01421288934947"
+       r="12.18"
+       fill-opacity="0.5"
+       fill="rgb(225, 236, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle272" />
+    <text
+       x="-105.02975357698384"
+       y="-160.01421288934947"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="9.453274302213668"
+       dy="4.726637151106834"
+       opacity="1"
+       id="text274">1949</text>
+    <circle
+       cx="-30.018260293390668"
+       cy="-191.2557970279548"
+       r="14.84"
+       fill-opacity="0.5"
+       fill="rgb(210, 229, 239)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle276" />
+    <text
+       x="-30.018260293390668"
+       y="-191.2557970279548"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="11.51778248315688"
+       dy="5.75889124157844"
+       opacity="1"
+       id="text278">1950</text>
+    <circle
+       cx="69.56816743814804"
+       cy="-183.52535224828694"
+       r="10.28"
+       fill-opacity="0.5"
+       fill="rgb(234, 239, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle280" />
+    <text
+       x="69.56816743814804"
+       y="-183.52535224828694"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="7.9786256015399415"
+       dy="3.9893128007699707"
+       opacity="1"
+       id="text282">1951</text>
+    <circle
+       cx="130.81068529069555"
+       cy="-148.79389613562316"
+       r="13.32"
+       fill-opacity="0.5"
+       fill="rgb(219, 233, 241)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle284" />
+    <text
+       x="130.81068529069555"
+       y="-148.79389613562316"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="10.338063522617901"
+       dy="5.1690317613089505"
+       opacity="1"
+       id="text286">1954</text>
+    <circle
+       cx="185.8630833546069"
+       cy="-75.24454076461923"
+       r="13.32"
+       fill-opacity="0.5"
+       fill="rgb(219, 233, 241)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle288" />
+    <text
+       x="185.8630833546069"
+       y="-75.24454076461923"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="10.338063522617901"
+       dy="5.1690317613089505"
+       opacity="1"
+       id="text290">1955</text>
+    <circle
+       cx="202.26038934307113"
+       cy="16.273484531264057"
+       r="15.600000000000001"
+       fill-opacity="0.5"
+       fill="rgb(205, 227, 238)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle292" />
+    <text
+       x="202.26038934307113"
+       y="16.273484531264057"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="12.107641963426373"
+       dy="6.053820981713186"
+       opacity="1"
+       id="text294">1956</text>
+    <circle
+       cx="166.85367097012414"
+       cy="120.33866281371735"
+       r="8.76"
+       fill-opacity="0.5"
+       fill="rgb(239, 240, 240)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle296" />
+    <text
+       x="166.85367097012414"
+       y="120.33866281371735"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="6.798906641000962"
+       dy="3.399453320500481"
+       opacity="1"
+       id="text298">1960</text>
+    <circle
+       cx="123.8289510386043"
+       cy="166.25036350672724"
+       r="15.600000000000001"
+       fill-opacity="0.5"
+       fill="rgb(205, 227, 238)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle300" />
+    <text
+       x="123.8289510386043"
+       y="166.25036350672724"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="12.107641963426373"
+       dy="6.053820981713186"
+       opacity="1"
+       id="text302">1964</text>
+    <circle
+       cx="20.064839669334958"
+       cy="209.14652666320777"
+       r="12.18"
+       fill-opacity="0.5"
+       fill="rgb(225, 236, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle304" />
+    <text
+       x="20.064839669334958"
+       y="209.14652666320777"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="9.453274302213668"
+       dy="4.726637151106834"
+       opacity="1"
+       id="text306">1965</text>
+    <circle
+       cx="-68.69729358062365"
+       cy="200.87715692765465"
+       r="9.9"
+       fill-opacity="0.5"
+       fill="rgb(235, 239, 241)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle308" />
+    <text
+       x="-68.69729358062365"
+       y="200.87715692765465"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="7.683695861405197"
+       dy="3.8418479307025986"
+       opacity="1"
+       id="text310">1966</text>
+    <circle
+       cx="-133.7943696620949"
+       cy="167.122191345622"
+       r="8.76"
+       fill-opacity="0.5"
+       fill="rgb(239, 240, 240)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle312" />
+    <text
+       x="-133.7943696620949"
+       y="167.122191345622"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="6.798906641000962"
+       dy="3.399453320500481"
+       opacity="1"
+       id="text314">1967</text>
+    <circle
+       cx="-179.20844867476217"
+       cy="119.96959984756607"
+       r="11.04"
+       fill-opacity="0.5"
+       fill="rgb(230, 238, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle316" />
+    <text
+       x="-179.20844867476217"
+       y="119.96959984756607"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="8.568485081809431"
+       dy="4.284242540904716"
+       opacity="1"
+       id="text318">1968</text>
+    <circle
+       cx="-213.10772521926395"
+       cy="44.2100727765821"
+       r="11.42"
+       fill-opacity="0.5"
+       fill="rgb(229, 237, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle320" />
+    <text
+       x="-213.10772521926395"
+       y="44.2100727765821"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="8.863414821944177"
+       dy="4.431707410972089"
+       opacity="1"
+       id="text322">1971</text>
+    <circle
+       cx="-215.57600566040463"
+       cy="-42.37248286500543"
+       r="11.04"
+       fill-opacity="0.5"
+       fill="rgb(230, 238, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle324" />
+    <text
+       x="-215.57600566040463"
+       y="-42.37248286500543"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="8.568485081809431"
+       dy="4.284242540904716"
+       opacity="1"
+       id="text326">1974</text>
+    <circle
+       cx="-185.50060712209185"
+       cy="-121.3881958896141"
+       r="8.76"
+       fill-opacity="0.5"
+       fill="rgb(239, 240, 240)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle328" />
+    <text
+       x="-185.50060712209185"
+       y="-121.3881958896141"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="6.798906641000962"
+       dy="3.399453320500481"
+       opacity="1"
+       id="text330">1975</text>
+    <circle
+       cx="-141.35133668329365"
+       cy="-172.82063110892219"
+       r="12.18"
+       fill-opacity="0.5"
+       fill="rgb(225, 236, 242)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle332" />
+    <text
+       x="-141.35133668329365"
+       y="-172.82063110892219"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="9.453274302213668"
+       dy="4.726637151106834"
+       opacity="1"
+       id="text334">1976</text>
+  </g>
+  <g
+     id="g2"
+     transform="translate(960, 370)">
+    <circle
+       cx="0"
+       cy="0"
+       r="260"
+       fill="#ffffff"
+       opacity="0.5"
+       filter="url(#f1)"
+       id="circle337" />
+    <circle
+       cx="0"
+       cy="0"
+       r="260"
+       fill="rgb(78, 80, 82)"
+       stroke-width="2"
+       stroke="#505050"
+       id="circle339" />
+    <path
+       fill="none"
+       stroke="#000000"
+       stroke-width="0"
+       id="rightCircle"
+       x="0"
+       y="0"
+       d="M-260,3.184081677783118e-14A260,260,0,1,1,260,-6.368163355566237e-14A260,260,0,1,0,-260,3.184081677783118e-14Z" />
+    <text
+       fill="rgb(180, 185, 194)"
+       font-family="Lato"
+       font-size="22"
+       text-anchor="middle"
+       dy="-24"
+       id="text342">
+      <textPath
+         xlink:href="#rightCircle"
+         startOffset="25%"
+         id="textPath344">Years warmer than base period average</textPath>
+    </text>
+    <circle
+       cx="0"
+       cy="0"
+       r="12.559999999999999"
+       fill-opacity="0.5"
+       fill="rgb(250, 229, 217)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle346" />
+    <text
+       x="0"
+       y="0"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="9.748204042348412"
+       dy="4.874102021174206"
+       opacity="1"
+       id="text348">1940</text>
+    <circle
+       cx="0.9597446424863306"
+       cy="-2.0469750514402425"
+       r="15.219999999999999"
+       fill-opacity="0.5"
+       fill="rgb(251, 217, 198)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle350" />
+    <text
+       x="0.9597446424863306"
+       y="-2.0469750514402425"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="11.812712223291625"
+       dy="5.906356111645812"
+       opacity="1"
+       id="text352">1941</text>
+    <circle
+       cx="4.123924266851299"
+       cy="-2.8279407351065484"
+       r="10.28"
+       fill-opacity="0.5"
+       fill="rgb(247, 236, 229)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle354" />
+    <text
+       x="4.123924266851299"
+       y="-2.8279407351065484"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="7.9786256015399415"
+       dy="3.9893128007699707"
+       opacity="1"
+       id="text356">1942</text>
+    <circle
+       cx="6.650758543446792"
+       cy="-1.6434328208872697"
+       r="10.66"
+       fill-opacity="0.5"
+       fill="rgb(248, 235, 228)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle358" />
+    <text
+       x="6.650758543446792"
+       y="-1.6434328208872697"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="8.273555341674687"
+       dy="4.136777670837343"
+       opacity="1"
+       id="text360">1943</text>
+    <circle
+       cx="8.69576877651301"
+       cy="1.1355569318274739"
+       r="15.98"
+       fill-opacity="0.5"
+       fill="rgb(250, 213, 193)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle362" />
+    <text
+       x="8.69576877651301"
+       y="1.1355569318274739"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="12.402571703561115"
+       dy="6.201285851780558"
+       opacity="1"
+       id="text364">1944</text>
+    <circle
+       cx="8.999255196950148"
+       cy="7.392071556753609"
+       r="11.42"
+       fill-opacity="0.5"
+       fill="rgb(249, 233, 224)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle366" />
+    <text
+       x="8.999255196950148"
+       y="7.392071556753609"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="8.863414821944177"
+       dy="4.431707410972089"
+       opacity="1"
+       id="text368">1945</text>
+    <circle
+       cx="6.381780156534638"
+       cy="12.12463296737929"
+       r="8.38"
+       fill-opacity="0.5"
+       fill="rgb(243, 239, 237)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle370" />
+    <text
+       x="6.381780156534638"
+       y="12.12463296737929"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="6.503976900866218"
+       dy="3.251988450433109"
+       opacity="1"
+       id="text372">1952</text>
+    <circle
+       cx="2.9022048196772445"
+       cy="14.930549460238968"
+       r="10.66"
+       fill-opacity="0.5"
+       fill="rgb(248, 235, 228)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle374" />
+    <text
+       x="2.9022048196772445"
+       y="14.930549460238968"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="8.273555341674687"
+       dy="4.136777670837343"
+       opacity="1"
+       id="text376">1953</text>
+    <circle
+       cx="-3.0685499220819086"
+       cy="16.851699938454015"
+       r="9.52"
+       fill-opacity="0.5"
+       fill="rgb(245, 237, 233)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle378" />
+    <text
+       x="-3.0685499220819086"
+       y="16.851699938454015"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="7.388766121270452"
+       dy="3.694383060635226"
+       opacity="1"
+       id="text380">1957</text>
+    <circle
+       cx="-9.238342272097004"
+       cy="16.4222126957236"
+       r="10.66"
+       fill-opacity="0.5"
+       fill="rgb(248, 235, 228)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle382" />
+    <text
+       x="-9.238342272097004"
+       y="16.4222126957236"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="8.273555341674687"
+       dy="4.136777670837343"
+       opacity="1"
+       id="text384">1958</text>
+    <circle
+       cx="-16.06126025586994"
+       cy="13.155354211620935"
+       r="9.14"
+       fill-opacity="0.5"
+       fill="rgb(245, 238, 234)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle386" />
+    <text
+       x="-16.06126025586994"
+       y="13.155354211620935"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="7.0938363811357075"
+       dy="3.5469181905678537"
+       opacity="1"
+       id="text388">1959</text>
+    <circle
+       cx="-20.912565558101097"
+       cy="8.04433730882312"
+       r="9.9"
+       fill-opacity="0.5"
+       fill="rgb(246, 237, 231)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle390" />
+    <text
+       x="-20.912565558101097"
+       y="8.04433730882312"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="7.683695861405197"
+       dy="3.8418479307025986"
+       opacity="1"
+       id="text392">1961</text>
+    <circle
+       cx="-24.182735542790343"
+       cy="0.5234464895903367"
+       r="9.52"
+       fill-opacity="0.5"
+       fill="rgb(245, 237, 233)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle394" />
+    <text
+       x="-24.182735542790343"
+       y="0.5234464895903367"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="7.388766121270452"
+       dy="3.694383060635226"
+       opacity="1"
+       id="text396">1962</text>
+    <circle
+       cx="-24.662055530806875"
+       cy="-7.918119789154365"
+       r="10.66"
+       fill-opacity="0.5"
+       fill="rgb(248, 235, 228)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle398" />
+    <text
+       x="-24.662055530806875"
+       y="-7.918119789154365"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="8.273555341674687"
+       dy="4.136777670837343"
+       opacity="1"
+       id="text400">1963</text>
+    <circle
+       cx="-21.58410589006365"
+       cy="-17.553440846925696"
+       r="10.66"
+       fill-opacity="0.5"
+       fill="rgb(248, 235, 228)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle402" />
+    <text
+       x="-21.58410589006365"
+       y="-17.553440846925696"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="8.273555341674687"
+       dy="4.136777670837343"
+       opacity="1"
+       id="text404">1969</text>
+    <circle
+       cx="-14.671577366463273"
+       cy="-25.868680401981905"
+       r="9.14"
+       fill-opacity="0.5"
+       fill="rgb(245, 238, 234)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle406" />
+    <text
+       x="-14.671577366463273"
+       y="-25.868680401981905"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="7.0938363811357075"
+       dy="3.5469181905678537"
+       opacity="1"
+       id="text408">1970</text>
+    <circle
+       cx="-6.1389871849073225"
+       cy="-30.778539721428366"
+       r="8.38"
+       fill-opacity="0.5"
+       fill="rgb(243, 239, 237)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle410" />
+    <text
+       x="-6.1389871849073225"
+       y="-30.778539721428366"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="6.503976900866218"
+       dy="3.251988450433109"
+       opacity="1"
+       id="text412">1972</text>
+    <circle
+       cx="3.141244282485102"
+       cy="-32.74286472802517"
+       r="14.08"
+       fill-opacity="0.5"
+       fill="rgb(250, 222, 207)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle414" />
+    <text
+       x="3.141244282485102"
+       y="-32.74286472802517"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="10.927923002887391"
+       dy="5.463961501443696"
+       opacity="1"
+       id="text416">1973</text>
+    <circle
+       cx="19.625930420461128"
+       cy="-29.494706251990685"
+       r="14.46"
+       fill-opacity="0.5"
+       fill="rgb(251, 221, 204)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle418" />
+    <text
+       x="19.625930420461128"
+       y="-29.494706251990685"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="11.222852743022136"
+       dy="5.611426371511068"
+       opacity="1"
+       id="text420">1977</text>
+    <circle
+       cx="33.75174758667331"
+       cy="-17.52514932904974"
+       r="10.28"
+       fill-opacity="0.5"
+       fill="rgb(247, 236, 229)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle422" />
+    <text
+       x="33.75174758667331"
+       y="-17.52514932904974"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="7.9786256015399415"
+       dy="3.9893128007699707"
+       opacity="1"
+       id="text424">1978</text>
+    <circle
+       cx="39.593627017886824"
+       cy="-4.777332750443803"
+       r="14.08"
+       fill-opacity="0.5"
+       fill="rgb(250, 222, 207)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle426" />
+    <text
+       x="39.593627017886824"
+       y="-4.777332750443803"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="10.927923002887391"
+       dy="5.463961501443696"
+       opacity="1"
+       id="text428">1979</text>
+    <circle
+       cx="39.52324553657592"
+       cy="15.393578313554366"
+       r="18.26"
+       fill-opacity="0.5"
+       fill="rgb(249, 199, 174)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle430" />
+    <text
+       x="39.52324553657592"
+       y="15.393578313554366"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text432">1980</text>
+    <circle
+       cx="24.353511568984498"
+       cy="38.67272007836193"
+       r="20.54"
+       fill-opacity="0.5"
+       fill="rgb(246, 183, 155)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle434" />
+    <text
+       x="24.353511568984498"
+       y="38.67272007836193"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text436">1981</text>
+    <circle
+       cx="-7.625532890804364"
+       cy="48.80709178768246"
+       r="12.940000000000001"
+       fill-opacity="0.5"
+       fill="rgb(250, 227, 214)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle438" />
+    <text
+       x="-7.625532890804364"
+       y="48.80709178768246"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="10.043133782483157"
+       dy="5.021566891241578"
+       opacity="1"
+       id="text440">1982</text>
+    <circle
+       cx="-29.4924381675847"
+       cy="42.49733471044029"
+       r="19.78"
+       fill-opacity="0.5"
+       fill="rgb(247, 188, 161)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle442" />
+    <text
+       x="-29.4924381675847"
+       y="42.49733471044029"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text444">1983</text>
+    <circle
+       cx="-53.23129062190402"
+       cy="14.942593622473726"
+       r="14.08"
+       fill-opacity="0.5"
+       fill="rgb(250, 222, 207)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle446" />
+    <text
+       x="-53.23129062190402"
+       y="14.942593622473726"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="10.927923002887391"
+       dy="5.463961501443696"
+       opacity="1"
+       id="text448">1984</text>
+    <circle
+       cx="-56.45692447930356"
+       cy="-12.495524661982554"
+       r="12.559999999999999"
+       fill-opacity="0.5"
+       fill="rgb(250, 229, 217)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle450" />
+    <text
+       x="-56.45692447930356"
+       y="-12.495524661982554"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="9.748204042348412"
+       dy="4.874102021174206"
+       opacity="1"
+       id="text452">1985</text>
+    <circle
+       cx="-47.6039309313533"
+       cy="-36.659962027843754"
+       r="14.84"
+       fill-opacity="0.5"
+       fill="rgb(251, 219, 201)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle454" />
+    <text
+       x="-47.6039309313533"
+       y="-36.659962027843754"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="11.51778248315688"
+       dy="5.75889124157844"
+       opacity="1"
+       id="text456">1986</text>
+    <circle
+       cx="-24.237818231533296"
+       cy="-57.885605243576336"
+       r="20.54"
+       fill-opacity="0.5"
+       fill="rgb(246, 183, 155)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle458" />
+    <text
+       x="-24.237818231533296"
+       y="-57.885605243576336"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text460">1987</text>
+    <circle
+       cx="20.931610198742238"
+       cy="-63.06971666535303"
+       r="23.58"
+       fill-opacity="0.5"
+       fill="rgb(239, 159, 130)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle462" />
+    <text
+       x="20.931610198742238"
+       y="-63.06971666535303"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text464">1988</text>
+    <circle
+       cx="64.34157978832299"
+       cy="-29.295027574366046"
+       r="19.02"
+       fill-opacity="0.5"
+       fill="rgb(248, 194, 168)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle466" />
+    <text
+       x="64.34157978832299"
+       y="-29.295027574366046"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text468">1989</text>
+    <circle
+       cx="72.05428820703374"
+       cy="17.3785283363614"
+       r="24.72"
+       fill-opacity="0.5"
+       fill="rgb(236, 150, 121)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle470" />
+    <text
+       x="72.05428820703374"
+       y="17.3785283363614"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text472">1990</text>
+    <circle
+       cx="35.67003356453629"
+       cy="70.00638260548001"
+       r="23.58"
+       fill-opacity="0.5"
+       fill="rgb(239, 159, 130)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle474" />
+    <text
+       x="35.67003356453629"
+       y="70.00638260548001"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text476">1991</text>
+    <circle
+       cx="-28.541396896943635"
+       cy="77.74068118129102"
+       r="16.36"
+       fill-opacity="0.5"
+       fill="rgb(250, 210, 190)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle478" />
+    <text
+       x="-28.541396896943635"
+       y="77.74068118129102"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text480">1992</text>
+    <circle
+       cx="-68.38209810418881"
+       cy="51.754507470452225"
+       r="17.119999999999997"
+       fill-opacity="0.5"
+       fill="rgb(250, 206, 183)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle482" />
+    <text
+       x="-68.38209810418881"
+       y="51.754507470452225"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text484">1993</text>
+    <circle
+       cx="-88.72859021444387"
+       cy="4.4637454225453626"
+       r="19.78"
+       fill-opacity="0.5"
+       fill="rgb(247, 188, 161)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle486" />
+    <text
+       x="-88.72859021444387"
+       y="4.4637454225453626"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text488">1994</text>
+    <circle
+       cx="-74.10430300830457"
+       cy="-55.19541681238923"
+       r="25.1"
+       fill-opacity="0.5"
+       fill="rgb(235, 147, 118)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle490" />
+    <text
+       x="-74.10430300830457"
+       y="-55.19541681238923"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text492">1995</text>
+    <circle
+       cx="-5.2750566482252035"
+       cy="-96.77553981248575"
+       r="20.92"
+       fill-opacity="0.5"
+       fill="rgb(245, 180, 152)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle494" />
+    <text
+       x="-5.2750566482252035"
+       y="-96.77553981248575"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text496">1996</text>
+    <circle
+       cx="62.97985668348637"
+       cy="-78.55550014586831"
+       r="25.86"
+       fill-opacity="0.5"
+       fill="rgb(232, 140, 112)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle498" />
+    <text
+       x="62.97985668348637"
+       y="-78.55550014586831"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text500">1997</text>
+    <circle
+       cx="105.33649387003665"
+       cy="0.80894210406521"
+       r="31.56"
+       fill-opacity="0.5"
+       fill="rgb(210, 88, 76)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle502" />
+    <text
+       x="105.33649387003665"
+       y="0.80894210406521"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="15.78"
+       dy="7.89"
+       opacity="1"
+       id="text504">1998</text>
+    <circle
+       cx="49.43298721854571"
+       cy="99.4077913989195"
+       r="23.200000000000003"
+       fill-opacity="0.5"
+       fill="rgb(241, 163, 133)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle506" />
+    <text
+       x="49.43298721854571"
+       y="99.4077913989195"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text508">1999</text>
+    <circle
+       cx="-39.3239074403161"
+       cy="108.27668667162591"
+       r="23.200000000000003"
+       fill-opacity="0.5"
+       fill="rgb(241, 163, 133)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle510" />
+    <text
+       x="-39.3239074403161"
+       y="108.27668667162591"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text512">2000</text>
+    <circle
+       cx="-109.35502749360109"
+       cy="47.86698072402049"
+       r="28.520000000000003"
+       fill-opacity="0.5"
+       fill="rgb(223, 116, 94)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle514" />
+    <text
+       x="-109.35502749360109"
+       y="47.86698072402049"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14.260000000000002"
+       dy="7.130000000000001"
+       opacity="1"
+       id="text516">2001</text>
+    <circle
+       cx="-103.9435680634738"
+       cy="-68.53815502502229"
+       r="31.94"
+       fill-opacity="0.5"
+       fill="rgb(208, 85, 74)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle518" />
+    <text
+       x="-103.9435680634738"
+       y="-68.53815502502229"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="15.97"
+       dy="7.985"
+       opacity="1"
+       id="text520">2002</text>
+    <circle
+       cx="16.50572589729991"
+       cy="-129.2051784552121"
+       r="31.18"
+       fill-opacity="0.5"
+       fill="rgb(211, 92, 78)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle522" />
+    <text
+       x="16.50572589729991"
+       y="-129.2051784552121"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="15.59"
+       dy="7.795"
+       opacity="1"
+       id="text524">2003</text>
+    <circle
+       cx="127.37928667055026"
+       cy="-47.270731505465164"
+       r="28.14"
+       fill-opacity="0.5"
+       fill="rgb(224, 120, 97)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle526" />
+    <text
+       x="127.37928667055026"
+       y="-47.270731505465164"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14.07"
+       dy="7.035"
+       opacity="1"
+       id="text528">2004</text>
+    <circle
+       cx="114.13258306304623"
+       cy="82.67894290081881"
+       r="33.46"
+       fill-opacity="0.5"
+       fill="rgb(201, 71, 66)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle530" />
+    <text
+       x="114.13258306304623"
+       y="82.67894290081881"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="16.73"
+       dy="8.365"
+       opacity="1"
+       id="text532">2005</text>
+    <circle
+       cx="-32.65782928131036"
+       cy="143.28089390422153"
+       r="31.56"
+       fill-opacity="0.5"
+       fill="rgb(210, 88, 76)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle534" />
+    <text
+       x="-32.65782928131036"
+       y="143.28089390422153"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="15.78"
+       dy="7.89"
+       opacity="1"
+       id="text536">2006</text>
+    <circle
+       cx="-148.07663123250225"
+       cy="37.02947323138066"
+       r="32.32"
+       fill-opacity="0.5"
+       fill="rgb(206, 81, 72)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle538" />
+    <text
+       x="-148.07663123250225"
+       y="37.02947323138066"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="16.16"
+       dy="8.08"
+       opacity="1"
+       id="text540">2007</text>
+    <circle
+       cx="-100.57558873895202"
+       cy="-122.44272565494934"
+       r="27.38"
+       fill-opacity="0.5"
+       fill="rgb(227, 127, 102)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle542" />
+    <text
+       x="-100.57558873895202"
+       y="-122.44272565494934"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="14"
+       dy="7"
+       opacity="1"
+       id="text544">2008</text>
+    <circle
+       cx="43.27721817816282"
+       cy="-157.5464725613357"
+       r="31.94"
+       fill-opacity="0.5"
+       fill="rgb(208, 85, 74)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle546" />
+    <text
+       x="43.27721817816282"
+       y="-157.5464725613357"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="15.97"
+       dy="7.985"
+       opacity="1"
+       id="text548">2009</text>
+    <circle
+       cx="166.15789914801246"
+       cy="-31.576109153582056"
+       r="34.599999999999994"
+       fill-opacity="0.5"
+       fill="rgb(195, 61, 61)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle550" />
+    <text
+       x="166.15789914801246"
+       y="-31.576109153582056"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="17.299999999999997"
+       dy="8.649999999999999"
+       opacity="1"
+       id="text552">2010</text>
+    <circle
+       cx="91.78166459319009"
+       cy="149.42260657833262"
+       r="30.04"
+       fill-opacity="0.5"
+       fill="rgb(216, 103, 85)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle554" />
+    <text
+       x="91.78166459319009"
+       y="149.42260657833262"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="15.02"
+       dy="7.51"
+       opacity="1"
+       id="text556">2011</text>
+    <circle
+       cx="-86.30990986318297"
+       cy="158.8308390761984"
+       r="31.56"
+       fill-opacity="0.5"
+       fill="rgb(210, 88, 76)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle558" />
+    <text
+       x="-86.30990986318297"
+       y="158.8308390761984"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="15.78"
+       dy="7.89"
+       opacity="1"
+       id="text560">2012</text>
+    <circle
+       cx="-186.37122704731172"
+       cy="-5.336035479585817"
+       r="32.7"
+       fill-opacity="0.5"
+       fill="rgb(204, 78, 70)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle562" />
+    <text
+       x="-186.37122704731172"
+       y="-5.336035479585817"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="16.35"
+       dy="8.175"
+       opacity="1"
+       id="text564">2013</text>
+    <circle
+       cx="-75.02710623325912"
+       cy="-177.09643423633142"
+       r="35.739999999999995"
+       fill-opacity="0.5"
+       fill="rgb(189, 51, 56)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle566" />
+    <text
+       x="-75.02710623325912"
+       y="-177.09643423633142"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="17.869999999999997"
+       dy="8.934999999999999"
+       opacity="1"
+       id="text568">2014</text>
+    <circle
+       cx="148.91349726185385"
+       cy="-131.654894005061"
+       r="41.06"
+       fill-opacity="0.5"
+       fill="rgb(150, 18, 40)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle570" />
+    <text
+       x="148.91349726185385"
+       y="-131.654894005061"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="20.53"
+       dy="10.265"
+       opacity="1"
+       id="text572">2015</text>
+    <circle
+       cx="156.43584955064057"
+       cy="134.2712963113463"
+       r="45.62"
+       fill-opacity="0.5"
+       fill="rgb(107, 1, 32)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle574" />
+    <text
+       x="156.43584955064057"
+       y="134.2712963113463"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="22.81"
+       dy="11.405"
+       opacity="1"
+       id="text576">2016</text>
+    <circle
+       cx="-143.10702586523868"
+       cy="159.60743421484455"
+       r="41.82"
+       fill-opacity="0.5"
+       fill="rgb(143, 15, 38)"
+       stroke="#000000"
+       stroke-opacity="0.9"
+       stroke-width="0.5"
+       id="circle578" />
+    <text
+       x="-143.10702586523868"
+       y="159.60743421484455"
+       text-anchor="middle"
+       fill="#000000"
+       font-family="Lato"
+       font-size="20.91"
+       dy="10.455"
+       opacity="1"
+       id="text580">2017</text>
+  </g>
+  <text
+     font-family="Lato"
+     text-anchor="begin"
+     style="fill: rgb(215, 221, 232);"
+     id="text582">
+    <tspan
+       font-size="32"
+       x="20"
+       y="45"
+       font-weight="normal"
+       stroke="#d0d0d0"
+       stroke-width="0.05"
+       id="tspan584">Temperature Anomalies 1880 – 2017</tspan>
+    <tspan
+       font-size="18"
+       x="20"
+       y="640"
+       font-weight="normal"
+       stroke="none"
+       id="tspan586">Data Source:</tspan>
+    <tspan
+       font-size="16"
+       x="20"
+       y="660"
+       font-weight="normal"
+       stroke="none"
+       id="tspan588">NASA GISS, GISTEMP Land-Ocean Temperature Index (LOTI), Global Annual Means</tspan>
+    <tspan
+       font-size="16"
+       x="20"
+       y="680"
+       font-weight="normal"
+       stroke="none"
+       id="tspan590">https://data.giss.nasa.gov/gistemp/</tspan>
+    <tspan
+       font-size="16"
+       x="20"
+       y="700"
+       font-weight="normal"
+       stroke="none"
+       id="tspan592">Base period 1951–1980.</tspan>
+    <tspan
+       font-size="14"
+       x="1110"
+       y="700"
+       font-weight="normal"
+       stroke="none"
+       id="tspan594">Antti Lipponen (@anttilip)</tspan>
+  </text>
+</svg>

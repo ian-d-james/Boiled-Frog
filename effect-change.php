@@ -58,7 +58,7 @@
 								</h3>
 							</header>
 							<br /><br />
-							<p>Coming soon.</p>
+							<p style="text-align:center;"><image height="100" width="100" src="/images/under-construction.png" /></p>
 											  <!-- Load Facebook SDK for JavaScript -->
 							<div id="fb-root"></div>
 							<script>(function(d, s, id) {

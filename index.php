@@ -106,7 +106,7 @@
 									</header>
 									<p>How do you talk to someone who doesn't believe in climate change? Not by rehashing the same data and facts we've been discussing for years, says climate scientist Katharine Hayhoe.</p>
 									<footer class="align-center">
-										<a href="moving-on.html" class="button alt">Learn More</a>
+										<a href="moving-on.php" class="button alt">Learn More</a>
 									</footer>
 								</div>
 							</div>
@@ -127,7 +127,7 @@
 									</header>
 									<p>Five-time Everest summiteer and acclaimed American filmmaker David Breashears helps raise awareness about the consequences of climate change.</p>
 									<footer class="align-center">
-										<a href="criminality.html" class="button alt">Learn More</a>
+										<a href="visualizations.php" class="button alt">Learn More</a>
 									</footer>
 								</div>
 							</div>
@@ -158,33 +158,34 @@
 
 						<div>
 							<div class="image fit">
-							<iframe width="520" height="395" src="https://www.youtube.com/embed/K4Ra2HR27pQ?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-							<div style="margin-top:10px; font-family: Arial;">Temperature Anolomies Arranged by Country</div>
-							</div>
-						</div>
-
-						<div>
-							<div class="image fit">
-							<div style="float:left; margin-right:20px;"><iframe width="540" height="315" src="https://www.youtube.com/embed/69HHZkE9HpA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-								<div style="margin-top:10px; font-family: Arial;">The Carbon Map</div>
-							</div>
-						</div>
-
-						<div>
-							<div class="image fit">
-							<a target="_blank" href="http://news-lab-trends-experiment.appspot.com/"><embed src="http://news-lab-trends-experiment.appspot.com/" style="width:500px; height: 300px;"></a>
-								<div style="margin-top:10px; font-family: Arial;">The Carbon Map</div>
+							<a target="_blank" href="https://anttilip.net/pages/temperatureanomalies_1880_2017/"><img class="borders" src="images/website-7.jpg" alt="Climate Central Website" /></a>
+								<div style="margin-top:10px; font-family: Arial;"><b>Temperature Anomolies</b> - Antti Lipponen</div>
 							</div>
 						</div>
 
 						<div>
 							<div class="image fit">
 								<a target="_blank" href="https://www.carbonmap.org/#"><img class="borders" src="images/website-5.jpg" alt="Climate Central Website" /></a>
-								<div style="margin-top:10px; font-family: Arial;"><b>The Carbon Map</b> - Carbon Emission Sources and Impacts</div>
+								<div style="margin-top:10px; font-family: Arial;"><b>The Carbon Map</b> - Kiln Data Visualization</div>
+							</div>
+						</div>
+
+						<div>
+							<div class="image fit">
+							<a target="_blank" href="http://news-lab-trends-experiment.appspot.com/"><img class="borders" src="images/website-6.jpg" alt="Climate Central Website" /></a>
+								<div style="margin-top:10px; font-family: Arial;"><b>A World of Change</b> - Google Trends</div>
+							</div>
+						</div>
+
+						<div>
+							<div class="image fit">
+								<a target="_blank" href="https://www.climatewatchdata.org/"><img class="borders" src="images/website-8.jpg" alt="Climate Central Website" /></a>
+								<div style="margin-top:10px; margin-bottom:32px; font-family: Arial;"><b>Data for climate action</b> - Climate Watch</div>
 							</div>
 						</div>
 
 					</div>
+					<div style="text-align: center;"><a style="text-decoration:none;" href="visualizations.php"><h3>More Visualizations</h3></a></div>
 				</div>
 			</section>
 

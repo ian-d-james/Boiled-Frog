@@ -56,6 +56,7 @@
 								<p>Mahatma Gandhi</p>
 								<h2>It is wrong and immoral to seek to escape the consequences of one's acts.</h2>
 							</header>
+							<p style="text-align:center;"><image height="100" width="100" src="/images/under-construction.png" /></p>
 							<br /><br />
 							<p style="font-style: italic; color:black;">"'Some say I should be in school. But why should any young person be made to study for a future when no-one is doing enough to save that future? What is the point of learning facts when the most important facts given by the finest scientists are <b>ignored</b> by politicians."<br />
 								<span style="font-style: normal;">Greta Thunberg</span></p>
