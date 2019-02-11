@@ -129,36 +129,36 @@
               <div style="padding:20px;">
               <p>The image and graphic links below are regularly updated to provide easy access to new climate change content and visualizations. Click <b>View</b> to expand and view a graphic. Click <b>View</b> again to collapse and close the graphic.</p>
               <div class="visualizations">        
-                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-1.jpg" />
-                  <b>NASA</b> <div class="play-time">Play Time: 00:36</div>
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-14.jpg" />
+                  <b>Shangning Wang</b> <div class="play-time">Dimensions: 800 x 769</div>
                 </div> 
 
                 <div>
                   <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
                   <div class="expandcontent">
-                  <iframe width="1000" height="562" src="https://www.youtube.com/embed/Z4bSxb5THm4?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <img style="" src="./images/visual18.jpg" />
                   </div>
                 </div>  
 
               </div>
               <br />
-              <div style="margin-left:18px;"><b>Description: </b>Earth’s global surface temperatures were the second warmest since 1880.</div>
+              <div style="margin-left:18px;"><b>Description: </b>Map of global warming and abrupt climate change.</div>
               <br /><br />
 
               <div style="background-color: #F0F0F0; padding:20px;">
 
                 <div class="visualizations">
-                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-2.jpg" />
-                  <b>Antti Lipponen</b> <div class="play-time">Play Time: 00:36</div>
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-15.jpg" />
+                  <b>World Wildlife Foundation</b> <div class="play-time">Dimensions: 800 x 566</div>
                 </div> 
 
                 <div>
                   <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
                   <div class="expandcontent2">
-                  <iframe width="1000" height="562" src="https://www.youtube.com/embed/PhbdyNnUliM?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <img style="" src="./images/wwf-image.jpg" />
                   </div>
                 </div>  
-              <div style="margin-top:44px;"><b>Description: </b>Temperature Anomalies by Country 1880-2017 based on NASA GISTEMP data.</div>
+              <div style="margin-top:44px;"><b>Description: </b>Climate risks: 1.5&#176;C versus 2&#176;C global warming</div>
               </div>
               <br /><br />
 

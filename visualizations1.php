@@ -339,7 +339,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-12.jpg" />
-                  <b>Arizona State University</b> <div class="play-time">10:09</div>
+                  <b>Arizona State University</b> <div class="play-time">00:22</div>
                 </div> 
 
                 <div>
@@ -360,7 +360,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-13.jpg" />
-                  <b>Arizona State University</b> <div class="play-time">02:32</div>
+                  <b>Arizona State University</b> <div class="play-time">02:34</div>
                 </div> 
 
                 <div>
