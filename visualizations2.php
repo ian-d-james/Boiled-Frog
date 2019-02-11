@@ -5,7 +5,7 @@
 -->
 <html>
 	<head>
- 		<title>Boiled Frog - Climate Change and Visualizations</title>
+ 		<title>Boiled Frog - Climate Change Videos and Visualizations</title>
 		<meta name="description" content="Climate Change Criminality">
 		<meta name="author" content="Ian James">
 		<meta charset="utf-8" />
@@ -52,7 +52,7 @@
     background-color: #FFFFFF;
     margin-left:0px;
     padding-left:0px;
-    margin-top:30px;
+    margin-top:50px;
   }
 
   .expandcontent2 {
@@ -62,13 +62,30 @@
     background-color: #F0F0F0;
     margin-left:0px;
     padding-left:0px;
-    margin-top:30px;
+    margin-top:50px;
   }
 
   .visualizations {
-    
     width: 1000px;
     margin-top:5px;
+  }
+
+  .play-time {
+    display:block; 
+    color:gray; 
+    font-size: 11px; 
+    margin-top: -6px; 
+    margin-bottom: -2px;
+  }
+
+  .video-wrapper {
+    margin-right: auto;
+    margin-left:  auto;
+
+    max-width: 800px;
+
+    padding-right: 10px;
+    padding-left:  10px;
   }
 
   </style>
@@ -102,15 +119,18 @@
 					<div class="box">
 						<div class="content">
 							<header class="align-center">
-								<p>Visual Imagery</p>
+                <br />
+								<p>Climate Change Graphics and Videos</p>
 								<h3>The majority of humans are visual learners. If they can see a problem, it is more likely to capture<br />their attention and motivate them to act.
 								</h3>
-							</header>
+                </header>
+              <div style="text-align: center;"><a style="text-decoration:none;" href="visualizations1.php"><span style="color:gray;">Videos</span></a> / 
+              <a style="text-decoration:none;" href="visualizations2.php"><span style="color:black;">Graphics</a></span></div>
               <div style="padding:20px;">
-
-                <div class="visualizations">
+              <p>The image and graphic links below are regularly updated to provide easy access to new climate change content and visualizations. Click <b>View</b> to expand and view a graphic. Click <b>View</b> again to collapse and close the graphic.</p>
+              <div class="visualizations">        
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-1.jpg" />
-                  <b>NASA</b><br />Earth’s global surface temperatures were the second warmest since record-keeping began in 1880.<br />
+                  <b>NASA</b> <div class="play-time">Play Time: 00:36</div>
                 </div> 
 
                 <div>
@@ -121,13 +141,15 @@
                 </div>  
 
               </div>
+              <br />
+              <div style="margin-left:18px;"><b>Description: </b>Earth’s global surface temperatures were the second warmest since 1880.</div>
               <br /><br />
 
               <div style="background-color: #F0F0F0; padding:20px;">
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-2.jpg" />
-                  <b>Antti Lipponen</b><br />Temperature Anomalies by Country 1880-2017 based on NASA GISTEMP data.<br />
+                  <b>Antti Lipponen</b> <div class="play-time">Play Time: 00:36</div>
                 </div> 
 
                 <div>
@@ -136,16 +158,15 @@
                   <iframe width="1000" height="562" src="https://www.youtube.com/embed/PhbdyNnUliM?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
                 </div>  
-
+              <div style="margin-top:44px;"><b>Description: </b>Temperature Anomalies by Country 1880-2017 based on NASA GISTEMP data.</div>
               </div>
-
               <br /><br />
 
               <div style="padding:20px;">
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-3.jpg" />
-                  <b>GOOD Magazine</b><br />Global warming could create 150,000,000 "climate refugees" over next 40 years.<br />
+                  <b>GOOD Magazine</b> <div class="play-time">01:52</div>
                 </div> 
 
                 <div>
@@ -154,7 +175,7 @@
                   <iframe width="1000" height="562" src="https://www.youtube.com/embed/YUdSFHFywpg?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
                 </div>  
-
+                <div style="margin-top:44px;"><b>Description: </b>Global warming could create 150,000,000 "climate refugees" over next 40 years.</div>
               </div>
 
               <br /><br />
@@ -163,7 +184,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-4.jpg" />
-                  <b>NASA</b><br />Annual Arctic sea ice minimum 1979-2018 with area graph.<br />
+                  <b>NASA</b> <div class="play-time">00:41</div>
                 </div> 
 
                 <div>
@@ -171,6 +192,7 @@
                   <div class="expandcontent2">
                   <iframe width="1000" height="562" src="https://www.youtube.com/embed/ULEFPCIPP7Y?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
+                  <div style="margin-top:44px;"><b>Description: </b>Annual Arctic sea ice minimum 1979-2018 with area graph.</div>
                 </div>  
 
               </div>
@@ -181,7 +203,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-5.jpg" />
-                  <b>Neil DeGrasse Tyson</b><br />Simple explanation of climate change.<br />
+                  <b>Neil DeGrasse Tyson</b> <div class="play-time">03:59</div>
                 </div> 
 
                 <div>
@@ -189,6 +211,7 @@
                   <div class="expandcontent">
                   <iframe width="1000" height="562" src="https://www.youtube.com/embed/6VUPIX7yEOM?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
+                  <div style="margin-top:44px;"><b>Description: </b>Simple explanation of climate change.</div>
                 </div>  
 
               </div>
@@ -199,7 +222,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-6.jpg" />
-                  <b>Antti Lipponen</b><br />Temperature anomalies arranged by country from 1900 - 2016.<br />
+                  <b>Antti Lipponen</b> <div class="play-time">00:34</div>
                 </div> 
 
                 <div>
@@ -207,6 +230,7 @@
                   <div class="expandcontent2">
                   <iframe width="1000" height="562" src="https://www.youtube.com/embed/K4Ra2HR27pQ?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
+                  <div style="margin-top:44px;"><b>Description: </b>Temperature anomalies arranged by country from 1900 - 2016.</div>
                 </div>  
 
               </div>
@@ -217,7 +241,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-7.jpg" />
-                  <b>Antti Lipponen</b><br />Global temperature change 1850 - 2016.<br />
+                  <b>Antti Lipponen</b> <div class="play-time">00:36</div>
                 </div> 
 
                 <div>
@@ -225,6 +249,7 @@
                   <div class="expandcontent">
                   <iframe width="1000" height="562" src="https://www.youtube.com/embed/69HHZkE9HpA?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
+                  <div style="margin-top:44px;"><b>Description: </b>Global temperature change 1850 - 2016.</div>
                 </div>  
 
               </div>
@@ -235,7 +260,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-8.jpg" />
-                  <b>Potsdam Institute for Climate Impact Research</b><br />A brief history of CO2 emissions.<br />
+                  <b>Potsdam Institute for Climate Impact Research</b> <div class="play-time">08:16</div>
                 </div> 
 
                 <div>
@@ -243,6 +268,64 @@
                   <div class="expandcontent2">
                   <iframe src="https://player.vimeo.com/video/232557105" width="1000" height="562" frameborder="0" allowfullscreen></iframe>
                   </div>
+                  <div style="margin-top:44px;"><b>Description: </b>A brief history of CO2 emissions.</div>
+                </div>  
+
+              </div>
+
+              <br /><br />
+
+              <div style="padding:20px;">
+
+                <div class="visualizations">
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-9.jpg" />
+                  <b>NASA</b> <div class="play-time">00:56</div>
+                </div> 
+
+                <div>
+                  <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
+                  <div class="expandcontent">
+                  <iframe width="1000" height="562" src="https://www.youtube.com/embed/CW0D9XTgiGs?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div>
+                  <div style="margin-top:44px;"><b>Description: </b>New study finds sea level rise accelerating.</div>
+                </div>  
+
+              </div>
+
+              <br /><br />
+
+              <div style="background-color: #F0F0F0; padding:20px;">
+
+                <div class="visualizations">
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-10.jpg" />
+                  <b>PBS News Hour</b> <div class="play-time">10:09</div>
+                </div> 
+
+                <div>
+                  <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
+                  <div class="expandcontent2">
+                  <iframe width="1000" height="562" src="https://www.youtube.com/embed/ydPqKhgh9Mg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div>
+                  <div style="margin-top:44px;"><b>Description: </b>Why U.S. lawmakers failed to act on climate change decades ago.</div>
+                </div>  
+
+              </div>
+
+              <br /><br />
+
+              <div style="padding:20px;">
+
+                <div class="visualizations">
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-11.jpg" />
+                  <b>NASA</b> <div class="play-time">02:32</div>
+                </div> 
+
+                <div>
+                  <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
+                  <div class="expandcontent">
+                  <iframe width="1000" height="562" src="https://www.youtube.com/embed/NIG5ZQT8IAY?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div>
+                  <div style="margin-top:44px;"><b>Description: </b>New satellites study one of Earth's most critically changing regions.</div>
                 </div>  
 
               </div>
