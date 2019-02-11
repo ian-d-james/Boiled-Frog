@@ -116,7 +116,7 @@
 							<div class="box">
 								<div class="image fit">
 									<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%">
-											<iframe width="854" height="480" src="https://www.youtube.com/embed/nGAna_ZNIQk?rel=0" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe>
+									<video class='vjs-tech' controls='' controlsList='nodownload' width='100%' poster='https://asiasociety.org/sites/default/files/video_library/thumbs/140916_climate_change_ex.jpg'><source class='embed' src='http://media.asiasociety.org/video/140916_unga_climate_change_ex.mp4' type='video/mp4' /> Your browser does not support HTML5 video.</video>
 									</div>
 								</div>
 								
@@ -180,7 +180,7 @@
 						<div>
 							<div class="image fit">
 								<a target="_blank" href="https://www.climatewatchdata.org/"><img class="borders" src="images/website-8.jpg" alt="Climate Central Website" /></a>
-								<div style="margin-top:10px; margin-bottom:32px; font-family: Arial;"><b>Data for climate action</b> - Climate Watch</div>
+								<div style="margin-top:10px; font-family: Arial;"><b>Data for climate action</b> - Climate Watch</div>
 							</div>
 						</div>
 
