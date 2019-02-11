@@ -165,17 +165,17 @@
               <div style="padding:20px;">
 
                 <div class="visualizations">
-                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-3.jpg" />
-                  <b>GOOD Magazine</b> <div class="play-time">01:52</div>
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-16.jpg" />
+                  <b>Seth Wynes / Kimberly Nicholas</b> <div class="play-time">Dimensions: 800 x 565</div>
                 </div> 
 
                 <div>
                   <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
                   <div class="expandcontent">
-                  <iframe width="1000" height="562" src="https://www.youtube.com/embed/YUdSFHFywpg?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <img style="" src="./images/personal-contribution.jpg" />
                   </div>
                 </div>  
-                <div style="margin-top:44px;"><b>Description: </b>Global warming could create 150,000,000 "climate refugees" over next 40 years.</div>
+                <div style="margin-top:44px;"><b>Description: </b>Personal choices to reduce your contribution to climate change.</div>
               </div>
 
               <br /><br />
@@ -183,16 +183,16 @@
               <div style="background-color: #F0F0F0; padding:20px;">
 
                 <div class="visualizations">
-                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-4.jpg" />
-                  <b>NASA</b> <div class="play-time">00:41</div>
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-17.jpg" />
+                  <b>Weather Underground</b> <div class="play-time">Dimensions: 800 x 1375</div>
                 </div> 
 
                 <div>
                   <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
                   <div class="expandcontent2">
-                  <iframe width="1000" height="562" src="https://www.youtube.com/embed/ULEFPCIPP7Y?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <img style="" src="./images/visual13.png" />
                   </div>
-                  <div style="margin-top:44px;"><b>Description: </b>Annual Arctic sea ice minimum 1979-2018 with area graph.</div>
+                  <div style="margin-top:44px;"><b>Description: </b>Climate change today.</div>
                 </div>  
 
               </div>
@@ -202,16 +202,16 @@
               <div style="padding:20px;">
 
                 <div class="visualizations">
-                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-5.jpg" />
-                  <b>Neil DeGrasse Tyson</b> <div class="play-time">03:59</div>
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-18.jpg" />
+                  <b>World Resources Institute</b> <div class="play-time">Dimensions: 800 x 783</div>
                 </div> 
 
                 <div>
                   <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
                   <div class="expandcontent">
-                  <iframe width="1000" height="562" src="https://www.youtube.com/embed/6VUPIX7yEOM?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <img style="" src="./images/green-house-gas.png" />
                   </div>
-                  <div style="margin-top:44px;"><b>Description: </b>Simple explanation of climate change.</div>
+                  <div style="margin-top:44px;"><b>Description: </b>Explore the world's greenhouse gas emissions.</div>
                 </div>  
 
               </div>
@@ -221,16 +221,16 @@
               <div style="background-color: #F0F0F0; padding:20px;">
 
                 <div class="visualizations">
-                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-6.jpg" />
-                  <b>Antti Lipponen</b> <div class="play-time">00:34</div>
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-19.jpg" />
+                  <b>British Gas</b> <div class="play-time">Dimensions: 800 x 299</div>
                 </div> 
 
                 <div>
                   <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
                   <div class="expandcontent2">
-                  <iframe width="1000" height="562" src="https://www.youtube.com/embed/K4Ra2HR27pQ?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <img style="" src="./images/emission-sources.jpg" />
                   </div>
-                  <div style="margin-top:44px;"><b>Description: </b>Temperature anomalies arranged by country from 1900 - 2016.</div>
+                  <div style="margin-top:44px;"><b>Description: </b>Source of carbon emissions by country.</div>
                 </div>  
 
               </div>
@@ -240,95 +240,20 @@
               <div style="padding:20px;">
 
                 <div class="visualizations">
-                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-7.jpg" />
-                  <b>Antti Lipponen</b> <div class="play-time">00:36</div>
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-20.jpg" />
+                  <b>Ed Hawkins</b> <div class="play-time">Dimensions: 800 x 755</div>
                 </div> 
 
                 <div>
                   <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
                   <div class="expandcontent">
-                  <iframe width="1000" height="562" src="https://www.youtube.com/embed/69HHZkE9HpA?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <img style="" src="./images/visual 17.png" />
                   </div>
-                  <div style="margin-top:44px;"><b>Description: </b>Global temperature change 1850 - 2016.</div>
+                  <div style="margin-top:44px;"><b>Description: </b>Earth’s annual temperature anomalies from 1850 to 2016.</div>
                 </div>  
 
               </div>
 
-              <br /><br />
-
-              <div style="background-color: #F0F0F0; padding:20px;">
-
-                <div class="visualizations">
-                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-8.jpg" />
-                  <b>Potsdam Institute for Climate Impact Research</b> <div class="play-time">08:16</div>
-                </div> 
-
-                <div>
-                  <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
-                  <div class="expandcontent2">
-                  <iframe src="https://player.vimeo.com/video/232557105" width="1000" height="562" frameborder="0" allowfullscreen></iframe>
-                  </div>
-                  <div style="margin-top:44px;"><b>Description: </b>A brief history of CO2 emissions.</div>
-                </div>  
-
-              </div>
-
-              <br /><br />
-
-              <div style="padding:20px;">
-
-                <div class="visualizations">
-                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-9.jpg" />
-                  <b>NASA</b> <div class="play-time">00:56</div>
-                </div> 
-
-                <div>
-                  <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
-                  <div class="expandcontent">
-                  <iframe width="1000" height="562" src="https://www.youtube.com/embed/CW0D9XTgiGs?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  </div>
-                  <div style="margin-top:44px;"><b>Description: </b>New study finds sea level rise accelerating.</div>
-                </div>  
-
-              </div>
-
-              <br /><br />
-
-              <div style="background-color: #F0F0F0; padding:20px;">
-
-                <div class="visualizations">
-                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-10.jpg" />
-                  <b>PBS News Hour</b> <div class="play-time">10:09</div>
-                </div> 
-
-                <div>
-                  <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
-                  <div class="expandcontent2">
-                  <iframe width="1000" height="562" src="https://www.youtube.com/embed/ydPqKhgh9Mg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  </div>
-                  <div style="margin-top:44px;"><b>Description: </b>Why U.S. lawmakers failed to act on climate change decades ago.</div>
-                </div>  
-
-              </div>
-
-              <br /><br />
-
-              <div style="padding:20px;">
-
-                <div class="visualizations">
-                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-11.jpg" />
-                  <b>NASA</b> <div class="play-time">02:32</div>
-                </div> 
-
-                <div>
-                  <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
-                  <div class="expandcontent">
-                  <iframe width="1000" height="562" src="https://www.youtube.com/embed/NIG5ZQT8IAY?rel=0" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  </div>
-                  <div style="margin-top:44px;"><b>Description: </b>New satellites study one of Earth's most critically changing regions.</div>
-                </div>  
-
-              </div>
 
 						</div>
 					</div>
