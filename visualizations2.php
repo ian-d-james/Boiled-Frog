@@ -247,13 +247,88 @@
                 <div>
                   <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
                   <div class="expandcontent">
-                  <img style="" src="./images/visual 17.png" />
+                  <img style="" src="./images/Visual 17.png" />
                   </div>
                   <div style="margin-top:44px;"><b>Description: </b>Earth’s annual temperature anomalies from 1850 to 2016.</div>
                 </div>  
 
               </div>
 
+              <br /><br />
+
+              <div style="background-color: #F0F0F0; padding:20px;">
+
+                <div class="visualizations">
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-21.jpg" />
+                  <b>Nikole Wohlmacher</b> <div class="play-time">Dimensions: 800 x 1413</div>
+                </div> 
+
+                <div>
+                  <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
+                  <div class="expandcontent2">
+                  <img style="" src="./images/visual 18.png" />
+                  </div>
+                  <div style="margin-top:44px;"><b>Description: </b>Loss of species biodiversity - sixth mass extinction.</div>
+                </div>  
+
+              </div>
+
+              <br /><br />
+
+              <div style="padding:20px;">
+
+                <div class="visualizations">
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-22.jpg" />
+                  <b>George Washington University</b> <div class="play-time">Dimensions: 800 x 800</div>
+                </div> 
+
+                <div>
+                  <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
+                  <div class="expandcontent">
+                  <img style="" src="./images/visual6.jpg" />
+                  </div>
+                  <div style="margin-top:44px;"><b>Description: </b>CO2 emission vs. vulnerability to climate change, by nation.</div>
+                </div>  
+
+              </div>
+
+              <br /><br />
+
+              <div style="background-color: #F0F0F0; padding:20px;">
+
+                <div class="visualizations">
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-23.jpg" />
+                  <b>David McCandless</b> <div class="play-time">Dimensions: 800 x 558</div>
+                </div> 
+
+                <div>
+                  <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
+                  <div class="expandcontent2">
+                  <img style="" src="./images/visual 14.png" />
+                  </div>
+                  <div style="margin-top:44px;"><b>Description: </b>When sea levels attack!</div>
+                </div>  
+
+              </div>
+
+              <br /><br />
+
+              <div style="padding:20px;">
+
+                <div class="visualizations">
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-24.jpg" />
+                  <b>David McCandless</b> <div class="play-time">Dimensions: 800 x 540</div>
+                </div> 
+
+                <div>
+                  <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
+                  <div class="expandcontent">
+                  <img style="" src="./images/Visual 16.png" />
+                  </div>
+                  <div style="margin-top:44px;"><b>Description: </b>Extreme global warming solutions currently on the table.</div>
+                </div>  
+
+              </div>
 
 						</div>
 					</div>

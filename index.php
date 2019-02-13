@@ -29,7 +29,7 @@
 
 		<!-- Header -->
 			<header id="header" class="alt">
-				<div class="logo"><a href="http://boiledfrog.ca">Boiled Frog</a></div>
+				<div class="logo"><a href="https://boiledfrog.ca">Boiled Frog</a></div>
 				<a href="#menu">Menu</a>
 			</header>
 
@@ -80,6 +80,15 @@
 						<header>
 							<p>Is Climate Change Denial a Crime?</p>
 							<h2>Wild Fires</h2>
+						</header>
+					</div>
+				</article>
+				<article>
+					<img src="images/banner-7.jpg"  alt="Wild Fires" />
+					<div class="inner">
+						<header>
+							<p>Is Climate Change Denial a Crime?</p>
+							<h2>Loss of Biodiversity</h2>
 						</header>
 					</div>
 				</article>
@@ -172,15 +181,15 @@
 
 						<div>
 							<div class="image fit">
-							<a target="_blank" href="http://news-lab-trends-experiment.appspot.com/"><img class="borders" src="images/website-6.jpg" alt="Climate Central Website" /></a>
-								<div style="margin-top:10px; font-family: Arial;"><b>A World of Change</b> - Google Trends</div>
+							<a target="_blank" href="http://theyearsproject.com/"><img class="borders" src="images/website-10.jpg" alt="Years of Living Dangerously Website" /></a>
+								<div style="margin-top:10px; font-family: Arial;"><b>Climate Change Storytelling</b> - Years of Living Dangerously</div>
 							</div>
 						</div>
 
 						<div>
 							<div class="image fit">
-								<a target="_blank" href="https://www.climatewatchdata.org/"><img class="borders" src="images/website-8.jpg" alt="Climate Central Website" /></a>
-								<div style="margin-top:10px; font-family: Arial;"><b>Data for climate action</b> - Climate Watch</div>
+								<a target="_blank" href="https://www.theguardian.com/news/2018/mar/12/what-is-biodiversity-and-why-does-it-matter-to-us"><img class="borders" src="images/website-9.jpg" alt="Sixth Mass Extinction" /></a>
+								<div style="margin-top:10px; font-family: Arial;"><b>Sixth mass extinction</b> - The Guardian</div>
 							</div>
 						</div>
 

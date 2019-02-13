@@ -373,6 +373,25 @@
 
               </div>
 
+              <br /><br />
+
+              <div style="background-color: #F0F0F0; padding:20px;">
+
+                <div class="visualizations">
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-25.jpg" />
+                  <b>Google</b> <div class="play-time">00:22</div>
+                </div> 
+
+                <div>
+                  <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
+                  <div class="expandcontent2">
+                  <embed src="http://news-lab-trends-experiment.appspot.com/" style="width:1000px; height: 700px;">
+                  </div>
+                  <div style="margin-top:44px;"><b>Description: </b>Climate change through the lens of Google search.</div>
+                </div>  
+
+              </div>
+
 						</div>
 					</div>
 				</div>
