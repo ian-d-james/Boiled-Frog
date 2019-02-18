@@ -94,7 +94,7 @@
 							<br />
 							<h3>Protect and Restore Ecosystems</h3>
 							<p>Governments must preserve and restore ecosystems, particularly rivers, wetlands, oceans, riparian forests and mangroves. Policies may include:</p>
-							<img style="float:left; border:1px solid gray; height:425px; width:335px; margin-bottom:8px; margin-right:24px;" src="./images/habitat-restoration.jpg" />
+							<img style="float:left; solid gray; height:450px; width:361px; margin-bottom:8px; margin-right:24px;" src="./images/habitat-restoration.jpg" />
 							<p>
 								<ul style="width: auto; overflow: hidden;">
 									<li>Establishing protected areas through legal measures can serve to protect and preserve critical ecosystems</li>
@@ -114,7 +114,7 @@
 							   land management and restoration.</p>
 
 							<h3>Promote Renewable (Green) Energy</h3>
-							<img style="float:right; border:1px solid gray; height:570px; width:325px; margin-bottom:8px; margin-left:24px;" src="./images/green-energy.jpg" />
+							<img style="float:right; solid gray; height:608px; width:367px; margin-bottom:8px; margin-left:24px;" src="./images/green-energy.jpg" />
 							
 							<p>According to the Global Energy Network Institute, the following government policies prove most effective for promoting renewable energy:</p>
 							<ul style="width: auto; overflow: hidden;">
@@ -194,9 +194,11 @@
 							<p>Unfortunately, the policy may prove too broad as it seeks to address both climate change and economic inequality. Its socialist theme will likely alienate many who would otherwise support climate change policies. Nonetheless, the green deal 
 							serves as an important wake-up call, recognizing the peril of status quo. It proposes a much broader scope and scale of policy change to address our ever accelerating ecological crisis.</p>
 
+							<br /><br />
+
 							<p><i>"We cannot deal with the climate crisis, much less the overall planetary ecological emergency, in an effective way while conforming to the logic of a globalized capitalist economy. But we currently live in such an economy, and we have a very short time 
 							in which to respond to climate change. So, it becomes a question of immediately choosing to steer society toward putting people and nature before profits, as opposed to what capitalism does, i.e. putting profits before people and nature. We have to go against 
-							the logic of the system even while living within it."</i><br /> <b> John Bellamy Foster</b></p>
+							the logic of the system even while living within it."</i><br /><br /> <b> John Bellamy Foster</b> - professor of sociology at the University of Oregon</p>
 							<p>Full details of the new green deal can be read <a target="_blank" href="./assets/content/Green-New-Deal-final.pdf">here</a>.</p>
 						</div>
 					</div>

@@ -5,8 +5,8 @@
 -->
 <html>
 	<head>
- 		<title>Boiled Frog - Climate Change Videos and Visualizations</title>
-		<meta name="description" content="Climate Change Criminality">
+ 		<title>Boiled Frog - Climate Change Images</title>
+		<meta name="description" content="Climate Change Images">
 		<meta name="author" content="Ian James">
 		<meta charset="utf-8" />
 		<meta name="keywords" content="environment, climate, change, global, warming, greenhouse, enhanced, effect, accountability, criminality, cuplability, IPCC, NASA">
@@ -119,13 +119,13 @@
 					<div class="box">
 						<div class="content">
 							<header class="align-center">
-                <br />
-								<p>Climate Change Graphics and Videos</p>
+								<p>Climate Change Images</p>
 								<h3>The majority of humans are visual learners. If they can see a problem, it is more likely to capture<br />their attention and motivate them to act.
 								</h3>
                 </header>
-              <div style="text-align: center;"><a style="text-decoration:none;" href="visualizations1.php"><span style="color:gray;">Videos</span></a> / 
-              <a style="text-decoration:none;" href="visualizations2.php"><span style="color:black;">Graphics</a></span></div>
+              <div style="text-align: center;"><a style="text-decoration:none;" href="visualizations1.php"><span style="color:gray; font-size:12px">Animations</span></a> / 
+              <a style="text-decoration:none;" href="visualizations2.php"><span style="color:black; font-size:12px">Images</a></span> / 
+              <a style="text-decoration:none;" href="visualizations3.php"><span style="color:gray; font-size:12px">Videos</a></span></div>
               <div style="padding:20px;">
               <p>The image and graphic links below are regularly updated to provide easy access to new climate change content and visualizations. Click <b>View</b> to expand and view a graphic. Click <b>View</b> again to collapse and close the graphic.</p>
               <div class="visualizations">        
