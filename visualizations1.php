@@ -392,6 +392,25 @@
 
               </div>
 
+              <br /><br />
+
+              <div style="padding:20px;">
+
+                <div class="visualizations">
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-27.jpg" />
+                  <b>Carbon Pricing Leadership Coalition</b> <div class="play-time">01:57</div>
+                </div> 
+
+                <div>
+                  <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
+                  <div class="expandcontent">
+                  <iframe width="1000" height="562" src="https://www.youtube.com/embed/PQPDGfeRoS8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div>
+                  <div style="margin-top:44px;"><b>Description: </b>Pricing carbon: It's about our economy and our future.</div>
+                </div>  
+
+              </div>
+
 						</div>
 					</div>
 				</div>

@@ -57,28 +57,10 @@
 								<h3>The power of the people is much stronger than the people in power.
 								</h3>
 							</header>
-							<br /><br />
 							<p style="text-align:center;"><image height="100" width="100" src="/images/under-construction.png" /></p>
-											  <!-- Load Facebook SDK for JavaScript -->
-							<div id="fb-root"></div>
-							<script>(function(d, s, id) {
-								var js, fjs = d.getElementsByTagName(s)[0];
-								if (d.getElementById(id)) return;
-								js = d.createElement(s); js.id = id;
-								js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
-								fjs.parentNode.insertBefore(js, fjs);
-							}(document, 'script', 'facebook-jssdk'));</script>
-			
-							<!-- Your embedded video player code -->
-							<div style="float:left; margin-right:20px; border:2px solid #aaaaaa;" class="fb-video" data-href="https://www.facebook.com/bbcnews/videos/367615297354109/" data-autoplay="true" data-width="300" data-show-text="false">
-								<div class="fb-xfbml-parse-ignore">
-								<blockquote cite="https://www.facebook.com/facebook/videos/10153231379946729/">
-									<a href="https://www.facebook.com/facebook/videos/10153231379946729/">How to Share With Just Friends</a>
-									<p>How to share with just friends.</p>
-									Posted by <a href="https://www.facebook.com/facebook/">Facebook</a> on Friday, December 5, 2014
-								</blockquote>
-								</div>
-				  </div>
+							<br /><br />
+							<iframe style="float:left; margin-right:30px;" width="620" height="349" src="https://www.youtube.com/embed/b6Vh-g0oZ9w?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				  
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at dignissim augue, in iaculis neque. Etiam bibendum felis ac vulputate pellentesque. Cras non blandit quam. Nunc porta, est non posuere sagittis, neque nunc pellentesque diam, a iaculis lacus urna vitae purus. In non dui vel est tempor faucibus. Aliquam erat volutpat. Quisque vel est vitae nibh laoreet auctor. In nec libero dui. Nulla ullamcorper, dolor nec accumsan viverra, libero eros rutrum metus, vel lacinia magna odio non nunc. Praesent semper felis eu rhoncus aliquam. Donec at quam ac libero vestibulum pretium. Nunc faucibus vel arcu in malesuada. Aenean at velit odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas commodo erat eget molestie sollicitudin. Donec imperdiet, ex sed blandit dictum, ipsum metus ultrices arcu, vitae euismod nisl sapien vitae tortor.</p>
 
 							<p>Vivamus nec odio ac ligula congue feugiat at vitae leo. Aenean sem justo, finibus sed dui eu, accumsan facilisis dolor. Fusce quis dui eget odio iaculis aliquam vel sed velit. Nulla pellentesque posuere semper. Nulla eu sagittis lorem, a auctor nulla. Sed ac condimentum orci, ac varius ante. Nunc blandit quam sit amet sollicitudin sodales.</p>

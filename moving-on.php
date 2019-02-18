@@ -68,7 +68,7 @@
 							   and before long, with a smile on its face, it will unresistingly allow itself to be boiled to death."</p>
 
 							   <div style="float:right; margin-left:20px;">
-									<iframe width="560" height="315" src="https://www.youtube.com/embed/LnnDOMyZjbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+									<iframe width="560" height="315" src="https://www.youtube.com/embed/LnnDOMyZjbE?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 							</div> 
 
 							<p>Historically, climate change, has been largely characterized as a slow and incremental process. We might be excused, therefore, for ignoring or

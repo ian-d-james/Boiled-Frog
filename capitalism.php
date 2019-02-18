@@ -54,12 +54,19 @@
 							<header class="align-center">
 								<p>Naomi Klein</p>
 								<h3>
-										In a world where profit is consistently put before both people and the planet, climate economics has everything to do with ethics and morality
+										In a world where profit is consistently put before both people and the planet, climate<br />economics has everything to do with 
+										ethics and morality
 								</h3>
 							</header>
 							<p style="text-align:center;"><image height="100" width="100" src="/images/under-construction.png" /></p>
 							<br /><br />
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at dignissim augue, in iaculis neque. Etiam bibendum felis ac vulputate pellentesque. Cras non blandit quam. Nunc porta, est non posuere sagittis, neque nunc pellentesque diam, a iaculis lacus urna vitae purus. In non dui vel est tempor faucibus. Aliquam erat volutpat. Quisque vel est vitae nibh laoreet auctor. In nec libero dui. Nulla ullamcorper, dolor nec accumsan viverra, libero eros rutrum metus, vel lacinia magna odio non nunc. Praesent semper felis eu rhoncus aliquam. Donec at quam ac libero vestibulum pretium. Nunc faucibus vel arcu in malesuada. Aenean at velit odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas commodo erat eget molestie sollicitudin. Donec imperdiet, ex sed blandit dictum, ipsum metus ultrices arcu, vitae euismod nisl sapien vitae tortor.</p>
+							<img style="float:left; border:1px solid gray; height:342px; width:263px; margin-bottom:8px; margin-right:24px;" src="./images/green-deal.png" />
+							<p><i>"We cannot deal with the climate crisis, much less the overall planetary ecological emergency, in an effective way while conforming 
+							to the logic of a globalized capitalist economy. But we currently live in such an economy, and we have a very short time in which to 
+							respond to climate change. So, it becomes a question of immediately choosing to steer society toward putting people and nature before 
+							profits, as opposed to <b>what capitalism does, i.e., putting profits before people and nature.</b> We have to go against the logic of the system 
+							even while living within it. This is what is meant by a “movement toward socialism,” as first articulated by William Morris."</i></p>
+							<div style="margin-top:-25px; margin-bottom:20px;"><b>John Bellamy Foster</b></div>
 
 							<p>Vivamus nec odio ac ligula congue feugiat at vitae leo. Aenean sem justo, finibus sed dui eu, accumsan facilisis dolor. Fusce quis dui eget odio iaculis aliquam vel sed velit. Nulla pellentesque posuere semper. Nulla eu sagittis lorem, a auctor nulla. Sed ac condimentum orci, ac varius ante. Nunc blandit quam sit amet sollicitudin sodales.</p>
 

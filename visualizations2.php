@@ -330,6 +330,25 @@
 
               </div>
 
+              <br /><br />
+
+              <div style="background-color: #F0F0F0; padding:20px;">
+
+                <div class="visualizations">
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-26.jpg" />
+                  <b>Carbon Pricing Leadership Coalition</b> <div class="play-time">Dimensions: 800 x 4769</div>
+                </div> 
+
+                <div>
+                  <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
+                  <div class="expandcontent2">
+                  <img style="" src="./images/carbon tax.jpg" />
+                  </div>
+                  <div style="margin-top:44px;"><b>Description: </b>Five reasons why carbon pricing is the future</div>
+                </div>  
+
+              </div>
+
 						</div>
 					</div>
 				</div>
