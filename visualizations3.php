@@ -59,13 +59,15 @@
 							<h3>The majority of humans are visual learners. If they can see a problem, it is more likely to capture<br />their attention and motivate them to act.
 							</h3>
 						</header>
+						
 						<div style="text-align: center;"><a style="text-decoration:none;" href="visualizations1.php"><span style="color:gray; font-size:12px">Animations</span></a> / 
 							<a style="text-decoration:none;" href="visualizations2.php"><span style="color:gray; font-size:12px">Images</a></span> / 
 							<a style="text-decoration:none;" href="visualizations3.php"><span style="color:black; font-size:12px">Videos</a></span></div>
+							<p style="text-align:center;"><img height="50" width="50" src="/images/under-construction.png" /></p>
 							<div style="padding:20px;">
 						</div>
-
-						<div style="margin-top:-20px;" class="container">
+						
+						<div style="margin-top:-40px;" class="container">
 
 				<div id="grid-gallery" class="grid-gallery">
 					<section class="grid-wrap">
@@ -73,26 +75,26 @@
 							<li class="grid-sizer"></li><!-- for Masonry column width -->
 							<li>
 								<figure>
-									<img src="./images/thumb/video-thumbnail-1.jpg" alt="img01"/>
+									<img src="./images/thumb/video-thumbnail-1.jpg" alt="Bovine Flatulence"/>
 									<figcaption><h3>Bovine Flatulence</h3><p>Stop cow farts to help slow climate change</p></figcaption>
 								</figure>
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/video-thumbnail-2.jpg" alt="img02"/>
+									<img src="./images/thumb/video-thumbnail-2.jpg" alt="Greta Thunberg"/>
 									<figcaption><h3>Greta Thunberg</h3><p>The disarming case to act right now on climate change </p></figcaption>
 								</figure>
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/3.png" alt="img03"/>
-									<figcaption><h3>Brunch semiotics</h3><p>Ex disrupt cray yr, butcher pour-over magna umami kitsch before they sold out commodo.</p></figcaption>
+								<img src="./images/thumb/video-thumbnail-3.jpg" alt="Climate Change Explained"/>
+									<figcaption><h3>Climate Change Explained</h3><p>A straightforward explanation of climate change</p></figcaption>
 								</figure>
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/4.png" alt="img04"/>
-									<figcaption><h3>Chillwave nihil occupy</h3><p>In post-ironic gluten-free deserunt, PBR&amp;B non pork belly cupidatat polaroid. </p></figcaption>
+								<img src="./images/thumb/video-thumbnail-4.jpg" alt="Climate Change Explained"/>
+									<figcaption><h3>Gavin Schmidt</h3><p>The emergent patterns of climate change</p></figcaption>
 								</figure>
 							</li>
 							<li>
@@ -241,18 +243,18 @@
 								<figure>
 									<figcaption>
 									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
-										<p>IPhone PBR polaroid before they sold out meh you probably haven't heard of them leggings tattooed tote bag, butcher paleo next level single-origin coffee photo booth.</p>
+										<p>A straightforward explanation of Climate Change: the heat from human emissions is roughly equal to exploding 400,000 Hiroshima atomic bombs every day. Historically, every time carbon dioxide levels increase in Earth's atmosphere, the average surface temperature increases, ice melts, and the seas rise.</p>
 									</figcaption>
-									<img src="./images/large/3.png" alt="img03"/>
+									<a href="https://www.youtube.com/watch?v=ifrHogDujXw?rel=0" target="_blank"><img src="./images/large/video-3.jpg" alt="Climate Change Explained"/></a>
 								</figure>
 							</li>
 							<li>
 								<figure>
 									<figcaption>
 									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
-										<p>Vice cliche locavore mumblecore vegan wayfarers asymmetrical letterpress hoodie mustache. Shabby chic lomo polaroid, scenester 8-bit Portland Pitchfork VHS tote bag.</p>
+										<p>You can't understand climate change in pieces, says climate scientist Gavin Schmidt. It's the whole, or it's nothing. In this illuminating talk, he explains how he studies the big picture of climate change.</p>
 									</figcaption>
-									<img src="./images/large/4.png" alt="img04"/>
+									<a href="https://www.youtube.com/watch?time_continue=1&v=JrJJxn-gCdo?rel=0" target="_blank"><img src="./images/large/video-4.jpg" alt="Climate Change Explained"/></a>
 								</figure>
 							</li>
 							<li>
