@@ -85,8 +85,8 @@
 								<a style="margin-right:50px;" target="_blank" href="../assets/content/Supplementary Information.pdf"><img src="../images/pdf.png"></a><a target="_blank" href="../assets/content/Data.pdf"><img src="../images/pdf.png"></a>
 							</div></p>
 
-							<p>But is <a target="_blank" href="https://climate.nasa.gov/scientific-consensus/">consensus</a> a good basis for scientific decision making? A strong skeptic of global warming, author Michael Crichton offered the following opinion taken from his series 
-							   of environmental and global warming <a target="_blank" href="../assets/content/crichton_3.pdf">essays</a> written in 2009:</p>
+							<p>But is <a target="_blank" href="https://climate.nasa.gov/scientific-consensus/">consensus</a> a good basis for scientific decision making? A strong skeptic of global warming, author Michael Crichton offered the following opinion taken from his 
+							   environmental and global warming <a target="_blank" href="../assets/content/crichton_3.pdf">essays</a> written in 2009:</p>
 
 							<div style="font-style: italic; margin-left:30px; margin-right:30px;">"Let's be clear: the work of science has nothing whatever to do with consensus. Consensus is the business of politics.  Science, on the contrary, requires only one investigator who happens 
 							to be right, which means that he or she has results that are 
@@ -103,8 +103,8 @@
 								<li>Reproduce the experiment until there are no discrepancies between observations and theory.</li>
 							</ol>
 
-							<p><b>Predictability</b> is the ability to accurately define trends and future conditions such as atmospheric and oceanic temperature. Climate <a target="_blank" href="https://link.springer.com/article/10.1007/s00382-017-3939-8#Sec2">models</a> are inherently uncertain given that initial conditions can never be known perfectly and that the model is an imperfect representation 
-							of global climate and its underlying physics. So just how accurate are the climate model predictions that are the foundation of the scientific publications above? Climate models published since 1973 have generally been quite skillful in projecting future warming. An overview of climate model predictive accuracy (both past and future) is provided on the 
+							<p><b>Predictability</b> is the ability to accurately define trends and future conditions such as atmospheric and oceanic temperature. Climate <a target="_blank" href="https://link.springer.com/article/10.1007/s00382-017-3939-8#Sec2">models</a> are inherently uncertain given that initial conditions can't be fully defined and that the model is an imperfect representation 
+							of the climate and its underlying physics. So just how accurate are the climate model predictions that are the foundation of the scientific publications above? Climate models published since 1973 have generally been quite skillful in projecting future warming. Climate model predictive accuracy (both past and future) is outlined on the 
 							<a target="_blank" href="https://skepticalscience.com/how-well-have-models-predicted-gw.html">Skeptical Science</a> website. While some 
 							temperature predictions were too low and some too high, they all show outcomes reasonably close to what has actually occurred.</p>
 
@@ -124,7 +124,7 @@
 							 which is the ongoing tracking of global surface temperature changes (both replicable and reproducible) and paleo-climate records such as those collected in projects like 
 							 <a target="_blank" href="http://www.pages-igbp.org/ini/wg/2k-network/intro">PAGES2K</a>.</p>
 
-							<p>This site does not attempt to address the full body of evidence for man-made climate change. There are many sites (see landing page) and <a href="references.php">references</a> providing compelling scientific evidence and 
+							<p>This site does not attempt to address the full body of evidence for anthropogenic climate change. There are many <a href="references.php">sites</a> providing compelling scientific evidence and 
 							   expert testimony that man is driving and accelerating climate change. Instead, this site moves beyond the argument and targets individuals and organizations 
 							   seeking strategies and actions to hold our educators, politicians, corporations and governments accountable for current and future climate policy. To hold
 							   today's decision-makers accountable for the growing climate consequences that will be borne by our children and grandchildren. 

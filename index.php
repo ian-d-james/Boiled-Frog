@@ -150,8 +150,9 @@
 			<section id="two" class="wrapper style3">
 				<div class="inner">
 					<header class="align-center">
-						<p></p>
-						<h2>Wiful Ignorance</h2>“There are two ways to be fooled. One is to believe what isn't true; the other is to refuse to believe what is true.”
+						<h2>Climate Policy</h2>
+						“The litmus test for serious climate policy is easy: Any proposal that doesn’t move us (completely) off of fossil fuels isn't a solution at all.”
+						<p>Greg Findley</p>
 					</header>
 				</div>
 			</section>
