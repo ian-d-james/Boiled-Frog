@@ -103,19 +103,19 @@
 							<div class="box">
 								<div class="image fit">
 									<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%">
-										<iframe width="854" height="480" src="https://embed.ted.com/talks/lang/en/katharine_hayhoe_the_most_important_thing_you_can_do_to_fight_climate_change_talk_about_it" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe>
+										<iframe width="854" height="480" src="https://www.youtube.com/embed/VFkQSGyeCWg?rel=0" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe>
 									</div>
 								</div>
 									
 								</div>
 								<div class="content">
 									<header class="align-center">
-										<p>Talk about it</p>
-										<h2>Connect with shared values</h2>
+										<p>Greta Thunberg</p>
+										<h2>You are never too small to make a difference</h2>
 									</header>
-									<p>How do you talk to someone who doesn't believe in climate change? Not by rehashing the same data and facts we've been discussing for years, says climate scientist Katharine Hayhoe.</p>
+									<p>"Until you start focusing on what needs to be done rather than what is politically possible, there is no hope. We cannot solve a crisis without treating it as a crisis. We have run out of excuses and we are running out of time"</p>
 									<footer class="align-center">
-										<a href="moving-on.php" class="button alt">Learn More</a>
+									<a target="_blank" href="https://www.ted.com/speakers/greta_thunberg" class="button alt">Learn More</a>
 									</footer>
 								</div>
 							</div>
@@ -125,26 +125,82 @@
 							<div class="box">
 								<div class="image fit">
 									<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%">
-									<video class='vjs-tech' controls='' controlsList='nodownload' width='100%' poster='https://asiasociety.org/sites/default/files/video_library/thumbs/140916_climate_change_ex.jpg'><source class='embed' src='http://media.asiasociety.org/video/140916_unga_climate_change_ex.mp4' type='video/mp4' /> Your browser does not support HTML5 video.</video>
+									<iframe width="854" height="480" src="https://www.youtube.com/embed/b6Vh-g0oZ9w?rel=0" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe>
 									</div>
 								</div>
 								
 								<div class="content">
 									<header class="align-center">
-										<p>Public Awareness</p>
-										<h2>How could I have been so Ignorant?</h2>
+										<p>David Attenborough</p>
+										<h2>Together we can make real change happen</h2>
 									</header>
-									<p>Five-time Everest summiteer and acclaimed American filmmaker David Breashears helps raise awareness about the consequences of climate change.</p>
+									<p>"Continuation of civilization is in your hands. If we don't take action the collapse of our civilizations and the extinction of much of the natural world is on the horizon. The people have spoken. Leaders of the world, you must lead"</p>
 									<footer class="align-center">
-										<a href="visualizations.php" class="button alt">Learn More</a>
+									<a target="_blank" href="https://www.sciencefocus.com/planet-earth/how-can-we-save-our-planet-sir-david-attenborough/" class="button alt">Learn More</a>
 									</footer>
 								</div>
 							</div>
 						</div>
 
+					<div>
+				</div>
+			</section>
+
+			<section id="one" style="padding-top:0px;" class="wrapper style2">
+				<div class="inner">
+					<div class="grid-style">
+
+
+					
+						<div>
+							<div class="box">
+								<div class="image fit">
+									<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%">
+										<iframe src="https://embed.ted.com/talks/james_hansen_why_i_must_speak_out_about_climate_change?rel=0" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe>
+									</div>
+								</div>
+									
+								</div>
+								<div class="content">
+									<header class="align-center">
+										<p>James Hansen</p>
+										<h2>The evidence for human-made climate change is overwhelming</h2>
+									</header>
+									<p>"The science is clear. I need your help to communicate the gravity and the urgency of this situation and its solutions more effectively. We owe it to our children and grandchildren"</p>
+									<footer class="align-center">
+									<a target="_blank" href="https://scholar.google.ca/citations?user=NhWonoUAAAAJ&hl=en" class="button alt">Learn More</a>
+									</footer>
+								</div>
+							</div>
+						</div>
+
+						<div>
+							<div class="box">
+								<div class="image fit">
+									<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%">
+									<iframe width="854" height="480" src="https://www.youtube.com/embed/8MqTOEospfo?rel=0" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe>
+									</div>
+								</div>
+								
+								<div class="content">
+									<header class="align-center">
+										<p>Neil Degrasse Tyson</p>
+										<h2>The good thing about science is that it's true whether or not you believe in it</h2>
+									</header>
+									<p>"Where did we fail in the educational system so that we're producing a community of adults who when confronted with what scientists tell them they cherry pick it to serve their own philosophical objectives"</p>
+									<footer class="align-center">
+									<a target="_blank" href="https://www.dialogues.org/interview/09/17/2017/neil-degrasse-tyson-scolds-cherry-picking-climate-science/1505838492" class="button alt">Learn More</a>
+									</footer>
+								</div>
+							</div>
+						</div>
+
+
 					</div>
 				</div>
 			</section>
+
+
 
 		<!-- Two -->
 			<section id="two" class="wrapper style3">
