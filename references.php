@@ -5,7 +5,7 @@
 -->
 <html>
 	<head>
- 		<title>Boiled Frog - Climate Change Resources</title>
+ 		<title>Boiled Frog - Climate Change Resources - Searchable Database</title>
 		<meta name="description" content="Climate Change Resources">
 		<meta name="author" content="Ian James">
 		<meta charset="utf-8" />

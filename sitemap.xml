@@ -16,7 +16,7 @@
 
    <url>
 
-      <loc>https://boiledfrog.ca/moving-on.html</loc>
+      <loc>https://boiledfrog.ca/moving-on.php</loc>
 
       <changefreq>weekly</changefreq>
 	  
@@ -26,7 +26,7 @@
 
    <url>
 
-      <loc>https://boiledfrog.ca/accountability.html</loc>
+      <loc>https://boiledfrog.ca/perspective.php</loc>
 
       <changefreq>weekly</changefreq>
 	  
@@ -36,7 +36,17 @@
 
    <url>
 
-      <loc>https://boiledfrog.ca/wilful-ignorance.html</loc>
+      <loc>https://boiledfrog.ca/accountability.php</loc>
+
+      <changefreq>weekly</changefreq>
+	  
+	        <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://boiledfrog.ca/wilful-ignorance.php</loc>
 
       <changefreq>weekly</changefreq>
 	  
@@ -46,7 +56,7 @@
    
     <url>
 
-      <loc>https://boiledfrog.ca/negligence.html</loc>
+      <loc>https://boiledfrog.ca/negligence.php</loc>
 
       <changefreq>weekly</changefreq>
 	  
@@ -56,7 +66,7 @@
    
    <url>
 
-      <loc>https://boiledfrog.ca/government-policy.html</loc>
+      <loc>https://boiledfrog.ca/government-policy.php</loc>
 
       <changefreq>weekly</changefreq>
 	  
@@ -66,7 +76,7 @@
    
    <url>
 
-      <loc>https://boiledfrog.ca/effect-change.html</loc>
+      <loc>https://boiledfrog.ca/effect-change.php</loc>
 
       <changefreq>weekly</changefreq>
 	  
@@ -74,9 +84,39 @@
 
    </url>
    
-      <url>
+   <url>
 
-      <loc>https://boiledfrog.ca/references.html</loc>
+      <loc>https://boiledfrog.ca/visualizations1.php</loc>
+
+      <changefreq>weekly</changefreq>
+	  
+	        <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://boiledfrog.ca/visualizations2.php</loc>
+
+      <changefreq>weekly</changefreq>
+	  
+	        <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://boiledfrog.ca/visualizations3.php</loc>
+
+      <changefreq>weekly</changefreq>
+	  
+	        <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://boiledfrog.ca/references.php</loc>
 
       <changefreq>weekly</changefreq>
 	  

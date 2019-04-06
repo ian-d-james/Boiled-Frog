@@ -5,7 +5,7 @@
 -->
 <html>
 	<head>
- 		<title>Boiled Frog- Climate Change Governament Policy</title>
+ 		<title>Boiled Frog- Climate Change Government Policy</title>
 		<meta name="description" content="Climate Change Criminality">
 		<meta name="author" content="Ian James">
 		<meta charset="utf-8" />
