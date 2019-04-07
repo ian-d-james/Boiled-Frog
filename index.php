@@ -251,7 +251,7 @@
 						</div>
 
 					</div>
-					<div style="text-align: center;"><a style="text-decoration:none;" href="visualizations.php"><h3>More Visualizations</h3></a></div>
+					<div style="text-align: center;"><a style="text-decoration:none;" href="visualizations1.php"><h3>More Visualizations</h3></a></div>
 				</div>
 			</section>
 
