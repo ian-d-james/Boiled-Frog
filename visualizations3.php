@@ -75,7 +75,7 @@
 							<li class="grid-sizer"></li><!-- for Masonry column width -->
 							<li>
 								<figure>
-									<img src="./images/thumb/video-thumbnail-1.jpg" alt="Bovine Flatulence"/>
+									<img src="./images/thumb/video-thumbnail-1.jpg" alt="Bovine flatulence"/>
 									<figcaption><h3>Bovine Flatulence</h3><p>Stop cow farts to help slow climate change</p></figcaption>
 								</figure>
 							</li>
@@ -87,32 +87,32 @@
 							</li>
 							<li>
 								<figure>
-								<img src="./images/thumb/video-thumbnail-3.jpg" alt="Climate Change Explained"/>
+								<img src="./images/thumb/video-thumbnail-3.jpg" alt="Climate change explained"/>
 									<figcaption><h3>Climate Change Explained</h3><p>A straightforward explanation of climate change</p></figcaption>
 								</figure>
 							</li>
 							<li>
 								<figure>
-								<img src="./images/thumb/video-thumbnail-4.jpg" alt="Climate Change Explained"/>
+								<img src="./images/thumb/video-thumbnail-4.jpg" alt="Patterns of climate change"/>
 									<figcaption><h3>Gavin Schmidt</h3><p>The emergent patterns of climate change</p></figcaption>
 								</figure>
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/5.png" alt="img05"/>
-									<figcaption><h3>Kale chips lomo biodiesel</h3><p>Pariatur food truck street art consequat sustainable, et kogi beard qui paleo. </p></figcaption>
+									<img src="./images/thumb/video-thumbnail-5.jpg" alt="Cause and effects of climate change"/>
+									<figcaption><h3>Causes and Effects of Climate Change </h3><p>Learn the human impact and consequences of climate change for the environment, and our lives.</p></figcaption>
 								</figure>
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/6.png" alt="img06"/>
-									<figcaption><h3>Exercitation occaecat</h3><p>Street chillwave hoodie ea gentrify.</p></figcaption>
+									<img src="./images/thumb/video-thumbnail-6.jpg" alt="Climate change in sixty seconds"/>
+									<figcaption><h3>The Royal Society</h3><p>An Introduction to Climate Change in 60 Seconds</p></figcaption>
 								</figure>
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/1.png" alt="img01"/>
-									<figcaption><h3>Selfies viral four</h3><p>Raw denim duis Tonx Shoreditch labore swag artisan High Life cred, stumptown Schlitz quinoa flexitarian mollit fanny pack.</p></figcaption>
+									<img src="./images/thumb/video-thumbnail-7.jpg" alt="img01"/>
+									<figcaption><h3>Leonardo DiCaprio</h3><p>We ask you to protect it. Or we – and all living things we cherish – are history.</p></figcaption>
 								</figure>
 							</li>
 							<li>
@@ -233,7 +233,7 @@
 							<li>
 								<figure>
 									<figcaption>
-									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
+									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Greta Thunberg</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
 										<p>In this passionate call to action, 16-year-old climate activist Greta Thunberg explains why, in August 2018, she walked out of school and organized a strike to raise awareness of global warming.</p>
 									</figcaption>
 									<a href="https://www.youtube.com/watch?v=H2QxFM9y0tY?rel=0" target="_blank"><img src="./images/large/video-2.jpg" alt="Bovine flatulence"/></a>
@@ -242,7 +242,7 @@
 							<li>
 								<figure>
 									<figcaption>
-									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
+									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Climate Change Explained</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
 										<p>A straightforward explanation of Climate Change: the heat from human emissions is roughly equal to exploding 400,000 Hiroshima atomic bombs every day. Historically, every time carbon dioxide levels increase in Earth's atmosphere, the average surface temperature increases, ice melts, and the seas rise.</p>
 									</figcaption>
 									<a href="https://www.youtube.com/watch?v=ifrHogDujXw?rel=0" target="_blank"><img src="./images/large/video-3.jpg" alt="Climate Change Explained"/></a>
@@ -251,7 +251,7 @@
 							<li>
 								<figure>
 									<figcaption>
-									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
+									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Gavin Schmidt</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
 										<p>You can't understand climate change in pieces, says climate scientist Gavin Schmidt. It's the whole, or it's nothing. In this illuminating talk, he explains how he studies the big picture of climate change.</p>
 									</figcaption>
 									<a href="https://www.youtube.com/watch?time_continue=1&v=JrJJxn-gCdo?rel=0" target="_blank"><img src="./images/large/video-4.jpg" alt="Climate Change Explained"/></a>
@@ -260,28 +260,28 @@
 							<li>
 								<figure>
 									<figcaption>
-									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
-										<p>Chambray Schlitz pug YOLO, PBR Tumblr semiotics. Flexitarian YOLO ennui Blue Bottle, forage dreamcatcher chillwave put a bird on it craft beer Etsy.</p>
+									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Causes and Effects of Climate Change</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
+										<p>What causes climate change (also known as global warming)? And what are the effects of climate change? Learn the human impact and consequences of climate change for the environment, and our lives.</p>
 									</figcaption>
-									<img src="./images/large/5.png" alt="img05"/>
+									<a href="https://www.youtube.com/watch?v=G4H1N_yXBiA?rel=0" target="_blank"><img src="./images/large/video-5.jpg" alt="img05"/></a>
 								</figure>
 							</li>
 							<li>
 								<figure>
 									<figcaption>
-									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
-										<p>Cosby sweater hella lomo Thundercats VHS occupy High Life. Synth pop-up readymade single-origin coffee, fanny pack tousled retro. Fingerstache mlkshk ugh hashtag, church-key ethnic street art pug yr.</p>
+									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Climate Change in 60 Seconds</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
+										<p>Climate science explained by the Royal Society and the US National Academy of Sciences. This 60-second animation brings you the science behind climate change.</p>
 									</figcaption>
-									<img src="./images/large/6.png" alt="img06"/>
+									<a href="https://www.youtube.com/watch?v=n4e5UPu1co0rel=0" target="_blank"><img src="./images/large/video-6.jpg" alt="Climate change in sixty seconds"/></a>
 								</figure>
 							</li>
 							<li>
 								<figure>
 									<figcaption>
-									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
-										<p>Ethnic readymade pug, small batch XOXO Odd Future normcore kogi food truck craft beer single-origin coffee banh mi photo booth raw denim. XOXO messenger bag pug VHS. Forage gluten-free polaroid, twee hoodie chillwave Helvetica.</p>
+									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Leonardo DiCaprio</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
+										<p>An impassioned speech by Leonardo DiCaprio about climate change at the United Nations. 'We ask you to protect it. Or we – and all living things we cherish – are history.'</p>
 									</figcaption>
-									<img src="./images/large/1.png" alt="img01"/>
+									<a href="https://www.youtube.com/watch?v=F47RIF_0reArel=0" target="_blank"><img src="./images/large/video-7.jpg" alt="Leonardo DiCaprio climate change speech"/></a>
 								</figure>
 							</li>
 							<li>
