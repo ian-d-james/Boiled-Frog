@@ -9,7 +9,7 @@
 		<meta name="description" content="Climate Change Videos">
 		<meta name="author" content="Ian James">
 		<meta charset="utf-8" />
-		<meta name="keywords" content="environment, climate, change, global, warming, greenhouse, enhanced, effect, accountability, criminality, cuplability, IPCC, NASA">
+		<meta name="keywords" content="environment, climate, change, global, warming, greenhouse, enhanced, effect, accountability, criminality, culpability, IPCC, NASA">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="assets/css/main.css" />
     <link rel="stylesheet" type="text/css" href="css/demo.css" />
@@ -147,20 +147,20 @@
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/video-thumbnail-13.jpg" alt="img01"/>
+									<img src="./images/thumb/video-thumbnail-13.jpg" alt="Inside the mind of a climate change scientist"/>
 									<figcaption><h3>Corinne Le Quéré </h3><p>Inside the mind of a climate change scientist</p></figcaption>
 								</figure>
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/video-thumbnail-14.jpg" alt="img02"/>
+									<img src="./images/thumb/video-thumbnail-14.jpg" alt="Sting of Climate Change"/>
 									<figcaption><h3>NASA</h3><p>Sting of Climate Change </p></figcaption>
 								</figure>
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/3.png" alt="img03"/>
-									<figcaption><h3>Brunch semiotics</h3><p>Ex disrupt cray yr, butcher pour-over magna umami kitsch before they sold out commodo.</p></figcaption>
+									<img src="./images/thumb/video-thumbnail-15.jpg" alt="Alexandria Ocasio-Cortez"/>
+									<figcaption><h3>Alexandria Ocasio-Cortez</h3><p>A Message From the Future With Alexandria Ocasio-Cortez.</p></figcaption>
 								</figure>
 							</li>
 							<li>
@@ -350,10 +350,10 @@
 							<li>
 								<figure>
 									<figcaption>
-									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
-										<p>By comparing bee data to satellite imagery, NASA research scientist Wayne Esaias uses honey bees as tiny data collectors to understand how climate change is affecting pollination and plants.</p>
+									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Alexandria Ocasio-Cortez</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
+										<p>A Message From the Future With Alexandria Ocasio-Cortez. What if we actually pulled off a Green New Deal? What would the future look like?</p>
 									</figcaption>
-									<img src="./images/large/3.png" alt="img03"/>
+									<a href="https://www.facebook.com/theinterceptflm/videos/2444676278910661/?rel=0" target="_blank"><img src="./images/large/video-15.jpg" alt="Alexandria Ocasio-Cortez"/></a>
 								</figure>
 							</li>
 							<li>

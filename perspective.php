@@ -136,9 +136,9 @@
 							<p>While this site focuses on global climate change, there are numerous online resources addressing the other interdependent global challenges outlined above. 
 							   One site of particular interest is <a style="text-decoration:none" href="https://www.resilience.org/about-resilience/">Resilience.org</a>. This site addresses 
 							   the interdependency of these challenges and their implications for geopolitics, ecology, population, finance, urban design, and health. They advocate <b>community resilience</b>:</p>
-							<p style="color: #000000; margin-left:20px; margin-right:40px;">"The interconnected environmental, energy, economic, and equity crises of the 21st century are posing complex and often-unpredictable challenges to communities 
+							<p style="color: #000000; font-style:italic; margin-left:20px; margin-right:40px;">"The interconnected environmental, energy, economic, and equity crises of the 21st century are posing complex and often-unpredictable challenges to communities 
 							around the world. But conventional forms of urban planning, design, and governance—often centralized, hierarchical, and inflexible—are ill-suited to these new realities. 
-							It’s time to go beyond piecemeal urban sustainability efforts and meaningfully equip our communities for the the challenges. It’s time to build our communities’ resilience.
+							It’s time to go beyond piecemeal urban sustainability efforts and meaningfully equip our communities for the the challenges. It’s time to build our communities’ resilience."
 							</p>
 							<br />
 

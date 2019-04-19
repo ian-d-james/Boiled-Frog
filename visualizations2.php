@@ -9,7 +9,7 @@
 		<meta name="description" content="Climate Change Images">
 		<meta name="author" content="Ian James">
 		<meta charset="utf-8" />
-		<meta name="keywords" content="environment, climate, change, global, warming, greenhouse, enhanced, effect, accountability, criminality, cuplability, IPCC, NASA">
+		<meta name="keywords" content="environment, climate, change, global, warming, greenhouse, enhanced, effect, accountability, criminality, culpability, IPCC, NASA">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="assets/css/main.css" />
 	
