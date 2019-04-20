@@ -118,7 +118,8 @@
 
 							<br />
 
-							<p>The <a target="_blank" href="http://columbiaclimatelaw.com/">Sabin Center for Climate Change Law</a> at Columbia Law School and the firm <a target="_blank" href="https://www.arnoldporter.com/en/perspectives/news">Arnold & Porter</a> provide a searchable database of ongoing <a target="_blank" href="http://climatecasechart.com/non-us-climate-change-litigation/">internationa</a> and <a target="_blank" href="http://climatecasechart.com/us-climate-change-litigation/">U.S.</a> climate change legal actions are outlined on the Climate Case Chart website. 
+							<p>The <a target="_blank" href="http://columbiaclimatelaw.com/">Sabin Center for Climate Change Law</a> at Columbia Law School and the firm <a target="_blank" href="https://www.arnoldporter.com/en/perspectives/news">Arnold & Porter</a> provide a searchable database 
+								of ongoing <a target="_blank" href="http://climatecasechart.com/non-us-climate-change-litigation/">international</a> and <a target="_blank" href="http://climatecasechart.com/us-climate-change-litigation/">U.S.</a> climate change legal actions are outlined on the Climate Case Chart website. 
 							The international climate litigation data base was created in 2011 and is updated regularly. It currently includes 281 cases, with links to 301 case documents. The U.S. chart is updated on a monthly basis, and currently includes 1013 cases* with links to 4608 case documents.</p>
 
 							<p><a target="_blank" href="https://www.whitecase.com/">White & Case</a> provide an excellent overview of climate change litigation available as a PDF that can be downloaded <a target="_blank" href="../assets/content/Global climate change litigation and laws.pdf">here</a>.</p>

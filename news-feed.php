@@ -22,21 +22,31 @@
 
 		gtag('config', 'UA-58191121-2');
 		</script>
-	
-		<script>
 
-		String url = "https://api.newsriver.io/v2/search?query=text%3Aclimate%20change&sortBy=_score&sortOrder=DESC&limit=15";
+		<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+		<script src="http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.js"
+		type="text/javascript"></script>
 
-		HttpClient client = HttpClientBuilder.create().build();
-		HttpGet request = new HttpGet(url);
+		<style type="text/css">
+		@import url("http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.css");
 
-		// add authorization header
-		request.addHeader("Authorization", "sBBqsGXiYgF0Db5OV5tAw_vgAEVEGVbvC62kfcJrKfH8vRcfJQj8uYUIQOW4ngMnn2pHZrSf1gT2PUujH1YaQA");
+		#feedControl {
+		margin-top : 10px;
+		margin-left: auto;
+		margin-right: auto;
+		width : 440px;
+		font-size: 12px;
+		color: #9CADD0;
+		}
+		</style>
+		<script type="text/javascript">
+		function load() {
+		var feed ="http://feeds.bbci.co.uk/news/world/rss.xml";
+		new GFdynamicFeedControl(feed, "feedControl");
 
-		HttpResponse response = client.execute(request);
-
-		BufferedReader rd = new BufferedReader(new InputStreamReader(response.getEntity().getContent()));
-
+		}
+		google.load("feeds", "1");
+		google.setOnLoadCallback(load);
 		</script>
 
 	</head>
@@ -56,8 +66,8 @@
 			<section id="One" class="wrapper style3">
 				<div class="inner">
 					<header class="align-center">
-						<p>Capitalism</p>
-						<h2>Economic and Political Systems</h2>
+						<p>Climate Change</p>
+						<h2>News Feed</h2>
 					</header>
 				</div>
 			</section>
@@ -65,30 +75,55 @@
 		<!-- Two -->
 			<section id="two" class="wrapper style2">
 				<div class="inner">
-					<div class="box">
-						<div class="content">
-							<header class="align-center">
-								<p>Naomi Klein</p>
-								<h3>
-										In a world where profit is consistently put before both people and the planet, climate<br />economics has everything to do with 
-										ethics and morality
-								</h3>
-							</header>
-							<p style="text-align:center;"><image height="100" width="100" src="/images/under-construction.png" /></p>
-							<br /><br />
-							<img style="float:left; border:1px solid gray; height:342px; width:263px; margin-bottom:8px; margin-right:24px;" src="./images/green-deal.png" />
-							<p><i>"We cannot deal with the climate crisis, much less the overall planetary ecological emergency, in an effective way while conforming 
-							to the logic of a globalized capitalist economy. But we currently live in such an economy, and we have a very short time in which to 
-							respond to climate change. So, it becomes a question of immediately choosing to steer society toward putting people and nature before 
-							profits, as opposed to <b>what capitalism does, i.e., putting profits before people and nature.</b> We have to go against the logic of the system 
-							even while living within it. This is what is meant by a “movement toward socialism,” as first articulated by William Morris."</i></p>
-							<div style="margin-top:-25px; margin-bottom:20px;"><b>John Bellamy Foster</b></div>
-
-							<p>Vivamus nec odio ac ligula congue feugiat at vitae leo. Aenean sem justo, finibus sed dui eu, accumsan facilisis dolor. Fusce quis dui eget odio iaculis aliquam vel sed velit. Nulla pellentesque posuere semper. Nulla eu sagittis lorem, a auctor nulla. Sed ac condimentum orci, ac varius ante. Nunc blandit quam sit amet sollicitudin sodales.</p>
-
-							<p>Vivamus ultricies mollis mauris quis molestie. Quisque eu mi velit. In et cursus nibh. Donec facilisis, orci sed mollis hendrerit, nunc risus mattis odio, eget efficitur nisl orci a lectus. Aenean finibus neque convallis orci sollicitudin tincidunt. Vivamus lacinia facilisis diam, quis facilisis nisi luctus nec. Aliquam ac molestie enim, ut ultrices elit. Fusce laoreet vulputate risus in tincidunt. Sed commodo mollis maximus. Nullam varius laoreet nibh sit amet facilisis. Donec ac odio vehicula, consequat elit et, sodales justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam ac auctor mauris, in hendrerit libero. </p>
-						</div>
-					</div>
+					<!-- start sw-rss-feed code --> 
+					<script type="text/javascript"> 
+					<!-- 
+					rssfeed_url = new Array(); 
+					rssfeed_url[0]="https://www.scidev.net/global/global_rss.xml"; 
+					rssfeed_url[1]="https://www.sciencedaily.com/rss/top/environment.xml"; 
+					rssfeed_url[2]="https://climate.nasa.gov/news/rss.xml"; 
+					rssfeed_url[3]="https://www.climatechangenews.com/2011/html/climate-change-newsfeed.html"; 
+					rssfeed_url[4]="https://ec.europa.eu/clima/rss/news/all/rss.xml";  
+					rssfeed_frame_width="800"; 
+					rssfeed_frame_height="600"; 
+					rssfeed_scroll="on"; 
+					rssfeed_scroll_step="6"; 
+					rssfeed_scroll_bar="off"; 
+					rssfeed_target="_blank"; 
+					rssfeed_font_size="14"; 
+					rssfeed_font_face="Arial, Tahoma, Verdana"; 
+					rssfeed_border="off"; 
+					rssfeed_css_url=""; 
+					rssfeed_title="on"; 
+					rssfeed_title_name="Current Environment and Climate Change News"; 
+					rssfeed_title_bgcolor="#f2f2f2"; 
+					rssfeed_title_color="#000000"; 
+					rssfeed_title_bgimage=""; 
+					rssfeed_footer="off"; 
+					rssfeed_footer_name="rss feed"; 
+					rssfeed_footer_bgcolor="#fff"; 
+					rssfeed_footer_color="#333"; 
+					rssfeed_footer_bgimage=""; 
+					rssfeed_item_title_length="100"; 
+					rssfeed_item_title_color="#444"; 
+					rssfeed_item_bgcolor="#f2f2f2"; 
+					rssfeed_item_bgimage=""; 
+					rssfeed_item_border_bottom="on"; 
+					rssfeed_item_source_icon="off"; 
+					rssfeed_item_date="off"; 
+					rssfeed_item_description="on"; 
+					rssfeed_item_description_length="250"; 
+					rssfeed_item_description_color="#666"; 
+					rssfeed_item_description_link_color="#55a0ff"; 
+					rssfeed_item_description_tag="off"; 
+					rssfeed_no_items="0"; 
+					rssfeed_cache = "715082cdda402caf537fa4a24e6f2779"; 
+					//--> 
+					</script> 
+					<script type="text/javascript" src="//feed.surfing-waves.com/js/rss-feed.js"></script> 
+					<!-- The link below helps keep this service FREE, and helps other people find the SW widget. Please be cool and keep it! Thanks. --> 
+					<div style="color:#666;font-size:10px; text-align:right; width:600px;">powered by <a href="https://surfing-waves.com" rel="noopener" target="_blank" style="color:#444;">Surfing Waves</a></div> 
+					<!-- end sw-rss-feed code -->
 				</div>
 			</section>
 
