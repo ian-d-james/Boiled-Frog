@@ -29,10 +29,7 @@
 	<body class="subpage">
 
 		<!-- Header -->
-			<header id="header">
-					<div class="logo"><a href="http://boiledfrog.ca">Boiled Frog</a></div>
-					<a href="#menu">Menu</a>
-			</header>
+		<?php include 'header.html';?>
 
 		<!-- Nav -->
 		<?php include 'navigation.html';?>

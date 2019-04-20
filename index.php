@@ -28,10 +28,7 @@
 	<body>
 
 		<!-- Header -->
-			<header id="header" class="alt">
-				<div class="logo"><a href="https://boiledfrog.ca">Boiled Frog</a></div>
-				<a href="#menu">Menu</a>
-			</header>
+		<?php include 'header.html';?>
 
 		<!-- Nav -->
 		<?php include 'navigation.html';?>
