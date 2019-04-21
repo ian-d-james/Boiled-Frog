@@ -346,6 +346,25 @@
 
               </div>
 
+              <br /><br />
+
+              <div style="background-color: #F0F0F0; padding:20px;">
+
+                <div class="visualizations">
+                  <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-28.jpg" />
+                  <b>Drawdown</b> <div class="play-time">Dimensions: 1000 x 1667</div>
+                </div> 
+
+                <div>
+                  <button class="collapse"><span style="color:#FFFFFF; font-weight: bold; margin-left:15px;">View</span></button>
+                  <div class="expandcontent2">
+                  <img style="" src="./images/solutions.jpg" />
+                  </div>
+                  <div style="margin-top:44px;"><b>Description: </b>100 Solutions for Climate Change</div>
+                </div>  
+
+              </div>
+
 						</div>
 					</div>
 				</div>

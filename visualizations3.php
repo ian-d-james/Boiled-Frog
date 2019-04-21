@@ -162,26 +162,26 @@
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/4.png" alt="img04"/>
-									<figcaption><h3>Chillwave nihil occupy</h3><p>In post-ironic gluten-free deserunt, PBR&amp;B non pork belly cupidatat polaroid. </p></figcaption>
+									<img src="./images/thumb/video-thumbnail-16.jpg" alt="NASA"/>
+									<figcaption><h3>NASA</h3><p>Temperature Puzzle</p></figcaption>
 								</figure>
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/5.png" alt="img05"/>
-									<figcaption><h3>Kale chips lomo biodiesel</h3><p>Pariatur food truck street art consequat sustainable, et kogi beard qui paleo. </p></figcaption>
+									<img src="./images/thumb/video-thumbnail-17.jpg" alt="Stanford Woods Institute for the Environment"/>
+									<figcaption><h3>Prelude to Global Extinction</h3><p>More than 30 percent of all vertebrates have declining populations. </p></figcaption>
 								</figure>
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/6.png" alt="img06"/>
-									<figcaption><h3>Exercitation occaecat</h3><p>Street chillwave hoodie ea gentrify.</p></figcaption>
+									<img src="./images/thumb/video-thumbnail-18.jpg" alt="NRDC"/>
+									<figcaption><h3>The Health Impacts of Climate Change.</p></figcaption>
 								</figure>
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/1.png" alt="img01"/>
-									<figcaption><h3>Selfies viral four</h3><p>Raw denim duis Tonx Shoreditch labore swag artisan High Life cred, stumptown Schlitz quinoa flexitarian mollit fanny pack.</p></figcaption>
+									<img src="./images/thumb/video-thumbnail-19.jpg" alt="BBC"/>
+									<figcaption><h3>Extreme Weather</h3><p>Is climate change causing more extreme weather?</p></figcaption>
 								</figure>
 							</li>
 							<li>
@@ -356,37 +356,37 @@
 							<li>
 								<figure>
 									<figcaption>
-									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
-										<p>Marfa exercitation non, beard +1 hashtag cardigan gluten-free mixtape church-key ugh eu Portland leggings. Ennui farm-to-table fingerstache keytar Echo Park tattooed. Seitan qui artisan, aliquip cupidatat sunt Portland wayfarers duis.</p>
+									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Temperature Puzzle</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
+										<p>The past decade has been the hottest ever recorded since global temperature records began 150 years ago. This video discusses the impacts of sun's energy, Earth's reflectance and greenhouse gasses.</p>
 									</figcaption>
-									<img src="./images/large/4.png" alt="img04"/>
+									<a href="https://climate.nasa.gov/climate_resources/42/video-temperature-puzzle/?rel=0" target="_blank"><img src="./images/large/video-16.jpg" alt="NASA"/></a>
 								</figure>
 							</li>
 							<li>
 								<figure>
 									<figcaption>
-									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
-										<p>Lomo church-key whatever, seitan laborum drinking vinegar lo-fi semiotics nihil meh. Skateboard irure before they sold out Banksy. Narwhal High Life lomo aliqua drinking vinegar. PBR&B placeat proident, craft beer forage DIY nostrud meh flexitarian keytar Helvetica.</p>
+									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Global Extinction</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
+										<p>In the first such global evaluation, Stanford biologists found more than 30 percent of all vertebrates have declining populations. They call for curbs on the basic drivers of these losses.</p>
 									</figcaption>
-									<img src="./images/large/5.png" alt="img05"/>
+									<a href="https://www.youtube.com/watch?time_continue=19&v=TDvyUbp5WDE/?rel=0" target="_blank"><img src="./images/large/video-17.jpg" alt="Stanford Woods Institute for the Environment"/></a>
 								</figure>
 							</li>
 							<li>
 								<figure>
 									<figcaption>
-									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
-										<p>Skateboard Truffaut bicycle rights seitan normcore. Culpa lo-fi ennui, Pinterest before they sold out Echo Park roof party sapiente aesthetic consequat Truffaut freegan voluptate. Kogi banh mi vero nihil, freegan gluten-free cliche. Forage Etsy laboris anim normcore, McSweeney's ex.</p>
+									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Global Health Impact</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
+										<p>Climate change poses challenges to our well-being—and the more carbon pollution we put into the air, the worse things will get.</p>
 									</figcaption>
-									<img src="./images/large/6.png" alt="img06"/>
+									<a href="https://youtu.be/Pk-PUcXZfa8/?rel=0" target="_blank"><img src="./images/large/video-18.jpg" alt="Stanford Woods Institute for the Environment"/></a>
 								</figure>
 							</li>
 							<li>
 								<figure>
 									<figcaption>
-									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
-										<p>Viral roof party locavore flexitarian nihil fanny pack actually Odd Future anim commodo. Sunt yr aute, enim quis plaid sartorial duis leggings lo-fi gluten-free. Tote bag flexitarian pug stumptown, Cosby sweater try-hard ethnic scenester. Mumblecore +1 hoodie accusamus skateboard slow-carb, Thundercats Godard placeat craft beer meh enim trust fund.</p>
+									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Extreme Weather</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
+										<p>Does the intensity of this year's hurricane season tell us anything about the occurrence of extreme weather events? David Grossman reports on whether climate change might be having an impact.</p>
 									</figcaption>
-									<img src="./images/large/1.png" alt="img01"/>
+									<a href="https://www.youtube.com/watch?v=wsSxopt_Kn8/?rel=0" target="_blank"><img src="./images/large/video-19.jpg" alt="BBC"/></a>
 								</figure>
 							</li>
 							<li>
