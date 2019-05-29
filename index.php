@@ -16,14 +16,27 @@
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58191121-2"></script>
 		<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
 
-		gtag('config', 'UA-58191121-2');
+			gtag('config', 'UA-58191121-2');
 		</script>
 
+		<script src="javascript/countdown.js"></script>
+
 	</head>
+
+	<style>
+		#timer {
+			color: #fff;
+			font-size: 1.0rem;
+		}
+		.label {
+			font-size: 0.5rem;
+			padding-left: 0.25rem;
+		}
+	</style>
 
 	<body>
 
@@ -39,7 +52,13 @@
 					<img src="images/banner-1.jpg" alt="Desertification" />
 					<div class="inner">
 						<header>
-							<p>Is Climate Change Denial a Crime?</p>
+							<p id="timer">Time until global average temperature rises <b>1.5&#176C</b><br />
+								<span id="timer-years1"></span>
+								<span id="timer-days1"></span>
+								<span id="timer-hours1"></span>
+								<span id="timer-mins1"></span>
+								<span id="timer-secs1"></span>
+							</p>
 							<h2>Rising Temperatures</h2>
 						</header>
 					</div>
@@ -48,7 +67,13 @@
 					<img src="images/banner-2.jpg" alt="Arctic and Antarctic Glacial Melt" />
 					<div class="inner">
 						<header>
-							<p>Is Climate Change Denial  a Crime?</p>
+						<p id="timer">Time until global average temperature rises <b>1.5&#176C</b><br />
+								<span id="timer-years2"></span>
+								<span id="timer-days2"></span>
+								<span id="timer-hours2"></span>
+								<span id="timer-mins2"></span>
+								<span id="timer-secs2"></span>
+							</p>
 							<h2>Melting Glaciers</h2>
 						</header>
 					</div>
@@ -57,7 +82,13 @@
 					<img src="images/banner-3.jpg"  alt="Rising Sea Levels and Flooding" />
 					<div class="inner">
 						<header>
-							<p>Is Climate Change Denial a Crime?</p>
+						<p id="timer">Time until global average temperature rises <b>1.5&#176C</b><br />
+								<span id="timer-years3"></span>
+								<span id="timer-days3"></span>
+								<span id="timer-hours3"></span>
+								<span id="timer-mins3"></span>
+								<span id="timer-secs3"></span>
+							</p>
 							<h2>Rising Sea Levels</h2>
 						</header>
 					</div>
@@ -66,7 +97,13 @@
 					<img src="images/banner-4.jpg"  alt="Extreme Weather - Hurricanes and Tornados" />
 					<div class="inner">
 						<header>
-							<p>Is Climate Change Denial a Crime?</p>
+						<p id="timer">Time until global average temperature rises <b>1.5&#176C</b><br />
+								<span id="timer-years4"></span>
+								<span id="timer-days4"></span>
+								<span id="timer-hours4"></span>
+								<span id="timer-mins4"></span>
+								<span id="timer-secs4"></span>
+							</p>
 							<h2>Ocean Heat Content</h2>
 						</header>
 					</div>
@@ -75,7 +112,13 @@
 					<img src="images/banner-5.jpg"  alt="Wild Fires" />
 					<div class="inner">
 						<header>
-							<p>Is Climate Change Denial a Crime?</p>
+						<p id="timer">Time until global average temperature rises <b>1.5&#176C</b><br />
+								<span id="timer-years5"></span>
+								<span id="timer-days5"></span>
+								<span id="timer-hours5"></span>
+								<span id="timer-mins5"></span>
+								<span id="timer-secs5"></span>
+							</p>
 							<h2>Wild Fires</h2>
 						</header>
 					</div>
@@ -84,7 +127,13 @@
 					<img src="images/banner-7.jpg"  alt="Wild Fires" />
 					<div class="inner">
 						<header>
-							<p>Is Climate Change Denial a Crime?</p>
+						<p id="timer">Time until global average temperature rises <b>1.5&#176C</b><br />
+								<span id="timer-years6"></span>
+								<span id="timer-days6"></span>
+								<span id="timer-hours6"></span>
+								<span id="timer-mins6"></span>
+								<span id="timer-secs6"></span>
+							</p>
 							<h2>Loss of Biodiversity</h2>
 						</header>
 					</div>

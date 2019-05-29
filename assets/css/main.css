@@ -4350,3 +4350,13 @@
 	
 	border:1px solid #aaaaaa;
 }
+
+#timer {
+	color: #fff;
+	font-size: 1.0rem;
+}
+
+.label {
+	font-size: 0.5rem;
+	padding-left: 0.25rem;
+}
