@@ -53,11 +53,13 @@
 					<div class="inner">
 						<header>
 							<p id="timer">Time until global average temperature rises <b>1.5&#176C</b><br />
+							<a target="_blank" style="text-decoration: none" href="https://climateclock.net/">
 								<span id="timer-years1"></span>
 								<span id="timer-days1"></span>
 								<span id="timer-hours1"></span>
 								<span id="timer-mins1"></span>
 								<span id="timer-secs1"></span>
+							</a>
 							</p>
 							<h2>Rising Temperatures</h2>
 						</header>
@@ -68,11 +70,13 @@
 					<div class="inner">
 						<header>
 						<p id="timer">Time until global average temperature rises <b>1.5&#176C</b><br />
+						<a target="_blank" style="text-decoration: none" href="https://climateclock.net/">
 								<span id="timer-years2"></span>
 								<span id="timer-days2"></span>
 								<span id="timer-hours2"></span>
 								<span id="timer-mins2"></span>
 								<span id="timer-secs2"></span>
+							</a>
 							</p>
 							<h2>Melting Glaciers</h2>
 						</header>
@@ -83,11 +87,13 @@
 					<div class="inner">
 						<header>
 						<p id="timer">Time until global average temperature rises <b>1.5&#176C</b><br />
+						<a target="_blank" style="text-decoration: none" href="https://climateclock.net/">
 								<span id="timer-years3"></span>
 								<span id="timer-days3"></span>
 								<span id="timer-hours3"></span>
 								<span id="timer-mins3"></span>
 								<span id="timer-secs3"></span>
+							</a>
 							</p>
 							<h2>Rising Sea Levels</h2>
 						</header>
@@ -98,11 +104,13 @@
 					<div class="inner">
 						<header>
 						<p id="timer">Time until global average temperature rises <b>1.5&#176C</b><br />
+						<a target="_blank" style="text-decoration: none" href="https://climateclock.net/">
 								<span id="timer-years4"></span>
 								<span id="timer-days4"></span>
 								<span id="timer-hours4"></span>
 								<span id="timer-mins4"></span>
 								<span id="timer-secs4"></span>
+							</a>
 							</p>
 							<h2>Ocean Heat Content</h2>
 						</header>
@@ -113,11 +121,13 @@
 					<div class="inner">
 						<header>
 						<p id="timer">Time until global average temperature rises <b>1.5&#176C</b><br />
+						<a target="_blank" style="text-decoration: none" href="https://climateclock.net/">
 								<span id="timer-years5"></span>
 								<span id="timer-days5"></span>
 								<span id="timer-hours5"></span>
 								<span id="timer-mins5"></span>
 								<span id="timer-secs5"></span>
+							</a>
 							</p>
 							<h2>Wild Fires</h2>
 						</header>
@@ -128,11 +138,13 @@
 					<div class="inner">
 						<header>
 						<p id="timer">Time until global average temperature rises <b>1.5&#176C</b><br />
+						<a target="_blank" style="text-decoration: none" href="https://climateclock.net/">
 								<span id="timer-years6"></span>
 								<span id="timer-days6"></span>
 								<span id="timer-hours6"></span>
 								<span id="timer-mins6"></span>
 								<span id="timer-secs6"></span>
+							</a>
 							</p>
 							<h2>Loss of Biodiversity</h2>
 						</header>
@@ -298,9 +310,11 @@
 
 					</div>
 					<div style="text-align: center;"><a style="text-decoration:none;" href="visualizations1.php"><h3>More Visualizations</h3></a></div>
+					
 				</div>
+				
 			</section>
-
+			
 
 		<!-- Footer -->
 		<?php include 'footer.html';?>

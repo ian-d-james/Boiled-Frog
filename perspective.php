@@ -129,6 +129,9 @@
 									<td><a style="color: #000000; text-decoration:none" href="https://themp.org/#group_id=4f98b226e3dfc62b2e000195&section=report" target="_blank">How can ethical considerations become more routinely incorporated into global decisions?</a></td>
 								</tr>
 							</table>
+							<h3>Sense of Urgency </h3>
+							<p></p>
+
 							<h3>An Holistic Approach </h3>
 							<p>While this site focuses on global climate change, there are numerous online resources addressing the other interdependent global challenges outlined above. 
 							   One site of particular interest is <a style="text-decoration:none" href="https://www.resilience.org/about-resilience/">Resilience.org</a>. This site addresses 

@@ -180,26 +180,26 @@
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/video-thumbnail-19.jpg" alt="BBC"/>
-									<figcaption><h3>Extreme Weather</h3><p>Is climate change causing more extreme weather?</p></figcaption>
+									<img src="./images/thumb/video-thumbnail-19.jpg" alt="CarbonBrief"/>
+									<figcaption><h3>Extreme Weather</h3><p>How have past climate models fared?</p></figcaption>
 								</figure>
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/2.png" alt="img02"/>
-									<figcaption><h3>Photo booth skateboard</h3><p>Vinyl squid ex High Life. Paleo Neutra nulla master cleanse, Helvetica et enim nesciunt esse.</p></figcaption>
+								<img src="./images/thumb/video-thumbnail-21.jpg" alt="BBC"/>
+									<figcaption><h3>How Have Past Climate Models Fared?</h3><p>Climate models can be evaluated both on their ability to hindcast past temperatures and forecast future ones.</p></figcaption>
 								</figure>
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/3.png" alt="img03"/>
-									<figcaption><h3>Ex fashion axe</h3><p>Qui nesciunt et, in chia cliche irure. Eu YOLO nihil mollit twee locavore, tempor keytar asymmetrical irure aute sriracha consequat.</p></figcaption>
+									<img src="./images/thumb/video-thumbnail-22.jpg" alt="CNN"/>
+									<figcaption><h3>New Climate Report</h3><p>World governments must take "rapid, far-reaching and unprecedented changes in all aspects of society" to avoid disastrous global warming.</p></figcaption>
 								</figure>
 							</li>
 							<li>
 								<figure>
-									<img src="./images/thumb/4.png" alt="img04"/>
-									<figcaption><h3>Thundercats next level</h3><p>Portland nulla butcher ea XOXO, consequat Bushwick Pinterest elit twee pickled direct trade vero. </p></figcaption>
+								<img src="./images/thumb/video-thumbnail-23.jpg" alt="CNN"/>
+									<figcaption><h3>Climate Models Unreliable?</h3><p>Does recent data support arguments that climate change model predictions are unreliable?</p></figcaption>
 								</figure>
 							</li>
 							<li>
@@ -392,30 +392,28 @@
 							<li>
 								<figure>
 									<figcaption>
-									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
-										<p>Culpa pour-over cray nesciunt dreamcatcher. Meggings distillery cillum raw denim voluptate, single-origin coffee lo-fi ethical iPhone four loko nihil salvia. Biodiesel ea Intelligentsia quis deep v, American Apparel trust fund slow-carb synth semiotics quinoa Brooklyn pour-over nulla Godard.</p>
+									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Climate Models</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
+										<p>How have past climate models fared? Climate models can be evaluated both on their ability to hindcast past temperatures and forecast future ones.</p>
 									</figcaption>
-									<img src="./images/large/2.png" alt="img02"/>
+									<a href="https://www.instagram.com/p/BZ38rf7F3al/" target="_blank"><img src="./images/large/video-21.jpg" alt="CarbonBrief"/></a>
 								</figure>
 							</li>
 							<li>
 								<figure>
 									<figcaption>
-									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
-										<p>Bespoke irony tousled nihil flexitarian, salvia tempor nostrud Bushwick hashtag Austin ethnic disrupt. Beard Helvetica nihil, chia craft beer Wes Anderson keytar dolore. Irure incididunt flexitarian photo booth cillum, YOLO deserunt Brooklyn artisan. Brunch assumenda irony, Blue Bottle roof party DIY ullamco quis.</p>
+									<h3 style="margin-bottom:-12px; padding-bottom:0px;">New Climate Report</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
+										<p>Governments around the world must take "rapid, far-reaching and unprecedented changes in all aspects of society" to avoid disastrous levels of global warming</p>
 									</figcaption>
-									<img src="./images/large/3.png" alt="img03"/>
+									<a href="https://www.cnn.com/videos/world/2018/10/08/climate-change-ipcc-report-changes-needed-cabrera-live-vpx.cnn" target="_blank"><img src="./images/large/video-22.jpg" alt="CNN"/></a>
 								</figure>
 							</li>
 							<li>
 								<figure>
 									<figcaption>
-									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Video Title</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-										tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-										quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.</p>
+									<h3 style="margin-bottom:-12px; padding-bottom:0px;">Are Climate Models Proving Unreliable?</h3><span style="font-weight: bold; font-size:12px;">Click to view</span>
+										<p>Many climate change deniers argue that the predictions made by climate change models are unreliable, don't match up with the observations, and oftentimes vastly overestimate the rate of warming and the associated consequences.</p>
 									</figcaption>
-									<img src="./images/large/4.png" alt="img04"/>
+									<a href="https://youtu.be/oGMPNrrZ7mU/?rel=0" target="_blank"><img src="./images/large/video-23.jpg" alt="A Skeptical Human"/></a>
 								</figure>
 							</li>
 							<li>

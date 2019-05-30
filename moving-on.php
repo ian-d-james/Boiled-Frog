@@ -82,6 +82,8 @@
 								<a style="margin-right:50px;" target="_blank" href="../assets/content/Supplementary Information.pdf"><img src="../images/pdf.png"></a><a target="_blank" href="../assets/content/Data.pdf"><img src="../images/pdf.png"></a>
 							</div></p>
 
+							<p>In fact, the consensus is growing and is likely much higher. A more recent publication by <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/0270467617707079">James Lawrence Powell</a> which surveyed 54,195 peer-reviewed articles from 1991 to 2015 had a an average consensus of 99.94%.</p>
+
 							<p>But is <a target="_blank" href="https://climate.nasa.gov/scientific-consensus/">consensus</a> a good basis for scientific decision making? A strong skeptic of global warming, author Michael Crichton offered the following opinion taken from his 
 							   environmental and global warming <a target="_blank" href="../assets/content/crichton_3.pdf">essays</a> written in 2009:</p>
 
