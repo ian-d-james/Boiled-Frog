@@ -112,7 +112,7 @@
 								<span id="timer-secs4"></span>
 							</a>
 							</p>
-							<h2>Ocean Heat Content</h2>
+							<h2>Tropical Storms</h2>
 						</header>
 					</div>
 				</article>
