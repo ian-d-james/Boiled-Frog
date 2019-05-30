@@ -130,8 +130,16 @@
 								</tr>
 							</table>
 							<h3>Sense of Urgency </h3>
-							<p></p>
-
+							<p>While Americans increasingly acknowledge global warming and climate change, many still don't understand the immediacy of this growing existential threat. A recent <a target="_blank" href="https://news.gallup.com/poll/244367/top-issues-voters-healthcare-economy-immigration.aspx">
+							Gallop</a> poll revealed that American voters rated climate change as their <b>11th</b> most important issue when voting.</p>
+							<div><img style="display:block; margin-right:auto; margin-left:auto; margin-bottom:30px;" src="../images/issue-priority.jpg" alt="Gallup" /></div>	
+							<p>Issue perception, of course, is strongly influenced by media attention and bias. 
+							Mainstream media plays a significant role in shaping public awareness as well as framing political narratives on key issues. What media covers, what it chooses not to cover, how stories are reported, and the relative priority a 
+							story is given are all critical factors in public engagement.</p>
+							<div><img style="float:left; margin-right:30px; margin-bottom:30px;" src="../images/greta-thunberg.jpg" alt="Greta Thunberg" /></div>
+							<p>Ultimately though, it the responsibility of every individual to research and better understand the issue. To engage, discuss and influence family, friends, neighbors, educators and politicians. Governments need to make climate 
+								change action their top policy priority. While some leaders start to recognize and address the issue, many others still need to be convinced or removed. 
+								</p>
 							<h3>An Holistic Approach </h3>
 							<p>While this site focuses on global climate change, there are numerous online resources addressing the other interdependent global challenges outlined above. 
 							   One site of particular interest is <a style="text-decoration:none" href="https://www.resilience.org/about-resilience/">Resilience.org</a>. This site addresses 
