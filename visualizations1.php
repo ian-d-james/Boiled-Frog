@@ -75,7 +75,7 @@
   .play-time {
     display:block; 
     color:gray; 
-    font-size: 11px; 
+    font-size: 12px; 
     margin-top: -6px; 
     margin-bottom: -2px;
   }
@@ -166,7 +166,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-3.jpg" />
-                  <b>GOOD Magazine</b> <div class="play-time">01:52</div>
+                  <b>GOOD Magazine</b> <div class="play-time">Play Time: 01:52</div>
                 </div> 
 
                 <div>
@@ -184,7 +184,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-4.jpg" />
-                  <b>NASA</b> <div class="play-time">00:41</div>
+                  <b>NASA</b> <div class="play-time">Play Time: 00:41</div>
                 </div> 
 
                 <div>
@@ -203,7 +203,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-5.jpg" />
-                  <b>Neil DeGrasse Tyson</b> <div class="play-time">03:59</div>
+                  <b>Neil DeGrasse Tyson</b> <div class="play-time">Play Time: 03:59</div>
                 </div> 
 
                 <div>
@@ -222,7 +222,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-6.jpg" />
-                  <b>Antti Lipponen</b> <div class="play-time">00:34</div>
+                  <b>Antti Lipponen</b> <div class="play-time">Play Time: 00:34</div>
                 </div> 
 
                 <div>
@@ -241,7 +241,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-7.jpg" />
-                  <b>Antti Lipponen</b> <div class="play-time">00:36</div>
+                  <b>Antti Lipponen</b> <div class="play-time">Play Time: 00:36</div>
                 </div> 
 
                 <div>
@@ -260,7 +260,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-8.jpg" />
-                  <b>Potsdam Institute for Climate Impact Research</b> <div class="play-time">08:16</div>
+                  <b>Potsdam Institute for Climate Impact Research</b> <div class="play-time">Play Time: 08:16</div>
                 </div> 
 
                 <div>
@@ -279,7 +279,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-9.jpg" />
-                  <b>NASA</b> <div class="play-time">00:56</div>
+                  <b>NASA</b> <div class="play-time">Play Time: 00:56</div>
                 </div> 
 
                 <div>
@@ -298,7 +298,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-10.jpg" />
-                  <b>PBS News Hour</b> <div class="play-time">10:09</div>
+                  <b>PBS News Hour</b> <div class="play-time">Play Time: 10:09</div>
                 </div> 
 
                 <div>
@@ -317,7 +317,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-11.jpg" />
-                  <b>NASA</b> <div class="play-time">02:32</div>
+                  <b>NASA</b> <div class="play-time">Play Time: 02:32</div>
                 </div> 
 
                 <div>
@@ -336,7 +336,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-12.jpg" />
-                  <b>Arizona State University</b> <div class="play-time">00:22</div>
+                  <b>Arizona State University</b> <div class="play-time">Play Time: 00:22</div>
                 </div> 
 
                 <div>
@@ -357,7 +357,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-13.jpg" />
-                  <b>Arizona State University</b> <div class="play-time">02:34</div>
+                  <b>Arizona State University</b> <div class="play-time">Play Time: 02:34</div>
                 </div> 
 
                 <div>
@@ -376,7 +376,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-25.jpg" />
-                  <b>Google</b> <div class="play-time">00:22</div>
+                  <b>Google</b> <div class="play-time">Play Time: 00:22</div>
                 </div> 
 
                 <div>
@@ -395,7 +395,7 @@
 
                 <div class="visualizations">
                   <img style="float:left; border:1px solid gray; height:130px; width:130px; margin-right:10px;" src="./images/visualizations-thumbnail-27.jpg" />
-                  <b>Carbon Pricing Leadership Coalition</b> <div class="play-time">01:57</div>
+                  <b>Carbon Pricing Leadership Coalition</b> <div class="play-time">Play Time: 01:57</div>
                 </div> 
 
                 <div>
